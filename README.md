@@ -1,6 +1,6 @@
 # BeerJS Moscow
 
-**Usual time**: every Thursday at 8 PM.  
+**Usual time**: every Thursday at 8 PM. :beers:  
 **Usual place**: PivBar ([Москва, ул. 1-я Тверская-Ямская, 2, стр. 1](https://maps.yandex.ru/org/1331349139)).
 
 The meetup is growing and the PivBar is becoming an inconvenient place to meet: too crowded, way too loud, no non-alcoholic beverages, no table booking.
