@@ -8,7 +8,7 @@ The meetup is growing and the PivBar is becoming an inconvenient place to meet: 
 
 We will try other places to find a most suitable one. [Chayhona 1](https://maps.yandex.ru/org/1399830928) has been a huge success in terms of group talk comfort, but it totally lacks tasty beer.
 
-No gang hierarchy or place choice routine have been established yet. For now, it's pretty spontaneous and is typcally being decided in the [MoscowJS Gitter chatroom](https://gitter.im/MoscowJS/chat). Also, [this discussion thread](https://github.com/beerjs/moscow/issues/2) exists.
+No gang hierarchy or place choice routine have been established yet. For now, it's pretty spontaneous and is typcally being decided in the [BeerJS Moscow Gitter chatroom](https://gitter.im/beerjs/moscow). Also, [this discussion thread](https://github.com/beerjs/moscow/issues/2) exists.
 
 For actual info on time and place, please use our [Meetup.com page](http://www.meetup.com/BeerJS-Moscow/). For admin access to the Meetup.com page, contact [lolmaus](https://github.com/lolmaus/).
 
