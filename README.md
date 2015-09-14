@@ -1,6 +1,9 @@
 # BeerJS Moscow
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/beerjs/moscow?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
+[![Join the chat at https://gitter.im/beerjs/moscow](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/beerjs/moscow?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/beerjs/moscow?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 **Usual time**: every Thursday at 8 PM. :beers:  
 **Usual place**: PivBar ([Москва, ул. 1-я Тверская-Ямская, 2, стр. 1](https://maps.yandex.ru/org/1331349139)).
 
