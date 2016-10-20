@@ -4,6 +4,6 @@
 
 **Usual time**: every Thursday at 8 PM. :beers:
 
-For actual info on time and place, please use our [Meetup.com page](http://www.meetup.com/BeerJS-Moscow/). For admin access to the Meetup.com page, contact [lolmaus](https://github.com/lolmaus/).
+For actual info on time and place, please use our [Meetup.com page](http://www.meetup.com/BeerJS-Moscow/).
 
 
