@@ -65,6 +65,12 @@ module.exports.index = function index(context) {
 	}
 	</style>
 	${gtm(context)}
+	<meta property="og:title" content="BeerJS Moscow">
+	<meta property="og:type" content="website">
+	<meta property="og:url" content="https://beerjs.moscow/">
+	<meta property="og:image" content="https://beerjs.moscow/og.png">
+	<meta property="og:description" content="Московское сообщество любителей пива и JavaScript">
+	<meta property="og:locale" content="ru_RU">
 </head>
 <body>
 	<main>
