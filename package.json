@@ -1,0 +1,18 @@
+{
+  "name": "beerjs.moscow",
+  "version": "1.0.0",
+  "description": "BeerJS Moscow Website",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vslinko/beerjs.moscow.git"
+  },
+  "author": "Viacheslav Slinko <vslinko@yahoo.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vslinko/beerjs.moscow/issues"
+  },
+  "homepage": "https://beerjs.moscow",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
