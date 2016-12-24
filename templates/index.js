@@ -16,7 +16,33 @@ function ga(context) {
 		script.src = 'https://www.google-analytics.com/analytics.js';
 		document.getElementsByTagName('script')[0].parentNode.appendChild(script);
 	})();
-</script>`
+	</script>`
+	);
+}
+
+function ym(context) {
+	return (
+`<script nonce="${context.nonce('script-src')}">
+	(function() {
+		window.yandex_metrika_callbacks = [
+			function() {
+				try {
+					window.yaCounter41805634 = new Ya.Metrika({
+						id: 41805634,
+						clickmap: true,
+						trackLinks: true,
+						accurateTrackBounce: true,
+						webvisor: true,
+					});
+				} catch(e) {}
+			},
+		];
+		var script = document.createElement('script');
+		script.async = true;
+		script.src = 'https://mc.yandex.ru/metrika/watch.js';
+		document.getElementsByTagName('script')[0].parentNode.appendChild(script);
+	})();
+	</script>`
 	);
 }
 
@@ -68,6 +94,7 @@ module.exports.index = function index(context) {
 		padding: 32px;
 	}
 	</style>
+	${ym(context)}
 	${ga(context)}
 	<meta property="og:title" content="BeerJS Moscow">
 	<meta property="og:type" content="website">

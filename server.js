@@ -10,9 +10,10 @@ app.use(express.static(path.join(__dirname, 'assets')));
 app.get('/', (req, res) => {
 	const csp = {
 		'default-src': `'self'`,
-		'script-src': `'self' https://www.googletagmanager.com https://www.google-analytics.com`,
+		'script-src': `'self' https://www.google-analytics.com https://mc.yandex.ru`,
 		'style-src': `'self'`,
-		'img-src': `'self' https://www.google-analytics.com`,
+		'img-src': `'self' https://www.google-analytics.com https://mc.yandex.ru`,
+		'connect-src': `'self' https://mc.yandex.ru`
 	};
 
 	const nonce = (type) => {
@@ -27,7 +28,7 @@ app.get('/', (req, res) => {
 
 	res.set(
 		'Content-Security-Policy',
-		`default-src ${csp['default-src']}; script-src ${csp['script-src']}; style-src ${csp['style-src']}; img-src ${csp['img-src']}`
+		`default-src ${csp['default-src']}; script-src ${csp['script-src']}; style-src ${csp['style-src']}; img-src ${csp['img-src']}; connect-src ${csp['connect-src']}`
 	);
 
 	res.send(html)
