@@ -1,3 +1,21 @@
+function gtm(context) {
+	return (
+`<!-- Google Tag Manager -->
+	<script nonce="${context.nonce('script-src')}">
+	(function(){
+		window.dataLayer = [
+			{'gtm.start': new Date().getTime()},
+		];
+		var script = document.createElement('script');
+		script.async = true;
+		script.src = 'https://www.googletagmanager.com/gtm.js?id=GTM-5GK49WV';
+		document.getElementsByTagName('script')[0].parentNode.appendChild(script);
+	})();
+	</script>
+	<!-- End Google Tag Manager -->`
+	);
+}
+
 module.exports.index = function index(context) {
 	return (
 `<!DOCTYPE html>
@@ -14,7 +32,7 @@ module.exports.index = function index(context) {
 	<link rel="mask-icon" href="safari-pinned-tab.svg">
 	<meta name="description" content="Московское сообщество любителей пива и JavaScript">
 	<meta name="keywords" content="beerjs moscow javascript">
-	<style nonce="${context.nonce}">
+	<style nonce="${context.nonce('style-src')}">
 	html {
 		background-color: #f3df49;
 		height: 100%;
@@ -46,6 +64,7 @@ module.exports.index = function index(context) {
 		padding: 32px;
 	}
 	</style>
+	${gtm(context)}
 </head>
 <body>
 	<main>
