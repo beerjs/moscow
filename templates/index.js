@@ -1,4 +1,6 @@
-<!DOCTYPE html>
+module.exports.index = function index(context) {
+	return (
+`<!DOCTYPE html>
 <html lang="ru">
 <head>
 	<meta charset="utf-8">
@@ -9,10 +11,10 @@
 	<link rel="icon" type="image/png" href="favicon-32x32.png" sizes="32x32">
 	<link rel="icon" type="image/png" href="favicon-16x16.png" sizes="16x16">
 	<link rel="manifest" href="manifest.json">
-	<link rel="mask-icon" href="safari-pinned-tab.svg" color="#f3df49">
+	<link rel="mask-icon" href="safari-pinned-tab.svg">
 	<meta name="description" content="Московское сообщество любителей пива и JavaScript">
 	<meta name="keywords" content="beerjs moscow javascript">
-	<style nonce="QmVlckpTIE1vc2Nvdw==">
+	<style nonce="${context.nonce}">
 	html {
 		background-color: #f3df49;
 		height: 100%;
@@ -51,3 +53,6 @@
 	</main>
 </body>
 </html>
+`
+	);
+}
