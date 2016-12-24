@@ -28,7 +28,7 @@ module.exports.index = function index(context) {
 	<meta charset="utf-8">
 	<title>BeerJS Moscow</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="theme-color" content="#f3df49">
+	<meta name="theme-color" content="#fbde34">
 	<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
 	<link rel="icon" type="image/png" href="favicon-32x32.png" sizes="32x32">
 	<link rel="icon" type="image/png" href="favicon-16x16.png" sizes="16x16">
@@ -38,7 +38,7 @@ module.exports.index = function index(context) {
 	<meta name="keywords" content="beerjs, moscow, javascript">
 	<style nonce="${context.nonce('style-src')}">
 	html {
-		background-color: #f3df49;
+		background-color: #fbde34;
 		height: 100%;
 	}
 
