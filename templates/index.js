@@ -31,7 +31,7 @@ module.exports.index = function index(context) {
 	<link rel="manifest" href="manifest.json">
 	<link rel="mask-icon" href="safari-pinned-tab.svg">
 	<meta name="description" content="Московское сообщество любителей пива и JavaScript">
-	<meta name="keywords" content="beerjs moscow javascript">
+	<meta name="keywords" content="beerjs, moscow, javascript">
 	<style nonce="${context.nonce('style-src')}">
 	html {
 		background-color: #f3df49;
