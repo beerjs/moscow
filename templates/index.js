@@ -71,6 +71,13 @@ module.exports.index = function index(context) {
 	<meta property="og:image" content="https://beerjs.moscow/og.png">
 	<meta property="og:description" content="Московское сообщество любителей пива и JavaScript">
 	<meta property="og:locale" content="ru_RU">
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:site" content="@beerjs_moscow">
+	<meta name="twitter:title" content="BeerJS Moscow">
+	<meta name="twitter:description" content="Московское сообщество любителей пива и JavaScript">
+	<meta name="twitter:image" content="https://beerjs.moscow/twitter.png">
+	<meta name="twitter:image:width" content="876">
+	<meta name="twitter:image:height" content="440">
 </head>
 <body>
 	<main>
