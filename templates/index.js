@@ -1,18 +1,22 @@
-function gtm(context) {
+function ga(context) {
 	return (
-`<!-- Google Tag Manager -->
-	<script nonce="${context.nonce('script-src')}">
+`<script nonce="${context.nonce('script-src')}">
 	(function(){
-		window.dataLayer = [
-			{'gtm.start': new Date().getTime()},
+		window.GoogleAnalyticsObject = 'ga';
+		window.ga = function() {
+			window.ga.q.push(arguments);
+		};
+		window.ga.l = new Date().getTime();
+		window.ga.q = [
+			['create', 'UA-89444724-1', 'auto'],
+			['send', 'pageview'],
 		];
 		var script = document.createElement('script');
 		script.async = true;
-		script.src = 'https://www.googletagmanager.com/gtm.js?id=GTM-5GK49WV';
+		script.src = 'https://www.google-analytics.com/analytics.js';
 		document.getElementsByTagName('script')[0].parentNode.appendChild(script);
 	})();
-	</script>
-	<!-- End Google Tag Manager -->`
+</script>`
 	);
 }
 
@@ -64,7 +68,7 @@ module.exports.index = function index(context) {
 		padding: 32px;
 	}
 	</style>
-	${gtm(context)}
+	${ga(context)}
 	<meta property="og:title" content="BeerJS Moscow">
 	<meta property="og:type" content="website">
 	<meta property="og:url" content="https://beerjs.moscow/">
