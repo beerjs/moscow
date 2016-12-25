@@ -92,6 +92,7 @@ module.exports.index = function index(context) {
 		height: 100%;
 		max-width: 344px;
 		padding: 32px;
+		z-index: 2;
 	}
 	</style>
 	${ym(context)}
@@ -109,6 +110,7 @@ module.exports.index = function index(context) {
 	<meta name="twitter:image" content="https://beerjs.moscow/twitter.png">
 	<meta name="twitter:image:width" content="876">
 	<meta name="twitter:image:height" content="440">
+	<script async defer src="/bubbles.js"></script>
 </head>
 <body>
 	<main>
