@@ -9,9 +9,9 @@ For actual info on time and place, please use our [Meetup.com page](http://www.m
 
 verion  | place                                                       | date             
 --------|-------------------------------------------------------------|------------------
-0.alpha | [PivBar](https://www.facebook.com/pivbar1)                  | 18 June 2016     
-0.beta  | [PivBar](https://www.facebook.com/pivbar1)                  | 02 July 2016     
-1       | [PivBar](https://www.facebook.com/pivbar1)                  | 06 August 2016   
+0.alpha | [PivBar](https://www.facebook.com/pivbar1)                  | 18 June 2015     
+0.beta  | [PivBar](https://www.facebook.com/pivbar1)                  | 02 July 2015     
+1       | [PivBar](https://www.facebook.com/pivbar1)                  | 06 August 2015   
 2       | [Pilligrim](https://vk.com/piligrimpivnoy)                  | 20 August 2015   
 3       | [HopHead](http://www.hophead.ru)                            | 03 September 2015
 4       | [Craft (Piter)](http://craftpub.ru/)                        | 10 October 2015  
