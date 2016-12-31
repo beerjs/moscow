@@ -9,6 +9,7 @@ For actual info on time and place, please use our [Meetup.com page](http://www.m
 
 verion  | place                                                       | date             
 --------|-------------------------------------------------------------|------------------
+0.pilot | [Gastropub](http://nashabolovke.ru/gastropub)               | 25 December 2014
 0.alpha | [PivBar](https://www.facebook.com/pivbar1)                  | 18 June 2015     
 0.beta  | [PivBar](https://www.facebook.com/pivbar1)                  | 02 July 2015     
 1       | [PivBar](https://www.facebook.com/pivbar1)                  | 06 August 2015   
