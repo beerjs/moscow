@@ -30,4 +30,4 @@ verion  | place                                                       | date
 16      | [EricTheRed](http://ericthered.ru)                          | 20 October 2016  
 17      | [EricTheRed](http://ericthered.ru)                          | 10 November 2016 
 18      | [BeerCraftBar](https://www.facebook.com/BeerCraftBar)       | 22 December 2016 
-
+19      | [BarCraft](http://bar-craft.com/)                           | 12 January 2017
