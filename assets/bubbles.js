@@ -116,6 +116,7 @@
 				button.style.backgroundColor = configs[configName].backgroundColor;
 				button.style.width = '25px';
 				button.style.height = '25px';
+				button.style.outline = 'none';
 				button.style.cursor = 'pointer';
 				button.addEventListener('click', function() {
 					_changeConfig(configs[configName]);
