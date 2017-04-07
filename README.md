@@ -34,3 +34,4 @@ verion  | place                                                       | date
 20      | [PivBar2](https://www.facebook.com/pivbarch)                | 26 January 2017
 21      | [White Eagles Pub](http://we-pub.ru) / [Craft Station](https://craftstation.ru) | 09 February 2017
 22      | [Fcking Craft Pub](https://www.facebook.com/fcpub)          | 02 March 2017
+23      | [ProgressCoffeeCraft](https://www.facebook.com/progresscoffeecraft) | 23 March 2017
