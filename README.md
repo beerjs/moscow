@@ -7,7 +7,7 @@ For actual info on time and place, please use our [Meetup.com page](http://www.m
 
 ## Releases
 
-version  | place                                                       | date             
+verion  | place                                                       | date             
 --------|-------------------------------------------------------------|------------------
 0.pilot | [Gastropub](http://nashabolovke.ru/gastropub)               | 25 December 2014
 0.alpha | [PivBar](https://www.facebook.com/pivbar1)                  | 18 June 2015     
@@ -36,3 +36,4 @@ version  | place                                                       | date
 22      | [Fcking Craft Pub](https://www.facebook.com/fcpub)          | 02 March 2017
 23      | [ProgressCoffeeCraft](https://www.facebook.com/progresscoffeecraft) | 23 March 2017
 24      | [EricTheRed](http://ericthered.ru)                          | 20 April 2017      
+25      | [LosBandidos](https://vk.com/los_bandidos_bar)              | 29 June 2017      
