@@ -40,3 +40,4 @@ Version | Place                                                       | Date
 26      | [Parka](https://vk.com/parkabar)                            | 08 June 2017
 27      | [LosBandidos](https://vk.com/los_bandidos_bar)              | 29 June 2017
 28      | [PticaSinicaPub](https://www.facebook.com/pticasinicapub)   | 13 July 2017
+29      | [Fcking Craft Pub](https://www.facebook.com/fcpub)          | 10 August 2017
