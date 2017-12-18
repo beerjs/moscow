@@ -42,3 +42,6 @@ Version | Place                                                       | Date
 28      | [PticaSinicaPub](https://www.facebook.com/pticasinicapub)   | 13 July 2017
 29      | [Fcking Craft Pub](https://www.facebook.com/fcpub)          | 10 August 2017
 30      | [BarCraft](http://bar-craft.com/)                           | 21 September 2017
+31      | [PticaSinicaPub](https://www.facebook.com/pticasinicapub)   | 19 October 2017
+32      | [VetkaBar](https://www.facebook.com/vetkabar)               | 9 November 2017
+33      | [WhiteEaglesPub](https://vk.com/we_pub)                     | 30 November 2017
