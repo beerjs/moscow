@@ -1,0 +1,3 @@
+Sitemap: https://beerjs.moscow/sitemap.xml
+User-agent: *
+Allow: /
