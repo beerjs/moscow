@@ -47,3 +47,10 @@ For actual info on time and place, please use our [Meetup.com page](http://www.m
 | 32      | [VetkaBar](https://www.facebook.com/vetkabar)                                   | 9 November 2017   |
 | 33      | [WhiteEaglesPub](https://vk.com/we_pub)                                         | 30 November 2017  |
 | 34      | [EricTheRed](http://ericthered.ru)                                              | 21 December 2017  |
+| 35      | [Craft Station](https://craftstation.ru)                                        | 28 December 2017  |
+| 36      | [VetkaBar](https://www.facebook.com/vetkabar/)                                  | 18 January 2018   |
+| 37      | [КрафтЪ22](http://www.kraft22.su)                                               | 25 January 2018   |
+| 38      | [Voлчья Sтая](https://www.facebook.com/volchyastaya)                            | 15 March 2018     |
+| 39      | [WhiteEaglesPub](https://vk.com/we_pub)                                         | 19 April 2018     |
+| 40      | [PticaSinicaPub](https://www.facebook.com/pticasinicapub)                       | 24 May 2018       |
+| 41      | [Parka](https://vk.com/parkabar)                                                | 21 June 2018      |
