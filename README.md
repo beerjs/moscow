@@ -54,3 +54,5 @@ For actual info on time and place, please use our [Meetup.com page](http://www.m
 | 39      | [WhiteEaglesPub](https://vk.com/we_pub)                                         | 19 April 2018     |
 | 40      | [PticaSinicaPub](https://www.facebook.com/pticasinicapub)                       | 24 May 2018       |
 | 41      | [Parka](https://vk.com/parkabar)                                                | 21 June 2018      |
+| 42      | [EricTheRed](http://ericthered.ru)                                              | 4 October 2018  |
+| 43      | [Frakcia](http://frkc.ru/)                                                      | 11 October 2018  |
