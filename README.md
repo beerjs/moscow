@@ -20,7 +20,7 @@
 | 111 | March 31, 2022     | Los Bandidos               |
 | 110 | February 24, 2022  | Method Beer & Munchies     |
 | 109 | February 17, 2022  | Эрик Рыжий                 |
-| 108 | February 10, 2022  | Парка                      |
+| 108 | February 10, 2022  | Парка, Моряк и чайка, караоке Весна |
 | 107 | January 6, 2022    | Los Bandidos               |
 | 106 | December 23, 2021  | Pivbar                     |
 | 105 | December 2, 2021   | One More Pub               |
