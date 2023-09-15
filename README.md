@@ -8,6 +8,7 @@
 
 | #   | Date               | Place                               | Comment                |
 |-----|--------------------|-------------------------------------|------------------------|
+| 136 | September 14, 2023 | Белфаст                             |                        |
 | 135 | August 31, 2023    | Bijou                               | CoctailJS              |
 | 134 | August 24, 2023    | Beersenev Bar                       | MoscowJS 54 Afterparty |
 | 133 | August 10, 2023    | Howard Loves Craft                  |                        |
