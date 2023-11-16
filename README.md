@@ -8,6 +8,10 @@
 
 | #   | Date               | Place                               | Comment                |
 |-----|--------------------|-------------------------------------|------------------------|
+| 140 | October 19, 2023   | Støy!                               |                        |
+| 139 | October 05, 2023   | Howard Loves Craft                  |                        |
+| 138 | September 28, 2023 | Beermood                            | MoscowCSS Afterparty   |
+| 137 | September 21, 2023 | Støy!                               |                        |
 | 136 | September 14, 2023 | Белфаст                             |                        |
 | 135 | August 31, 2023    | Bijou                               | CoctailJS              |
 | 134 | August 24, 2023    | Beersenev Bar                       | MoscowJS 54 Afterparty |
