@@ -8,6 +8,7 @@
 
 | #   | Date               | Place                               | Comment                |
 |-----|--------------------|-------------------------------------|------------------------|
+| 141 | December 21, 2023  | Howard Loves Craft                  |                        |
 | 140 | October 19, 2023   | Støy!                               |                        |
 | 139 | October 05, 2023   | Howard Loves Craft                  |                        |
 | 138 | September 28, 2023 | Beermood                            | MoscowCSS Afterparty   |
