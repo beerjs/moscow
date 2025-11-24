@@ -50,11 +50,8 @@ function formatDate(dateString) {
 function escapeHtml(text) {
   if (!text) return '';
   return String(text)
-    .replace(/&/g, '&amp;')
     .replace(/</g, '&lt;')
-    .replace(/>/g, '&gt;')
-    .replace(/"/g, '&quot;')
-    .replace(/'/g, '&#039;');
+    .replace(/>/g, '&gt;');
 }
 
 function formatMarkdownTable(records) {
@@ -64,8 +61,11 @@ function formatMarkdownTable(records) {
     return numB - numA;
   });
   
-  let table = '| #   | Date                | Place                      | Comment              |\n';
-  table += '|-----|---------------------|----------------------------|----------------------|\n';
+  let maxNumberLength = 3;
+  let maxDateLength = 20;
+  let maxPlaceLength = 6;
+  let maxCommentLength = 7;
+  const processedRecords = [];
   
   for (const record of sortedRecords) {
     const fields = record.fields;
@@ -74,20 +74,41 @@ function formatMarkdownTable(records) {
       continue;
     }
     
-    const number = fields.ID || '';
+    const number = String(fields.ID || '');
     const date = formatDate(fields.date || '');
     const заголовок = fields['Заголовок'] || '';
     const place = заголовок.includes(',') ? заголовок.split(', ').slice(1).join(', ') : '';
-    
     let comment = escapeHtml(fields.comment || '');
     comment = comment.replace(/\n/g, ' ').replace(/\r/g, '').trim();
     
-    const numberStr = String(number || '').padEnd(4);
-    const dateStr = (date || '').padEnd(20);
-    const placeStr = (escapeHtml(place) || '').padEnd(27);
-    const commentStr = (comment || '').padEnd(20);
+    if (number.length > maxNumberLength) maxNumberLength = number.length;
+    if (date.length > maxDateLength) maxDateLength = date.length;
+    if (escapeHtml(place).length > maxPlaceLength) maxPlaceLength = escapeHtml(place).length;
+    if (comment.length > maxCommentLength) maxCommentLength = comment.length;
     
-    table += `| ${numberStr} | ${dateStr} | ${placeStr} | ${commentStr} |\n`;
+    processedRecords.push({
+      number: number,
+      date: date,
+      place: place,
+      comment: comment
+    });
+  }
+  
+  const numberHeader = '#   '.padEnd(maxNumberLength + 1);
+  const dateHeader = 'Date'.padEnd(maxDateLength);
+  const placeHeader = 'Place'.padEnd(maxPlaceLength);
+  const commentHeader = 'Comment'.padEnd(maxCommentLength);
+  
+  let table = `| ${numberHeader}| ${dateHeader} | ${placeHeader} | ${commentHeader} |\n`;
+  table += `|${'-'.repeat(maxNumberLength + 2)}|${'-'.repeat(maxDateLength + 2)}|${'-'.repeat(maxPlaceLength + 2)}|${'-'.repeat(maxCommentLength + 2)}|\n`;
+  
+  for (const record of processedRecords) {
+    const numberStr = (record.number || '').padEnd(maxNumberLength + 1);
+    const dateStr = (record.date || '').padEnd(maxDateLength);
+    const placeStr = (escapeHtml(record.place) || '').padEnd(maxPlaceLength);
+    const commentStr = (record.comment || '').padEnd(maxCommentLength);
+    
+    table += `| ${numberStr}| ${dateStr} | ${placeStr} | ${commentStr} |\n`;
   }
   
   return table;
