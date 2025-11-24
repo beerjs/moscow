@@ -1,3 +1,5 @@
+require('dotenv').config();
+
 const Airtable = require('airtable');
 const fs = require('fs');
 const path = require('path');
@@ -7,11 +9,17 @@ const AIRTABLE_API_KEY = process.env.AIRTABLE_API_KEY;
 
 if (!AIRTABLE_API_KEY) {
   console.error('Error: AIRTABLE_API_KEY is not set');
-  console.error('Set it with: export AIRTABLE_API_KEY="your_api_key"');
+  console.error('\nTo run locally, set the environment variable:');
+  console.error('  export AIRTABLE_API_KEY="your_token_here"');
+  console.error('  npm run sync');
+  console.error('\nOr run in one line:');
+  console.error('  AIRTABLE_API_KEY="your_token_here" npm run sync');
+  console.error('\nTo get token: https://airtable.com/create/tokens');
   process.exit(1);
 }
 
-const base = new Airtable({ apiKey: AIRTABLE_API_KEY }).base(AIRTABLE_BASE_ID);
+Airtable.configure({ apiKey: AIRTABLE_API_KEY });
+const base = Airtable.base(AIRTABLE_BASE_ID);
 const TABLE_NAME = process.env.AIRTABLE_TABLE_NAME || 'Releases';
 
 function formatDate(dateString) {
@@ -38,140 +46,82 @@ function formatDate(dateString) {
   return `${day} ${month} ${year} г.`;
 }
 
+
 function escapeHtml(text) {
   if (!text) return '';
   return String(text)
-    .replace(/&/g, '&amp;')
     .replace(/</g, '&lt;')
-    .replace(/>/g, '&gt;')
-    .replace(/"/g, '&quot;')
-    .replace(/'/g, '&#039;');
+    .replace(/>/g, '&gt;');
 }
 
 function formatMarkdownTable(records) {
   const sortedRecords = records.sort((a, b) => {
-    const numA = parseInt(a.fields.Number || a.fields['#'] || 0);
-    const numB = parseInt(b.fields.Number || b.fields['#'] || 0);
+    const numA = parseInt(a.fields.ID || 0);
+    const numB = parseInt(b.fields.ID || 0);
     return numB - numA;
   });
   
-  let table = '| #   | Date                | Place                      | Comment              |\n';
-  table += '|-----|---------------------|----------------------------|----------------------|\n';
+  let maxNumberLength = 3;
+  let maxDateLength = 20;
+  let maxPlaceLength = 6;
+  let maxCommentLength = 7;
+  const processedRecords = [];
   
   for (const record of sortedRecords) {
     const fields = record.fields;
     
-    const number = fields.Number || fields['#'] || fields.ID || '';
-    const date = formatDate(fields.Date || fields['Дата'] || fields.Date || '');
-    const place = escapeHtml(fields.Place || fields['Место'] || fields.Venue || '');
-    const comment = escapeHtml(fields.Comment || fields['Комментарий'] || fields.Note || '');
+    if (!fields.date || !fields['Заголовок']) {
+      continue;
+    }
     
-    const numberStr = String(number).padEnd(4);
-    const dateStr = date.padEnd(20);
-    const placeStr = place.padEnd(27);
-    const commentStr = comment.padEnd(20);
+    const number = String(fields.ID || '');
+    const date = formatDate(fields.date || '');
+    const заголовок = fields['Заголовок'] || '';
+    const place = заголовок.includes(',') ? заголовок.split(', ').slice(1).join(', ') : '';
+    let comment = escapeHtml(fields.comment || '');
+    comment = comment.replace(/\n/g, ' ').replace(/\r/g, '').trim();
     
-    table += `| ${numberStr} | ${dateStr} | ${placeStr} | ${commentStr} |\n`;
+    if (number.length > maxNumberLength) maxNumberLength = number.length;
+    if (date.length > maxDateLength) maxDateLength = date.length;
+    if (escapeHtml(place).length > maxPlaceLength) maxPlaceLength = escapeHtml(place).length;
+    if (comment.length > maxCommentLength) maxCommentLength = comment.length;
+    
+    processedRecords.push({
+      number: number,
+      date: date,
+      place: place,
+      comment: comment
+    });
+  }
+  
+  const numberHeader = '#   '.padEnd(maxNumberLength + 1);
+  const dateHeader = 'Date'.padEnd(maxDateLength);
+  const placeHeader = 'Place'.padEnd(maxPlaceLength);
+  const commentHeader = 'Comment'.padEnd(maxCommentLength);
+  
+  let table = `| ${numberHeader}| ${dateHeader} | ${placeHeader} | ${commentHeader} |\n`;
+  table += `|${'-'.repeat(maxNumberLength + 2)}|${'-'.repeat(maxDateLength + 2)}|${'-'.repeat(maxPlaceLength + 2)}|${'-'.repeat(maxCommentLength + 2)}|\n`;
+  
+  for (const record of processedRecords) {
+    const numberStr = (record.number || '').padEnd(maxNumberLength + 1);
+    const dateStr = (record.date || '').padEnd(maxDateLength);
+    const placeStr = (escapeHtml(record.place) || '').padEnd(maxPlaceLength);
+    const commentStr = (record.comment || '').padEnd(maxCommentLength);
+    
+    table += `| ${numberStr}| ${dateStr} | ${placeStr} | ${commentStr} |\n`;
   }
   
   return table;
 }
 
-async function checkTokenAccess() {
-  try {
-    const https = require('https');
-    
-    if (!AIRTABLE_API_KEY || AIRTABLE_API_KEY.trim() === '') {
-      throw new Error('AIRTABLE_API_KEY is empty or not set');
-    }
-    
-    if (!AIRTABLE_API_KEY.startsWith('pat')) {
-      console.warn('Warning: Token should start with "pat" (personal access token)');
-    }
-    
-    return new Promise((resolve, reject) => {
-      const options = {
-        hostname: 'api.airtable.com',
-        path: '/v0/meta/bases',
-        method: 'GET',
-        headers: {
-          'Authorization': `Bearer ${AIRTABLE_API_KEY}`
-        }
-      };
-      
-      const req = https.request(options, (res) => {
-        let data = '';
-        res.on('data', (chunk) => { data += chunk; });
-        res.on('end', () => {
-          if (res.statusCode === 200) {
-            try {
-              const bases = JSON.parse(data).bases || [];
-              const hasAccess = bases.some(b => b.id === AIRTABLE_BASE_ID);
-              resolve(hasAccess);
-            } catch (e) {
-              reject(new Error('Failed to parse bases response'));
-            }
-          } else if (res.statusCode === 401) {
-            let errorMsg = 'Authentication failed. ';
-            try {
-              const errorData = JSON.parse(data);
-              errorMsg += errorData.error?.message || 'Invalid or missing token';
-            } catch (e) {
-              errorMsg += 'Invalid or missing token';
-            }
-            reject(new Error(errorMsg));
-          } else {
-            reject(new Error(`Token check failed: ${res.statusCode} ${data}`));
-          }
-        });
-      });
-      
-      req.on('error', reject);
-      req.end();
-    });
-  } catch (error) {
-    throw error;
-  }
-}
-
 async function syncFromAirtable() {
   try {
-    console.log('Checking token access...');
-    
-    try {
-      const hasAccess = await checkTokenAccess();
-      
-      if (!hasAccess) {
-        console.error('Error: Token does not have access to base', AIRTABLE_BASE_ID);
-        console.error('\nTo fix this:');
-        console.error('1. Go to https://airtable.com/create/tokens');
-        console.error('2. Create/update token with scope: data.records:read');
-        console.error(`3. Grant access to base: ${AIRTABLE_BASE_ID}`);
-        console.error('4. Update AIRTABLE_API_KEY secret in GitHub');
-        process.exit(1);
-      }
-    } catch (tokenError) {
-      console.error('Token validation failed:', tokenError.message);
-      console.error('\nPossible issues:');
-      console.error('1. AIRTABLE_API_KEY is not set in GitHub Secrets');
-      console.error('2. Token is invalid or expired');
-      console.error('3. Token does not have required scopes');
-      console.error('\nTo fix:');
-      console.error('1. Go to https://airtable.com/create/tokens');
-      console.error('2. Create a new personal access token');
-      console.error('3. Set scope: data.records:read');
-      console.error(`4. Grant access to base: ${AIRTABLE_BASE_ID}`);
-      console.error('5. Copy the token (starts with "pat...")');
-      console.error('6. In GitHub: Settings → Secrets → Actions → Update AIRTABLE_API_KEY');
-      process.exit(1);
-    }
-    
     console.log(`Fetching data from table "${TABLE_NAME}"...`);
     
     const records = [];
     
     await base(TABLE_NAME).select({
-      sort: [{ field: 'Number', direction: 'desc' }]
+      sort: [{ field: 'ID', direction: 'desc' }]
     }).eachPage((pageRecords, fetchNextPage) => {
       records.push(...pageRecords);
       fetchNextPage();

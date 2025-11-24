@@ -8,6 +8,8 @@ on:
 jobs:
   sync:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
         with:
@@ -24,8 +26,15 @@ jobs:
       - name: Sync from Airtable
         env:
           AIRTABLE_API_KEY: ${{ secrets.AIRTABLE_API_KEY }}
-          AIRTABLE_TABLE_NAME: ${{ secrets.AIRTABLE_TABLE_NAME || 'Releases' }}
-        run: npm run sync
+          AIRTABLE_TABLE_NAME: ${{ secrets.AIRTABLE_TABLE_NAME }}
+        run: |
+          if [ -z "$AIRTABLE_API_KEY" ]; then
+            echo "ERROR: AIRTABLE_API_KEY is not set!"
+            echo "Check that secret exists in: Settings → Secrets → Actions"
+            exit 1
+          fi
+          echo "Token found (length: ${#AIRTABLE_API_KEY})"
+          npm run sync
       
       - name: Commit and push
         run: |
