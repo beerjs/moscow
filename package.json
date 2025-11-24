@@ -13,6 +13,10 @@
   },
   "homepage": "https://beerjs.moscow",
   "dependencies": {
-    "express": "^4.14.0"
+    "express": "^4.14.0",
+    "airtable": "^0.12.2"
+  },
+  "scripts": {
+    "sync": "node sync-from-airtable.js"
   }
 }
