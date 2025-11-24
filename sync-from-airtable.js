@@ -77,8 +77,62 @@ function formatMarkdownTable(records) {
   return table;
 }
 
+async function checkTokenAccess() {
+  try {
+    const https = require('https');
+    const url = require('url');
+    
+    return new Promise((resolve, reject) => {
+      const options = {
+        hostname: 'api.airtable.com',
+        path: '/v0/meta/bases',
+        method: 'GET',
+        headers: {
+          'Authorization': `Bearer ${AIRTABLE_API_KEY}`
+        }
+      };
+      
+      const req = https.request(options, (res) => {
+        let data = '';
+        res.on('data', (chunk) => { data += chunk; });
+        res.on('end', () => {
+          if (res.statusCode === 200) {
+            try {
+              const bases = JSON.parse(data).bases || [];
+              const hasAccess = bases.some(b => b.id === AIRTABLE_BASE_ID);
+              resolve(hasAccess);
+            } catch (e) {
+              reject(new Error('Failed to parse bases response'));
+            }
+          } else {
+            reject(new Error(`Token check failed: ${res.statusCode} ${data}`));
+          }
+        });
+      });
+      
+      req.on('error', reject);
+      req.end();
+    });
+  } catch (error) {
+    return false;
+  }
+}
+
 async function syncFromAirtable() {
   try {
+    console.log('Checking token access...');
+    const hasAccess = await checkTokenAccess();
+    
+    if (!hasAccess) {
+      console.error('Error: Token does not have access to base', AIRTABLE_BASE_ID);
+      console.error('\nTo fix this:');
+      console.error('1. Go to https://airtable.com/create/tokens');
+      console.error('2. Create/update token with scope: data.records:read');
+      console.error(`3. Grant access to base: ${AIRTABLE_BASE_ID}`);
+      console.error('4. Update AIRTABLE_API_KEY secret in GitHub');
+      process.exit(1);
+    }
+    
     console.log(`Fetching data from table "${TABLE_NAME}"...`);
     
     const records = [];
@@ -124,7 +178,7 @@ async function syncFromAirtable() {
     console.error('Sync error:', error.message);
     
     if (error.error) {
-      console.error('Error details:', error.error);
+      console.error('Error details:', JSON.stringify(error.error, null, 2));
     }
     
     if (error.statusCode === 404) {
@@ -132,8 +186,16 @@ async function syncFromAirtable() {
       console.error('1. Wrong table name. Try setting AIRTABLE_TABLE_NAME');
       console.error('2. Table does not exist in the base');
       console.error('3. Wrong BASE_ID');
-    } else if (error.statusCode === 401) {
-      console.error('\nAuthorization error. Check AIRTABLE_API_KEY');
+    } else if (error.statusCode === 401 || error.statusCode === 403) {
+      console.error('\nAuthorization error. Possible causes:');
+      console.error('1. Token does not have scope: data.records:read');
+      console.error(`2. Token does not have access to base: ${AIRTABLE_BASE_ID}`);
+      console.error('3. Token is invalid or expired');
+      console.error('\nTo fix:');
+      console.error('1. Go to https://airtable.com/create/tokens');
+      console.error('2. Create token with scope: data.records:read');
+      console.error(`3. Grant access to base: ${AIRTABLE_BASE_ID}`);
+      console.error('4. Update AIRTABLE_API_KEY secret in GitHub');
     }
     
     process.exit(1);
