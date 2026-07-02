@@ -1,0 +1,3832 @@
+[
+  {
+    "id": 201,
+    "title": "02 Июля 2026, Варка",
+    "dateISO": "2026-07-02",
+    "dateLabel": "2 Июля 2026 г.",
+    "year": 2026,
+    "bar": "Варка",
+    "comment": null,
+    "subway": [
+      "Цветной бульвар"
+    ],
+    "address": "Цветной бульвар, 7с1",
+    "coordinates": {
+      "lat": 55.769237,
+      "lng": 37.620841
+    },
+    "type": "regular",
+    "searchableText": "201 #201 02 июля 2026, варка 2026-07-02 2 июля 2026 г. варка цветной бульвар цветной бульвар, 7с1"
+  },
+  {
+    "id": 200,
+    "title": "25 Июня 2026, Freedom Bar",
+    "dateISO": "2026-06-25",
+    "dateLabel": "25 Июня 2026 г.",
+    "year": 2026,
+    "bar": "Freedom Bar",
+    "comment": "Афтепати MoscowJS 71",
+    "subway": [
+      "Дмитровская"
+    ],
+    "address": "Большая Новодмитровская улица, 36с6",
+    "coordinates": {
+      "lat": 55.805912,
+      "lng": 37.585357
+    },
+    "type": "moscowjs-afterparty",
+    "searchableText": "200 #200 25 июня 2026, freedom bar 2026-06-25 25 июня 2026 г. freedom bar афтепати moscowjs 71 дмитровская большая новодмитровская улица, 36с6"
+  },
+  {
+    "id": 199,
+    "title": "18 Июня 2026, Støy!",
+    "dateISO": "2026-06-18",
+    "dateLabel": "18 Июня 2026 г.",
+    "year": 2026,
+    "bar": "Støy!",
+    "comment": "Moscow Drinkup #10",
+    "subway": [
+      "Добрынинская"
+    ],
+    "address": "Валовая улица, 30",
+    "coordinates": {
+      "lat": 55.73021,
+      "lng": 37.626558
+    },
+    "type": "beerjs-drinkup",
+    "searchableText": "199 #199 18 июня 2026, støy! 2026-06-18 18 июня 2026 г. støy! moscow drinkup #10 добрынинская валовая улица, 30"
+  },
+  {
+    "id": 198,
+    "title": "11 Июня 2026, Public Bar",
+    "dateISO": "2026-06-11",
+    "dateLabel": "11 Июня 2026 г.",
+    "year": 2026,
+    "bar": "Public Bar",
+    "comment": null,
+    "subway": [
+      "Дмитровская"
+    ],
+    "address": "Большая Новодмитровская улица, 36с6",
+    "coordinates": {
+      "lat": 55.805867,
+      "lng": 37.585404
+    },
+    "type": "regular",
+    "searchableText": "198 #198 11 июня 2026, public bar 2026-06-11 11 июня 2026 г. public bar дмитровская большая новодмитровская улица, 36с6"
+  },
+  {
+    "id": 197,
+    "title": "27 Мая 2026, Freedom Bar",
+    "dateISO": "2026-05-27",
+    "dateLabel": "27 Мая 2026 г.",
+    "year": 2026,
+    "bar": "Freedom Bar",
+    "comment": "Афтепати MoscowCSS",
+    "subway": [
+      "Дмитровская"
+    ],
+    "address": "Большая Новодмитровская улица, 36с6",
+    "coordinates": {
+      "lat": 55.805912,
+      "lng": 37.585357
+    },
+    "type": "moscowcss-afterparty",
+    "searchableText": "197 #197 27 мая 2026, freedom bar 2026-05-27 27 мая 2026 г. freedom bar афтепати moscowcss дмитровская большая новодмитровская улица, 36с6"
+  },
+  {
+    "id": 196,
+    "title": "30 Апреля 2026, Støy!",
+    "dateISO": "2026-04-30",
+    "dateLabel": "30 Апреля 2026 г.",
+    "year": 2026,
+    "bar": "Støy!",
+    "comment": "Афтепати MoscowJS 70",
+    "subway": [
+      "Добрынинская"
+    ],
+    "address": "Валовая улица, 30",
+    "coordinates": {
+      "lat": 55.73021,
+      "lng": 37.626558
+    },
+    "type": "moscowjs-afterparty",
+    "searchableText": "196 #196 30 апреля 2026, støy! 2026-04-30 30 апреля 2026 г. støy! афтепати moscowjs 70 добрынинская валовая улица, 30"
+  },
+  {
+    "id": 195,
+    "title": "16 Апреля 2026, Share House",
+    "dateISO": "2026-04-16",
+    "dateLabel": "16 Апреля 2026 г.",
+    "year": 2026,
+    "bar": "Share House",
+    "comment": null,
+    "subway": [
+      "Маяковская"
+    ],
+    "address": "Оружейный переулок, 3с2",
+    "coordinates": {
+      "lat": 55.770864,
+      "lng": 37.596818
+    },
+    "type": "regular",
+    "searchableText": "195 #195 16 апреля 2026, share house 2026-04-16 16 апреля 2026 г. share house маяковская оружейный переулок, 3с2"
+  },
+  {
+    "id": 194,
+    "title": "02 Апреля 2026, Støy!",
+    "dateISO": "2026-04-02",
+    "dateLabel": "2 Апреля 2026 г.",
+    "year": 2026,
+    "bar": "Støy!",
+    "comment": null,
+    "subway": [
+      "Добрынинская"
+    ],
+    "address": "Валовая улица, 30",
+    "coordinates": {
+      "lat": 55.73021,
+      "lng": 37.626558
+    },
+    "type": "regular",
+    "searchableText": "194 #194 02 апреля 2026, støy! 2026-04-02 2 апреля 2026 г. støy! добрынинская валовая улица, 30"
+  },
+  {
+    "id": 193,
+    "title": "26 Марта 2026, Støy!",
+    "dateISO": "2026-03-26",
+    "dateLabel": "26 Марта 2026 г.",
+    "year": 2026,
+    "bar": "Støy!",
+    "comment": null,
+    "subway": [
+      "Добрынинская"
+    ],
+    "address": "Валовая улица, 30",
+    "coordinates": {
+      "lat": 55.73021,
+      "lng": 37.626558
+    },
+    "type": "regular",
+    "searchableText": "193 #193 26 марта 2026, støy! 2026-03-26 26 марта 2026 г. støy! добрынинская валовая улица, 30"
+  },
+  {
+    "id": 192,
+    "title": "19 Марта 2026, Craft Republic",
+    "dateISO": "2026-03-19",
+    "dateLabel": "19 Марта 2026 г.",
+    "year": 2026,
+    "bar": "Craft Republic",
+    "comment": null,
+    "subway": [
+      "Тверская"
+    ],
+    "address": "Малый Гнездниковский переулок, 9с2",
+    "coordinates": {
+      "lat": 55.762575,
+      "lng": 37.606318
+    },
+    "type": "regular",
+    "searchableText": "192 #192 19 марта 2026, craft republic 2026-03-19 19 марта 2026 г. craft republic тверская малый гнездниковский переулок, 9с2"
+  },
+  {
+    "id": 191,
+    "title": "05 Марта 2026, 4brewers Pub",
+    "dateISO": "2026-03-05",
+    "dateLabel": "5 Марта 2026 г.",
+    "year": 2026,
+    "bar": "4brewers Pub",
+    "comment": null,
+    "subway": [
+      "Добрынинская"
+    ],
+    "address": null,
+    "coordinates": null,
+    "type": "regular",
+    "searchableText": "191 #191 05 марта 2026, 4brewers pub 2026-03-05 5 марта 2026 г. 4brewers pub добрынинская"
+  },
+  {
+    "id": 190,
+    "title": "05 Февраля 2026, Freedom Bar",
+    "dateISO": "2026-02-05",
+    "dateLabel": "5 Февраля 2026 г.",
+    "year": 2026,
+    "bar": "Freedom Bar",
+    "comment": null,
+    "subway": [
+      "Дмитровская"
+    ],
+    "address": "Большая Новодмитровская улица, 36с6",
+    "coordinates": {
+      "lat": 55.805912,
+      "lng": 37.585357
+    },
+    "type": "regular",
+    "searchableText": "190 #190 05 февраля 2026, freedom bar 2026-02-05 5 февраля 2026 г. freedom bar дмитровская большая новодмитровская улица, 36с6"
+  },
+  {
+    "id": 189,
+    "title": "08 Января 2026, ГлавПивМаг",
+    "dateISO": "2026-01-08",
+    "dateLabel": "8 Января 2026 г.",
+    "year": 2026,
+    "bar": "ГлавПивМаг",
+    "comment": null,
+    "subway": [
+      "Китай-город",
+      "Курская",
+      "Сретенский бульвар",
+      "Тургеневская",
+      "Чистые пруды",
+      "Чкаловская"
+    ],
+    "address": "улица Макаренко, 2",
+    "coordinates": {
+      "lat": 55.760851,
+      "lng": 37.646027
+    },
+    "type": "regular",
+    "searchableText": "189 #189 08 января 2026, главпивмаг 2026-01-08 8 января 2026 г. главпивмаг китай-город курская сретенский бульвар тургеневская чистые пруды чкаловская улица макаренко, 2"
+  },
+  {
+    "id": 188,
+    "title": "25 Декабря 2025, Støy!",
+    "dateISO": "2025-12-25",
+    "dateLabel": "25 Декабря 2025 г.",
+    "year": 2025,
+    "bar": "Støy!",
+    "comment": null,
+    "subway": [
+      "Добрынинская"
+    ],
+    "address": "Валовая улица, 30",
+    "coordinates": {
+      "lat": 55.73021,
+      "lng": 37.626558
+    },
+    "type": "regular",
+    "searchableText": "188 #188 25 декабря 2025, støy! 2025-12-25 25 декабря 2025 г. støy! добрынинская валовая улица, 30"
+  },
+  {
+    "id": 187,
+    "title": "23 Октября 2025, Пивотека 465",
+    "dateISO": "2025-10-23",
+    "dateLabel": "23 Октября 2025 г.",
+    "year": 2025,
+    "bar": "Пивотека 465",
+    "comment": "Афтепати MoscowJS 69",
+    "subway": [
+      "Тульская"
+    ],
+    "address": "Новоданиловская набережная, 4Ас1",
+    "coordinates": {
+      "lat": 55.700608,
+      "lng": 37.625774
+    },
+    "type": "moscowjs-afterparty",
+    "searchableText": "187 #187 23 октября 2025, пивотека 465 2025-10-23 23 октября 2025 г. пивотека 465 афтепати moscowjs 69 тульская новоданиловская набережная, 4ас1"
+  },
+  {
+    "id": 186,
+    "title": "09 Октября 2025, Axiom",
+    "dateISO": "2025-10-09",
+    "dateLabel": "9 Октября 2025 г.",
+    "year": 2025,
+    "bar": "Axiom",
+    "comment": null,
+    "subway": [
+      "Бауманская"
+    ],
+    "address": "Спартаковская площадь, 16/15с2",
+    "coordinates": {
+      "lat": 55.776273,
+      "lng": 37.679453
+    },
+    "type": "regular",
+    "searchableText": "186 #186 09 октября 2025, axiom 2025-10-09 9 октября 2025 г. axiom бауманская спартаковская площадь, 16/15с2"
+  },
+  {
+    "id": 185,
+    "title": "02 Октября 2025, Støy!",
+    "dateISO": "2025-10-02",
+    "dateLabel": "2 Октября 2025 г.",
+    "year": 2025,
+    "bar": "Støy!",
+    "comment": null,
+    "subway": [
+      "Добрынинская"
+    ],
+    "address": "Валовая улица, 30",
+    "coordinates": {
+      "lat": 55.73021,
+      "lng": 37.626558
+    },
+    "type": "regular",
+    "searchableText": "185 #185 02 октября 2025, støy! 2025-10-02 2 октября 2025 г. støy! добрынинская валовая улица, 30"
+  },
+  {
+    "id": 184,
+    "title": "21 Августа 2025, Axiom",
+    "dateISO": "2025-08-21",
+    "dateLabel": "21 Августа 2025 г.",
+    "year": 2025,
+    "bar": "Axiom",
+    "comment": "Moscow Drinkup #8",
+    "subway": [
+      "Бауманская"
+    ],
+    "address": "Спартаковская площадь, 16/15с2",
+    "coordinates": {
+      "lat": 55.776273,
+      "lng": 37.679453
+    },
+    "type": "beerjs-drinkup",
+    "searchableText": "184 #184 21 августа 2025, axiom 2025-08-21 21 августа 2025 г. axiom moscow drinkup #8 бауманская спартаковская площадь, 16/15с2"
+  },
+  {
+    "id": 183,
+    "title": "07 Августа 2025, Støy!",
+    "dateISO": "2025-08-07",
+    "dateLabel": "7 Августа 2025 г.",
+    "year": 2025,
+    "bar": "Støy!",
+    "comment": null,
+    "subway": [
+      "Добрынинская"
+    ],
+    "address": "Валовая улица, 30",
+    "coordinates": {
+      "lat": 55.73021,
+      "lng": 37.626558
+    },
+    "type": "regular",
+    "searchableText": "183 #183 07 августа 2025, støy! 2025-08-07 7 августа 2025 г. støy! добрынинская валовая улица, 30"
+  },
+  {
+    "id": 182,
+    "title": "31 Июля 2025, Støy!",
+    "dateISO": "2025-07-31",
+    "dateLabel": "31 Июля 2025 г.",
+    "year": 2025,
+    "bar": "Støy!",
+    "comment": null,
+    "subway": [
+      "Добрынинская"
+    ],
+    "address": "Валовая улица, 30",
+    "coordinates": {
+      "lat": 55.73021,
+      "lng": 37.626558
+    },
+    "type": "regular",
+    "searchableText": "182 #182 31 июля 2025, støy! 2025-07-31 31 июля 2025 г. støy! добрынинская валовая улица, 30"
+  },
+  {
+    "id": 181,
+    "title": "03 Июля 2025, Rusty pub",
+    "dateISO": "2025-07-03",
+    "dateLabel": "3 Июля 2025 г.",
+    "year": 2025,
+    "bar": "Rusty pub",
+    "comment": "Афтепати MoscowJS 66",
+    "subway": [
+      "Дмитровская"
+    ],
+    "address": "Большая Новодмитровская улица, 36с6",
+    "coordinates": {
+      "lat": 55.805923,
+      "lng": 37.585445
+    },
+    "type": "moscowjs-afterparty",
+    "searchableText": "181 #181 03 июля 2025, rusty pub 2025-07-03 3 июля 2025 г. rusty pub афтепати moscowjs 66 дмитровская большая новодмитровская улица, 36с6"
+  },
+  {
+    "id": 180,
+    "title": "26 Июня 2025, Axiom",
+    "dateISO": "2025-06-26",
+    "dateLabel": "26 Июня 2025 г.",
+    "year": 2025,
+    "bar": "Axiom",
+    "comment": "Moscow Drinkup #7",
+    "subway": [
+      "Бауманская"
+    ],
+    "address": "Спартаковская площадь, 16/15с2",
+    "coordinates": {
+      "lat": 55.776273,
+      "lng": 37.679453
+    },
+    "type": "beerjs-drinkup",
+    "searchableText": "180 #180 26 июня 2025, axiom 2025-06-26 26 июня 2025 г. axiom moscow drinkup #7 бауманская спартаковская площадь, 16/15с2"
+  },
+  {
+    "id": 179,
+    "title": "05 Июня 2025, Bad Bro Bar",
+    "dateISO": "2025-06-05",
+    "dateLabel": "5 Июня 2025 г.",
+    "year": 2025,
+    "bar": "Bad Bro Bar",
+    "comment": "Афтепати MoscowJS 65",
+    "subway": [
+      "Белорусская"
+    ],
+    "address": null,
+    "coordinates": null,
+    "type": "moscowjs-afterparty",
+    "searchableText": "179 #179 05 июня 2025, bad bro bar 2025-06-05 5 июня 2025 г. bad bro bar афтепати moscowjs 65 белорусская"
+  },
+  {
+    "id": 178,
+    "title": "29 Мая 2025, Støy!",
+    "dateISO": "2025-05-29",
+    "dateLabel": "29 Мая 2025 г.",
+    "year": 2025,
+    "bar": "Støy!",
+    "comment": "Афтепати MSK VUE.JS",
+    "subway": [
+      "Добрынинская"
+    ],
+    "address": "Валовая улица, 30",
+    "coordinates": {
+      "lat": 55.73021,
+      "lng": 37.626558
+    },
+    "type": "vue-afterparty",
+    "searchableText": "178 #178 29 мая 2025, støy! 2025-05-29 29 мая 2025 г. støy! афтепати msk vue.js добрынинская валовая улица, 30"
+  },
+  {
+    "id": 177,
+    "title": "22 Мая 2025, Косой Маркс",
+    "dateISO": "2025-05-22",
+    "dateLabel": "22 Мая 2025 г.",
+    "year": 2025,
+    "bar": "Косой Маркс",
+    "comment": null,
+    "subway": [],
+    "address": null,
+    "coordinates": null,
+    "type": "regular",
+    "searchableText": "177 #177 22 мая 2025, косой маркс 2025-05-22 22 мая 2025 г. косой маркс"
+  },
+  {
+    "id": 176,
+    "title": "15 Мая 2025, Støy!",
+    "dateISO": "2025-05-15",
+    "dateLabel": "15 Мая 2025 г.",
+    "year": 2025,
+    "bar": "Støy!",
+    "comment": "Афтепати MoscowJS 64",
+    "subway": [
+      "Добрынинская"
+    ],
+    "address": "Валовая улица, 30",
+    "coordinates": {
+      "lat": 55.73021,
+      "lng": 37.626558
+    },
+    "type": "moscowjs-afterparty",
+    "searchableText": "176 #176 15 мая 2025, støy! 2025-05-15 15 мая 2025 г. støy! афтепати moscowjs 64 добрынинская валовая улица, 30"
+  },
+  {
+    "id": 175,
+    "title": "08 Мая 2025, Støy!",
+    "dateISO": "2025-05-08",
+    "dateLabel": "8 Мая 2025 г.",
+    "year": 2025,
+    "bar": "Støy!",
+    "comment": "Ребята собрались и никому не сказали",
+    "subway": [
+      "Добрынинская"
+    ],
+    "address": "Валовая улица, 30",
+    "coordinates": {
+      "lat": 55.73021,
+      "lng": 37.626558
+    },
+    "type": "other",
+    "searchableText": "175 #175 08 мая 2025, støy! 2025-05-08 8 мая 2025 г. støy! ребята собрались и никому не сказали добрынинская валовая улица, 30"
+  },
+  {
+    "id": 174,
+    "title": "24 Апреля 2025, Косой Маркс",
+    "dateISO": "2025-04-24",
+    "dateLabel": "24 Апреля 2025 г.",
+    "year": 2025,
+    "bar": "Косой Маркс",
+    "comment": null,
+    "subway": [],
+    "address": null,
+    "coordinates": null,
+    "type": "regular",
+    "searchableText": "174 #174 24 апреля 2025, косой маркс 2025-04-24 24 апреля 2025 г. косой маркс"
+  },
+  {
+    "id": 173,
+    "title": "17 Апреля 2025, Эрик Рыжий",
+    "dateISO": "2025-04-17",
+    "dateLabel": "17 Апреля 2025 г.",
+    "year": 2025,
+    "bar": "Эрик Рыжий",
+    "comment": null,
+    "subway": [
+      "Смоленская"
+    ],
+    "address": "Спасопесковский переулок, 2/36",
+    "coordinates": {
+      "lat": 55.748691,
+      "lng": 37.5885
+    },
+    "type": "regular",
+    "searchableText": "173 #173 17 апреля 2025, эрик рыжий 2025-04-17 17 апреля 2025 г. эрик рыжий смоленская спасопесковский переулок, 2/36"
+  },
+  {
+    "id": 172,
+    "title": "03 Апреля 2025, Støy!",
+    "dateISO": "2025-04-03",
+    "dateLabel": "3 Апреля 2025 г.",
+    "year": 2025,
+    "bar": "Støy!",
+    "comment": null,
+    "subway": [
+      "Добрынинская"
+    ],
+    "address": "Валовая улица, 30",
+    "coordinates": {
+      "lat": 55.73021,
+      "lng": 37.626558
+    },
+    "type": "regular",
+    "searchableText": "172 #172 03 апреля 2025, støy! 2025-04-03 3 апреля 2025 г. støy! добрынинская валовая улица, 30"
+  },
+  {
+    "id": 171,
+    "title": "27 Марта 2025, The Backyard Pub",
+    "dateISO": "2025-03-27",
+    "dateLabel": "27 Марта 2025 г.",
+    "year": 2025,
+    "bar": "The Backyard Pub",
+    "comment": "Афтепати MoscowJS 63",
+    "subway": [
+      "Китай-город"
+    ],
+    "address": "Большой Спасоглинищевский переулок, 3с5",
+    "coordinates": {
+      "lat": 55.756437,
+      "lng": 37.635197
+    },
+    "type": "moscowjs-afterparty",
+    "searchableText": "171 #171 27 марта 2025, the backyard pub 2025-03-27 27 марта 2025 г. the backyard pub афтепати moscowjs 63 китай-город большой спасоглинищевский переулок, 3с5"
+  },
+  {
+    "id": 170,
+    "title": "20 Марта 2025, Støy!",
+    "dateISO": "2025-03-20",
+    "dateLabel": "20 Марта 2025 г.",
+    "year": 2025,
+    "bar": "Støy!",
+    "comment": null,
+    "subway": [
+      "Добрынинская"
+    ],
+    "address": "Валовая улица, 30",
+    "coordinates": {
+      "lat": 55.73021,
+      "lng": 37.626558
+    },
+    "type": "regular",
+    "searchableText": "170 #170 20 марта 2025, støy! 2025-03-20 20 марта 2025 г. støy! добрынинская валовая улица, 30"
+  },
+  {
+    "id": 169,
+    "title": "06 Марта 2025, Axiom",
+    "dateISO": "2025-03-06",
+    "dateLabel": "6 Марта 2025 г.",
+    "year": 2025,
+    "bar": "Axiom",
+    "comment": "BeerJS Drinkup #6",
+    "subway": [
+      "Бауманская"
+    ],
+    "address": "Спартаковская площадь, 16/15с2",
+    "coordinates": {
+      "lat": 55.776273,
+      "lng": 37.679453
+    },
+    "type": "beerjs-drinkup",
+    "searchableText": "169 #169 06 марта 2025, axiom 2025-03-06 6 марта 2025 г. axiom beerjs drinkup #6 бауманская спартаковская площадь, 16/15с2"
+  },
+  {
+    "id": 168,
+    "title": "27 Февраля 2025, Rule taproom",
+    "dateISO": "2025-02-27",
+    "dateLabel": "27 Февраля 2025 г.",
+    "year": 2025,
+    "bar": "Rule taproom",
+    "comment": null,
+    "subway": [
+      "Арбатская",
+      "Боровицкая"
+    ],
+    "address": "Староваганьковский переулок, 19с7",
+    "coordinates": {
+      "lat": 55.751302,
+      "lng": 37.607041
+    },
+    "type": "regular",
+    "searchableText": "168 #168 27 февраля 2025, rule taproom 2025-02-27 27 февраля 2025 г. rule taproom арбатская боровицкая староваганьковский переулок, 19с7"
+  },
+  {
+    "id": 167,
+    "title": "20 Февраля 2025, 4brewers Pub",
+    "dateISO": "2025-02-20",
+    "dateLabel": "20 Февраля 2025 г.",
+    "year": 2025,
+    "bar": "4brewers Pub",
+    "comment": null,
+    "subway": [
+      "Добрынинская"
+    ],
+    "address": null,
+    "coordinates": null,
+    "type": "regular",
+    "searchableText": "167 #167 20 февраля 2025, 4brewers pub 2025-02-20 20 февраля 2025 г. 4brewers pub добрынинская"
+  },
+  {
+    "id": 166,
+    "title": "13 Февраля 2025, ГлавПивМаг",
+    "dateISO": "2025-02-13",
+    "dateLabel": "13 Февраля 2025 г.",
+    "year": 2025,
+    "bar": "ГлавПивМаг",
+    "comment": null,
+    "subway": [
+      "Китай-город",
+      "Курская",
+      "Сретенский бульвар",
+      "Тургеневская",
+      "Чистые пруды",
+      "Чкаловская"
+    ],
+    "address": "улица Макаренко, 2",
+    "coordinates": {
+      "lat": 55.760851,
+      "lng": 37.646027
+    },
+    "type": "regular",
+    "searchableText": "166 #166 13 февраля 2025, главпивмаг 2025-02-13 13 февраля 2025 г. главпивмаг китай-город курская сретенский бульвар тургеневская чистые пруды чкаловская улица макаренко, 2"
+  },
+  {
+    "id": 165,
+    "title": "06 Февраля 2025, Слоны и мамонты",
+    "dateISO": "2025-02-06",
+    "dateLabel": "6 Февраля 2025 г.",
+    "year": 2025,
+    "bar": "Слоны и мамонты",
+    "comment": null,
+    "subway": [
+      "Белорусская"
+    ],
+    "address": null,
+    "coordinates": null,
+    "type": "regular",
+    "searchableText": "165 #165 06 февраля 2025, слоны и мамонты 2025-02-06 6 февраля 2025 г. слоны и мамонты белорусская"
+  },
+  {
+    "id": 164,
+    "title": "30 Января 2025, Axiom",
+    "dateISO": "2025-01-30",
+    "dateLabel": "30 Января 2025 г.",
+    "year": 2025,
+    "bar": "Axiom",
+    "comment": null,
+    "subway": [
+      "Бауманская"
+    ],
+    "address": "Спартаковская площадь, 16/15с2",
+    "coordinates": {
+      "lat": 55.776273,
+      "lng": 37.679453
+    },
+    "type": "regular",
+    "searchableText": "164 #164 30 января 2025, axiom 2025-01-30 30 января 2025 г. axiom бауманская спартаковская площадь, 16/15с2"
+  },
+  {
+    "id": 163,
+    "title": "23 Января 2025, Støy!",
+    "dateISO": "2025-01-23",
+    "dateLabel": "23 Января 2025 г.",
+    "year": 2025,
+    "bar": "Støy!",
+    "comment": null,
+    "subway": [
+      "Добрынинская"
+    ],
+    "address": "Валовая улица, 30",
+    "coordinates": {
+      "lat": 55.73021,
+      "lng": 37.626558
+    },
+    "type": "regular",
+    "searchableText": "163 #163 23 января 2025, støy! 2025-01-23 23 января 2025 г. støy! добрынинская валовая улица, 30"
+  },
+  {
+    "id": 162,
+    "title": "16 Января 2025, Арма craft",
+    "dateISO": "2025-01-16",
+    "dateLabel": "16 Января 2025 г.",
+    "year": 2025,
+    "bar": "Арма craft",
+    "comment": null,
+    "subway": [],
+    "address": null,
+    "coordinates": null,
+    "type": "regular",
+    "searchableText": "162 #162 16 января 2025, арма craft 2025-01-16 16 января 2025 г. арма craft"
+  },
+  {
+    "id": 161,
+    "title": "09 Января 2025, Støy!",
+    "dateISO": "2025-01-09",
+    "dateLabel": "9 Января 2025 г.",
+    "year": 2025,
+    "bar": "Støy!",
+    "comment": null,
+    "subway": [
+      "Добрынинская"
+    ],
+    "address": "Валовая улица, 30",
+    "coordinates": {
+      "lat": 55.73021,
+      "lng": 37.626558
+    },
+    "type": "regular",
+    "searchableText": "161 #161 09 января 2025, støy! 2025-01-09 9 января 2025 г. støy! добрынинская валовая улица, 30"
+  },
+  {
+    "id": 160,
+    "title": "19 Декабря 2024, Støy!",
+    "dateISO": "2024-12-19",
+    "dateLabel": "19 Декабря 2024 г.",
+    "year": 2024,
+    "bar": "Støy!",
+    "comment": "BeerJS Drinkup #5",
+    "subway": [
+      "Добрынинская"
+    ],
+    "address": "Валовая улица, 30",
+    "coordinates": {
+      "lat": 55.73021,
+      "lng": 37.626558
+    },
+    "type": "beerjs-drinkup",
+    "searchableText": "160 #160 19 декабря 2024, støy! 2024-12-19 19 декабря 2024 г. støy! beerjs drinkup #5 добрынинская валовая улица, 30"
+  },
+  {
+    "id": 159,
+    "title": "21 Ноября 2024, Støy!",
+    "dateISO": "2024-11-21",
+    "dateLabel": "21 Ноября 2024 г.",
+    "year": 2024,
+    "bar": "Støy!",
+    "comment": "Афтепати MoscowJS 62",
+    "subway": [
+      "Добрынинская"
+    ],
+    "address": "Валовая улица, 30",
+    "coordinates": {
+      "lat": 55.73021,
+      "lng": 37.626558
+    },
+    "type": "moscowjs-afterparty",
+    "searchableText": "159 #159 21 ноября 2024, støy! 2024-11-21 21 ноября 2024 г. støy! афтепати moscowjs 62 добрынинская валовая улица, 30"
+  },
+  {
+    "id": 158,
+    "title": "31 Октября 2024, Støy!",
+    "dateISO": "2024-10-31",
+    "dateLabel": "31 Октября 2024 г.",
+    "year": 2024,
+    "bar": "Støy!",
+    "comment": null,
+    "subway": [
+      "Добрынинская"
+    ],
+    "address": "Валовая улица, 30",
+    "coordinates": {
+      "lat": 55.73021,
+      "lng": 37.626558
+    },
+    "type": "regular",
+    "searchableText": "158 #158 31 октября 2024, støy! 2024-10-31 31 октября 2024 г. støy! добрынинская валовая улица, 30"
+  },
+  {
+    "id": 157,
+    "title": "24 Октября 2024, Støy!",
+    "dateISO": "2024-10-24",
+    "dateLabel": "24 Октября 2024 г.",
+    "year": 2024,
+    "bar": "Støy!",
+    "comment": "BeerJS Drinkup #4",
+    "subway": [
+      "Добрынинская"
+    ],
+    "address": "Валовая улица, 30",
+    "coordinates": {
+      "lat": 55.73021,
+      "lng": 37.626558
+    },
+    "type": "beerjs-drinkup",
+    "searchableText": "157 #157 24 октября 2024, støy! 2024-10-24 24 октября 2024 г. støy! beerjs drinkup #4 добрынинская валовая улица, 30"
+  },
+  {
+    "id": 156,
+    "title": "17 Октября 2024, Støy!",
+    "dateISO": "2024-10-17",
+    "dateLabel": "17 Октября 2024 г.",
+    "year": 2024,
+    "bar": "Støy!",
+    "comment": null,
+    "subway": [
+      "Добрынинская"
+    ],
+    "address": "Валовая улица, 30",
+    "coordinates": {
+      "lat": 55.73021,
+      "lng": 37.626558
+    },
+    "type": "regular",
+    "searchableText": "156 #156 17 октября 2024, støy! 2024-10-17 17 октября 2024 г. støy! добрынинская валовая улица, 30"
+  },
+  {
+    "id": 155,
+    "title": "03 Октября 2024, Варка",
+    "dateISO": "2024-10-03",
+    "dateLabel": "3 Октября 2024 г.",
+    "year": 2024,
+    "bar": "Варка",
+    "comment": null,
+    "subway": [
+      "Цветной бульвар"
+    ],
+    "address": "Цветной бульвар, 7с1",
+    "coordinates": {
+      "lat": 55.769237,
+      "lng": 37.620841
+    },
+    "type": "regular",
+    "searchableText": "155 #155 03 октября 2024, варка 2024-10-03 3 октября 2024 г. варка цветной бульвар цветной бульвар, 7с1"
+  },
+  {
+    "id": 154,
+    "title": "19 Сентября 2024, Støy!",
+    "dateISO": "2024-09-19",
+    "dateLabel": "19 Сентября 2024 г.",
+    "year": 2024,
+    "bar": "Støy!",
+    "comment": null,
+    "subway": [
+      "Добрынинская"
+    ],
+    "address": "Валовая улица, 30",
+    "coordinates": {
+      "lat": 55.73021,
+      "lng": 37.626558
+    },
+    "type": "regular",
+    "searchableText": "154 #154 19 сентября 2024, støy! 2024-09-19 19 сентября 2024 г. støy! добрынинская валовая улица, 30"
+  },
+  {
+    "id": 153,
+    "title": "15 Августа 2024, Right Hops",
+    "dateISO": "2024-08-15",
+    "dateLabel": "15 Августа 2024 г.",
+    "year": 2024,
+    "bar": "Right Hops",
+    "comment": "Афтепати MoscowJS 61",
+    "subway": [
+      "Международная"
+    ],
+    "address": "1-й Красногвардейский пр., 22, стр. 2, 2й этаж",
+    "coordinates": {
+      "lat": 55.75138,
+      "lng": 37.534577
+    },
+    "type": "moscowjs-afterparty",
+    "searchableText": "153 #153 15 августа 2024, right hops 2024-08-15 15 августа 2024 г. right hops афтепати moscowjs 61 международная 1-й красногвардейский пр., 22, стр. 2, 2й этаж"
+  },
+  {
+    "id": 152,
+    "title": "18 Июля 2024, The Backyard Pub",
+    "dateISO": "2024-07-18",
+    "dateLabel": "18 Июля 2024 г.",
+    "year": 2024,
+    "bar": "The Backyard Pub",
+    "comment": "BeerJS Drinkup #3",
+    "subway": [
+      "Китай-город"
+    ],
+    "address": "Большой Спасоглинищевский переулок, 3с5",
+    "coordinates": {
+      "lat": 55.756437,
+      "lng": 37.635197
+    },
+    "type": "beerjs-drinkup",
+    "searchableText": "152 #152 18 июля 2024, the backyard pub 2024-07-18 18 июля 2024 г. the backyard pub beerjs drinkup #3 китай-город большой спасоглинищевский переулок, 3с5"
+  },
+  {
+    "id": 151,
+    "title": "20 Июня 2024, БИРкрафт Белорусская",
+    "dateISO": "2024-06-20",
+    "dateLabel": "20 Июня 2024 г.",
+    "year": 2024,
+    "bar": "БИРкрафт Белорусская",
+    "comment": null,
+    "subway": [
+      "Белорусская"
+    ],
+    "address": "улица Бутырский Вал, 2",
+    "coordinates": {
+      "lat": 55.777095,
+      "lng": 37.58514
+    },
+    "type": "regular",
+    "searchableText": "151 #151 20 июня 2024, биркрафт белорусская 2024-06-20 20 июня 2024 г. биркрафт белорусская белорусская улица бутырский вал, 2"
+  },
+  {
+    "id": 150,
+    "title": "06 Июня 2024, Прогресс",
+    "dateISO": "2024-06-06",
+    "dateLabel": "6 Июня 2024 г.",
+    "year": 2024,
+    "bar": "Прогресс",
+    "comment": "Афтепати MoscowJS 59",
+    "subway": [
+      "Белорусская"
+    ],
+    "address": "улица Пресненский Вал, 38с1",
+    "coordinates": {
+      "lat": 55.771367,
+      "lng": 37.570232
+    },
+    "type": "moscowjs-afterparty",
+    "searchableText": "150 #150 06 июня 2024, прогресс 2024-06-06 6 июня 2024 г. прогресс афтепати moscowjs 59 белорусская улица пресненский вал, 38с1"
+  },
+  {
+    "id": 149,
+    "title": "25 Апреля 2024, Freedom Bar",
+    "dateISO": "2024-04-25",
+    "dateLabel": "25 Апреля 2024 г.",
+    "year": 2024,
+    "bar": "Freedom Bar",
+    "comment": "BeerJS Drinkup #2",
+    "subway": [
+      "Дмитровская"
+    ],
+    "address": "Большая Новодмитровская улица, 36с6",
+    "coordinates": {
+      "lat": 55.805912,
+      "lng": 37.585357
+    },
+    "type": "beerjs-drinkup",
+    "searchableText": "149 #149 25 апреля 2024, freedom bar 2024-04-25 25 апреля 2024 г. freedom bar beerjs drinkup #2 дмитровская большая новодмитровская улица, 36с6"
+  },
+  {
+    "id": 148,
+    "title": "21 Марта 2024, Freedom Bar",
+    "dateISO": "2024-03-21",
+    "dateLabel": "21 Марта 2024 г.",
+    "year": 2024,
+    "bar": "Freedom Bar",
+    "comment": "BeerJS Drinkup #1",
+    "subway": [
+      "Дмитровская"
+    ],
+    "address": "Большая Новодмитровская улица, 36с6",
+    "coordinates": {
+      "lat": 55.805912,
+      "lng": 37.585357
+    },
+    "type": "beerjs-drinkup",
+    "searchableText": "148 #148 21 марта 2024, freedom bar 2024-03-21 21 марта 2024 г. freedom bar beerjs drinkup #1 дмитровская большая новодмитровская улица, 36с6"
+  },
+  {
+    "id": 147,
+    "title": "14 Марта 2024, Howard Loves Craft",
+    "dateISO": "2024-03-14",
+    "dateLabel": "14 Марта 2024 г.",
+    "year": 2024,
+    "bar": "Howard Loves Craft",
+    "comment": "Афтепати MoscowJS 58",
+    "subway": [
+      "Кропоткинская",
+      "Парк Культуры",
+      "Третьяковская"
+    ],
+    "address": "Болотная набережная, 7с3",
+    "coordinates": {
+      "lat": 55.740341,
+      "lng": 37.610595
+    },
+    "type": "moscowjs-afterparty",
+    "searchableText": "147 #147 14 марта 2024, howard loves craft 2024-03-14 14 марта 2024 г. howard loves craft афтепати moscowjs 58 кропоткинская парк культуры третьяковская болотная набережная, 7с3"
+  },
+  {
+    "id": 146,
+    "title": "29 Февраля 2024, Støy!",
+    "dateISO": "2024-02-29",
+    "dateLabel": "29 Февраля 2024 г.",
+    "year": 2024,
+    "bar": "Støy!",
+    "comment": "Полуофициальный",
+    "subway": [
+      "Добрынинская"
+    ],
+    "address": "Валовая улица, 30",
+    "coordinates": {
+      "lat": 55.73021,
+      "lng": 37.626558
+    },
+    "type": "other",
+    "searchableText": "146 #146 29 февраля 2024, støy! 2024-02-29 29 февраля 2024 г. støy! полуофициальный добрынинская валовая улица, 30"
+  },
+  {
+    "id": 145,
+    "title": "08 Февраля 2024, Pivbar",
+    "dateISO": "2024-02-08",
+    "dateLabel": "8 Февраля 2024 г.",
+    "year": 2024,
+    "bar": "Pivbar",
+    "comment": "Афтепати MoscowJS 57",
+    "subway": [
+      "Маяковская"
+    ],
+    "address": "1-я Тверская-Ямская улица, 2с1",
+    "coordinates": {
+      "lat": 55.769975,
+      "lng": 37.597194
+    },
+    "type": "moscowjs-afterparty",
+    "searchableText": "145 #145 08 февраля 2024, pivbar 2024-02-08 8 февраля 2024 г. pivbar афтепати moscowjs 57 маяковская 1-я тверская-ямская улица, 2с1"
+  },
+  {
+    "id": 144,
+    "title": "08 Февраля 2024, Вариант",
+    "dateISO": "2024-02-08",
+    "dateLabel": "8 Февраля 2024 г.",
+    "year": 2024,
+    "bar": "Вариант",
+    "comment": "Афтепати MoscowJS 57",
+    "subway": [
+      "Площадь Гагарина",
+      "Тульская",
+      "Шаболовская"
+    ],
+    "address": "улица Орджоникидзе, 9к1",
+    "coordinates": {
+      "lat": 55.709967,
+      "lng": 37.598492
+    },
+    "type": "moscowjs-afterparty",
+    "searchableText": "144 #144 08 февраля 2024, вариант 2024-02-08 8 февраля 2024 г. вариант афтепати moscowjs 57 площадь гагарина тульская шаболовская улица орджоникидзе, 9к1"
+  },
+  {
+    "id": 143,
+    "title": "25 Января 2024, \"Хиросима, Моя любовь\"",
+    "dateISO": "2024-01-25",
+    "dateLabel": "25 Января 2024 г.",
+    "year": 2024,
+    "bar": "\"Хиросима, Моя любовь\"",
+    "comment": null,
+    "subway": [
+      "Бауманская"
+    ],
+    "address": "Спартаковская площадь, 16/15с2",
+    "coordinates": {
+      "lat": 55.776259,
+      "lng": 37.679637
+    },
+    "type": "regular",
+    "searchableText": "143 #143 25 января 2024, \"хиросима, моя любовь\" 2024-01-25 25 января 2024 г. \"хиросима, моя любовь\" бауманская спартаковская площадь, 16/15с2"
+  },
+  {
+    "id": 142,
+    "title": "21 Декабря 2023, Howard Loves Craft",
+    "dateISO": "2023-12-21",
+    "dateLabel": "21 Декабря 2023 г.",
+    "year": 2023,
+    "bar": "Howard Loves Craft",
+    "comment": null,
+    "subway": [
+      "Кропоткинская",
+      "Парк Культуры",
+      "Третьяковская"
+    ],
+    "address": "Болотная набережная, 7с3",
+    "coordinates": {
+      "lat": 55.740341,
+      "lng": 37.610595
+    },
+    "type": "regular",
+    "searchableText": "142 #142 21 декабря 2023, howard loves craft 2023-12-21 21 декабря 2023 г. howard loves craft кропоткинская парк культуры третьяковская болотная набережная, 7с3"
+  },
+  {
+    "id": 141,
+    "title": "19 Октября 2023, Støy!",
+    "dateISO": "2023-10-19",
+    "dateLabel": "19 Октября 2023 г.",
+    "year": 2023,
+    "bar": "Støy!",
+    "comment": null,
+    "subway": [
+      "Добрынинская"
+    ],
+    "address": "Валовая улица, 30",
+    "coordinates": {
+      "lat": 55.73021,
+      "lng": 37.626558
+    },
+    "type": "regular",
+    "searchableText": "141 #141 19 октября 2023, støy! 2023-10-19 19 октября 2023 г. støy! добрынинская валовая улица, 30"
+  },
+  {
+    "id": 140,
+    "title": "05 Октября 2023, Howard Loves Craft",
+    "dateISO": "2023-10-05",
+    "dateLabel": "5 Октября 2023 г.",
+    "year": 2023,
+    "bar": "Howard Loves Craft",
+    "comment": null,
+    "subway": [
+      "Кропоткинская",
+      "Парк Культуры",
+      "Третьяковская"
+    ],
+    "address": "Болотная набережная, 7с3",
+    "coordinates": {
+      "lat": 55.740341,
+      "lng": 37.610595
+    },
+    "type": "regular",
+    "searchableText": "140 #140 05 октября 2023, howard loves craft 2023-10-05 5 октября 2023 г. howard loves craft кропоткинская парк культуры третьяковская болотная набережная, 7с3"
+  },
+  {
+    "id": 139,
+    "title": "28 Сентября 2023, Beermood",
+    "dateISO": "2023-09-28",
+    "dateLabel": "28 Сентября 2023 г.",
+    "year": 2023,
+    "bar": "Beermood",
+    "comment": "Афтепати MoscowCSS",
+    "subway": [
+      "Чистые пруды"
+    ],
+    "address": "Чистопрудный бульвар, 21",
+    "coordinates": {
+      "lat": 55.760461,
+      "lng": 37.646459
+    },
+    "type": "moscowcss-afterparty",
+    "searchableText": "139 #139 28 сентября 2023, beermood 2023-09-28 28 сентября 2023 г. beermood афтепати moscowcss чистые пруды чистопрудный бульвар, 21"
+  },
+  {
+    "id": 138,
+    "title": "21 Сентября 2023, Støy!",
+    "dateISO": "2023-09-21",
+    "dateLabel": "21 Сентября 2023 г.",
+    "year": 2023,
+    "bar": "Støy!",
+    "comment": null,
+    "subway": [
+      "Добрынинская"
+    ],
+    "address": "Валовая улица, 30",
+    "coordinates": {
+      "lat": 55.73021,
+      "lng": 37.626558
+    },
+    "type": "regular",
+    "searchableText": "138 #138 21 сентября 2023, støy! 2023-09-21 21 сентября 2023 г. støy! добрынинская валовая улица, 30"
+  },
+  {
+    "id": 137,
+    "title": "14 Сентября 2023, Белфаст",
+    "dateISO": "2023-09-14",
+    "dateLabel": "14 Сентября 2023 г.",
+    "year": 2023,
+    "bar": "Белфаст",
+    "comment": null,
+    "subway": [
+      "Новокузнецкая"
+    ],
+    "address": "Средний Овчинниковский переулок, 1с13",
+    "coordinates": {
+      "lat": 55.745246,
+      "lng": 37.630722
+    },
+    "type": "regular",
+    "searchableText": "137 #137 14 сентября 2023, белфаст 2023-09-14 14 сентября 2023 г. белфаст новокузнецкая средний овчинниковский переулок, 1с13"
+  },
+  {
+    "id": 136,
+    "title": "31 Августа 2023, Bijou",
+    "dateISO": "2023-08-31",
+    "dateLabel": "31 Августа 2023 г.",
+    "year": 2023,
+    "bar": "Bijou",
+    "comment": "CocktailJS",
+    "subway": [
+      "Белорусская"
+    ],
+    "address": "2-я Брестская улица, 39с3",
+    "coordinates": {
+      "lat": 55.773978,
+      "lng": 37.584602
+    },
+    "type": "cocktailjs",
+    "searchableText": "136 #136 31 августа 2023, bijou 2023-08-31 31 августа 2023 г. bijou cocktailjs белорусская 2-я брестская улица, 39с3"
+  },
+  {
+    "id": 134,
+    "title": "24 Августа 2023, Beersenev Bar",
+    "dateISO": "2023-08-24",
+    "dateLabel": "24 Августа 2023 г.",
+    "year": 2023,
+    "bar": "Beersenev Bar",
+    "comment": "Афтепати MoscowJS 54",
+    "subway": [
+      "Технопарк"
+    ],
+    "address": "Автозаводская улица, 23с931к5",
+    "coordinates": {
+      "lat": 55.690885,
+      "lng": 37.659048
+    },
+    "type": "moscowjs-afterparty",
+    "searchableText": "134 #134 24 августа 2023, beersenev bar 2023-08-24 24 августа 2023 г. beersenev bar афтепати moscowjs 54 технопарк автозаводская улица, 23с931к5"
+  },
+  {
+    "id": 135,
+    "title": "10 Августа 2023, Howard Loves Craft",
+    "dateISO": "2023-08-10",
+    "dateLabel": "10 Августа 2023 г.",
+    "year": 2023,
+    "bar": "Howard Loves Craft",
+    "comment": null,
+    "subway": [
+      "Кропоткинская",
+      "Парк Культуры",
+      "Третьяковская"
+    ],
+    "address": "Болотная набережная, 7с3",
+    "coordinates": {
+      "lat": 55.740341,
+      "lng": 37.610595
+    },
+    "type": "regular",
+    "searchableText": "135 #135 10 августа 2023, howard loves craft 2023-08-10 10 августа 2023 г. howard loves craft кропоткинская парк культуры третьяковская болотная набережная, 7с3"
+  },
+  {
+    "id": 133,
+    "title": "27 Июля 2023, Støy!",
+    "dateISO": "2023-07-27",
+    "dateLabel": "27 Июля 2023 г.",
+    "year": 2023,
+    "bar": "Støy!",
+    "comment": null,
+    "subway": [
+      "Добрынинская"
+    ],
+    "address": "Валовая улица, 30",
+    "coordinates": {
+      "lat": 55.73021,
+      "lng": 37.626558
+    },
+    "type": "regular",
+    "searchableText": "133 #133 27 июля 2023, støy! 2023-07-27 27 июля 2023 г. støy! добрынинская валовая улица, 30"
+  },
+  {
+    "id": 132,
+    "title": "13 Июля 2023, Method Beer & Munchies",
+    "dateISO": "2023-07-13",
+    "dateLabel": "13 Июля 2023 г.",
+    "year": 2023,
+    "bar": "Method Beer & Munchies",
+    "comment": null,
+    "subway": [
+      "Марксистская",
+      "Таганская"
+    ],
+    "address": "Товарищеский переулок, 4с5",
+    "coordinates": {
+      "lat": 55.741614,
+      "lng": 37.659801
+    },
+    "type": "regular",
+    "searchableText": "132 #132 13 июля 2023, method beer & munchies 2023-07-13 13 июля 2023 г. method beer & munchies марксистская таганская товарищеский переулок, 4с5"
+  },
+  {
+    "id": 131,
+    "title": "22 Июня 2023, Method Beer & Munchies",
+    "dateISO": "2023-06-22",
+    "dateLabel": "22 Июня 2023 г.",
+    "year": 2023,
+    "bar": "Method Beer & Munchies",
+    "comment": null,
+    "subway": [
+      "Марксистская",
+      "Таганская"
+    ],
+    "address": "Товарищеский переулок, 4с5",
+    "coordinates": {
+      "lat": 55.741614,
+      "lng": 37.659801
+    },
+    "type": "regular",
+    "searchableText": "131 #131 22 июня 2023, method beer & munchies 2023-06-22 22 июня 2023 г. method beer & munchies марксистская таганская товарищеский переулок, 4с5"
+  },
+  {
+    "id": 129,
+    "title": "01 Июня 2023, Beermood",
+    "dateISO": "2023-06-01",
+    "dateLabel": "1 Июня 2023 г.",
+    "year": 2023,
+    "bar": "Beermood",
+    "comment": null,
+    "subway": [
+      "Чистые пруды"
+    ],
+    "address": "Чистопрудный бульвар, 21",
+    "coordinates": {
+      "lat": 55.760461,
+      "lng": 37.646459
+    },
+    "type": "regular",
+    "searchableText": "129 #129 01 июня 2023, beermood 2023-06-01 1 июня 2023 г. beermood чистые пруды чистопрудный бульвар, 21"
+  },
+  {
+    "id": 130,
+    "title": "18 Мая 2023, Кит&Планктон",
+    "dateISO": "2023-05-18",
+    "dateLabel": "18 Мая 2023 г.",
+    "year": 2023,
+    "bar": "Кит&Планктон",
+    "comment": "Афтепати MoscowJS 52",
+    "subway": [
+      "Белорусская"
+    ],
+    "address": "Ленинградский проспект, 2",
+    "coordinates": {
+      "lat": 55.778565,
+      "lng": 37.582329
+    },
+    "type": "moscowjs-afterparty",
+    "searchableText": "130 #130 18 мая 2023, кит&планктон 2023-05-18 18 мая 2023 г. кит&планктон афтепати moscowjs 52 белорусская ленинградский проспект, 2"
+  },
+  {
+    "id": 128,
+    "title": "20 Апреля 2023, Axiom",
+    "dateISO": "2023-04-20",
+    "dateLabel": "20 Апреля 2023 г.",
+    "year": 2023,
+    "bar": "Axiom",
+    "comment": null,
+    "subway": [
+      "Бауманская"
+    ],
+    "address": "Спартаковская площадь, 16/15с2",
+    "coordinates": {
+      "lat": 55.776273,
+      "lng": 37.679453
+    },
+    "type": "regular",
+    "searchableText": "128 #128 20 апреля 2023, axiom 2023-04-20 20 апреля 2023 г. axiom бауманская спартаковская площадь, 16/15с2"
+  },
+  {
+    "id": 127,
+    "title": "23 Марта 2023, Парка",
+    "dateISO": "2023-03-23",
+    "dateLabel": "23 Марта 2023 г.",
+    "year": 2023,
+    "bar": "Парка",
+    "comment": null,
+    "subway": [
+      "Новокузнецкая"
+    ],
+    "address": "Пятницкая улица, 24",
+    "coordinates": {
+      "lat": 55.741429,
+      "lng": 37.628357
+    },
+    "type": "regular",
+    "searchableText": "127 #127 23 марта 2023, парка 2023-03-23 23 марта 2023 г. парка новокузнецкая пятницкая улица, 24"
+  },
+  {
+    "id": 126,
+    "title": "26 Января 2023, Слёзы Берёзы",
+    "dateISO": "2023-01-26",
+    "dateLabel": "26 Января 2023 г.",
+    "year": 2023,
+    "bar": "Слёзы Берёзы",
+    "comment": null,
+    "subway": [
+      "Бауманская"
+    ],
+    "address": "Бауманская улица, 15",
+    "coordinates": {
+      "lat": 55.775646,
+      "lng": 37.677753
+    },
+    "type": "regular",
+    "searchableText": "126 #126 26 января 2023, слёзы берёзы 2023-01-26 26 января 2023 г. слёзы берёзы бауманская бауманская улица, 15"
+  },
+  {
+    "id": 125,
+    "title": "12 Января 2023, Støy!",
+    "dateISO": "2023-01-12",
+    "dateLabel": "12 Января 2023 г.",
+    "year": 2023,
+    "bar": "Støy!",
+    "comment": null,
+    "subway": [
+      "Добрынинская"
+    ],
+    "address": "Валовая улица, 30",
+    "coordinates": {
+      "lat": 55.73021,
+      "lng": 37.626558
+    },
+    "type": "regular",
+    "searchableText": "125 #125 12 января 2023, støy! 2023-01-12 12 января 2023 г. støy! добрынинская валовая улица, 30"
+  },
+  {
+    "id": 124,
+    "title": "08 Декабря 2022, Белфаст",
+    "dateISO": "2022-12-08",
+    "dateLabel": "8 Декабря 2022 г.",
+    "year": 2022,
+    "bar": "Белфаст",
+    "comment": null,
+    "subway": [
+      "Новокузнецкая"
+    ],
+    "address": "Средний Овчинниковский переулок, 1с13",
+    "coordinates": {
+      "lat": 55.745246,
+      "lng": 37.630722
+    },
+    "type": "regular",
+    "searchableText": "124 #124 08 декабря 2022, белфаст 2022-12-08 8 декабря 2022 г. белфаст новокузнецкая средний овчинниковский переулок, 1с13"
+  },
+  {
+    "id": 123,
+    "title": "17 Ноября 2022, Пестики-Тычинки",
+    "dateISO": "2022-11-17",
+    "dateLabel": "17 Ноября 2022 г.",
+    "year": 2022,
+    "bar": "Пестики-Тычинки",
+    "comment": null,
+    "subway": [
+      "Китай-город"
+    ],
+    "address": "Большой Спасоглинищевский переулок, 3с5",
+    "coordinates": {
+      "lat": 55.75643,
+      "lng": 37.635269
+    },
+    "type": "regular",
+    "searchableText": "123 #123 17 ноября 2022, пестики-тычинки 2022-11-17 17 ноября 2022 г. пестики-тычинки китай-город большой спасоглинищевский переулок, 3с5"
+  },
+  {
+    "id": 122,
+    "title": "10 Ноября 2022, Пестики-Тычинки",
+    "dateISO": "2022-11-10",
+    "dateLabel": "10 Ноября 2022 г.",
+    "year": 2022,
+    "bar": "Пестики-Тычинки",
+    "comment": null,
+    "subway": [
+      "Китай-город"
+    ],
+    "address": "Большой Спасоглинищевский переулок, 3с5",
+    "coordinates": {
+      "lat": 55.75643,
+      "lng": 37.635269
+    },
+    "type": "regular",
+    "searchableText": "122 #122 10 ноября 2022, пестики-тычинки 2022-11-10 10 ноября 2022 г. пестики-тычинки китай-город большой спасоглинищевский переулок, 3с5"
+  },
+  {
+    "id": 121,
+    "title": "27 Октября 2022, Пестики-Тычинки",
+    "dateISO": "2022-10-27",
+    "dateLabel": "27 Октября 2022 г.",
+    "year": 2022,
+    "bar": "Пестики-Тычинки",
+    "comment": null,
+    "subway": [
+      "Китай-город"
+    ],
+    "address": "Большой Спасоглинищевский переулок, 3с5",
+    "coordinates": {
+      "lat": 55.75643,
+      "lng": 37.635269
+    },
+    "type": "regular",
+    "searchableText": "121 #121 27 октября 2022, пестики-тычинки 2022-10-27 27 октября 2022 г. пестики-тычинки китай-город большой спасоглинищевский переулок, 3с5"
+  },
+  {
+    "id": 120,
+    "title": "22 Сентября 2022, Beermood",
+    "dateISO": "2022-09-22",
+    "dateLabel": "22 Сентября 2022 г.",
+    "year": 2022,
+    "bar": "Beermood",
+    "comment": "Афтерпати MoscowCSS",
+    "subway": [
+      "Чистые пруды"
+    ],
+    "address": "Чистопрудный бульвар, 21",
+    "coordinates": {
+      "lat": 55.760461,
+      "lng": 37.646459
+    },
+    "type": "moscowcss-afterparty",
+    "searchableText": "120 #120 22 сентября 2022, beermood 2022-09-22 22 сентября 2022 г. beermood афтерпати moscowcss чистые пруды чистопрудный бульвар, 21"
+  },
+  {
+    "id": 119,
+    "title": "15 Сентября 2022, Beermood",
+    "dateISO": "2022-09-15",
+    "dateLabel": "15 Сентября 2022 г.",
+    "year": 2022,
+    "bar": "Beermood",
+    "comment": "Внеплановый",
+    "subway": [
+      "Чистые пруды"
+    ],
+    "address": "Чистопрудный бульвар, 21",
+    "coordinates": {
+      "lat": 55.760461,
+      "lng": 37.646459
+    },
+    "type": "other",
+    "searchableText": "119 #119 15 сентября 2022, beermood 2022-09-15 15 сентября 2022 г. beermood внеплановый чистые пруды чистопрудный бульвар, 21"
+  },
+  {
+    "id": 118,
+    "title": "08 Сентября 2022, Axiom",
+    "dateISO": "2022-09-08",
+    "dateLabel": "8 Сентября 2022 г.",
+    "year": 2022,
+    "bar": "Axiom",
+    "comment": null,
+    "subway": [
+      "Бауманская"
+    ],
+    "address": "Спартаковская площадь, 16/15с2",
+    "coordinates": {
+      "lat": 55.776273,
+      "lng": 37.679453
+    },
+    "type": "regular",
+    "searchableText": "118 #118 08 сентября 2022, axiom 2022-09-08 8 сентября 2022 г. axiom бауманская спартаковская площадь, 16/15с2"
+  },
+  {
+    "id": 117,
+    "title": "08 Сентября 2022, Слёзы Берёзы",
+    "dateISO": "2022-09-08",
+    "dateLabel": "8 Сентября 2022 г.",
+    "year": 2022,
+    "bar": "Слёзы Берёзы",
+    "comment": null,
+    "subway": [
+      "Бауманская"
+    ],
+    "address": "Бауманская улица, 15",
+    "coordinates": {
+      "lat": 55.775646,
+      "lng": 37.677753
+    },
+    "type": "regular",
+    "searchableText": "117 #117 08 сентября 2022, слёзы берёзы 2022-09-08 8 сентября 2022 г. слёзы берёзы бауманская бауманская улица, 15"
+  },
+  {
+    "id": 116,
+    "title": "04 Августа 2022, Støy!",
+    "dateISO": "2022-08-04",
+    "dateLabel": "4 Августа 2022 г.",
+    "year": 2022,
+    "bar": "Støy!",
+    "comment": null,
+    "subway": [
+      "Добрынинская"
+    ],
+    "address": "Валовая улица, 30",
+    "coordinates": {
+      "lat": 55.73021,
+      "lng": 37.626558
+    },
+    "type": "regular",
+    "searchableText": "116 #116 04 августа 2022, støy! 2022-08-04 4 августа 2022 г. støy! добрынинская валовая улица, 30"
+  },
+  {
+    "id": 115,
+    "title": "27 Июля 2022, Axiom",
+    "dateISO": "2022-07-27",
+    "dateLabel": "27 Июля 2022 г.",
+    "year": 2022,
+    "bar": "Axiom",
+    "comment": null,
+    "subway": [
+      "Бауманская"
+    ],
+    "address": "Спартаковская площадь, 16/15с2",
+    "coordinates": {
+      "lat": 55.776273,
+      "lng": 37.679453
+    },
+    "type": "regular",
+    "searchableText": "115 #115 27 июля 2022, axiom 2022-07-27 27 июля 2022 г. axiom бауманская спартаковская площадь, 16/15с2"
+  },
+  {
+    "id": 114,
+    "title": "30 Июня 2022, Фракция",
+    "dateISO": "2022-06-30",
+    "dateLabel": "30 Июня 2022 г.",
+    "year": 2022,
+    "bar": "Фракция",
+    "comment": null,
+    "subway": [
+      "Тульская"
+    ],
+    "address": "Новоданиловская набережная, 4Ас1",
+    "coordinates": {
+      "lat": 55.700563,
+      "lng": 37.62582
+    },
+    "type": "regular",
+    "searchableText": "114 #114 30 июня 2022, фракция 2022-06-30 30 июня 2022 г. фракция тульская новоданиловская набережная, 4ас1"
+  },
+  {
+    "id": 113,
+    "title": "02 Июня 2022, Method Beer & Munchies",
+    "dateISO": "2022-06-02",
+    "dateLabel": "2 Июня 2022 г.",
+    "year": 2022,
+    "bar": "Method Beer & Munchies",
+    "comment": null,
+    "subway": [
+      "Марксистская",
+      "Таганская"
+    ],
+    "address": "Товарищеский переулок, 4с5",
+    "coordinates": {
+      "lat": 55.741614,
+      "lng": 37.659801
+    },
+    "type": "regular",
+    "searchableText": "113 #113 02 июня 2022, method beer & munchies 2022-06-02 2 июня 2022 г. method beer & munchies марксистская таганская товарищеский переулок, 4с5"
+  },
+  {
+    "id": 112,
+    "title": "07 Апреля 2022, Эрик Рыжий",
+    "dateISO": "2022-04-07",
+    "dateLabel": "7 Апреля 2022 г.",
+    "year": 2022,
+    "bar": "Эрик Рыжий",
+    "comment": null,
+    "subway": [
+      "Смоленская"
+    ],
+    "address": "Спасопесковский переулок, 2/36",
+    "coordinates": {
+      "lat": 55.748691,
+      "lng": 37.5885
+    },
+    "type": "regular",
+    "searchableText": "112 #112 07 апреля 2022, эрик рыжий 2022-04-07 7 апреля 2022 г. эрик рыжий смоленская спасопесковский переулок, 2/36"
+  },
+  {
+    "id": 111,
+    "title": "31 Марта 2022, Los Bandidos",
+    "dateISO": "2022-03-31",
+    "dateLabel": "31 Марта 2022 г.",
+    "year": 2022,
+    "bar": "Los Bandidos",
+    "comment": null,
+    "subway": [
+      "Китай-город"
+    ],
+    "address": "улица Маросейка, 2/15с1",
+    "coordinates": {
+      "lat": 55.757266,
+      "lng": 37.632569
+    },
+    "type": "regular",
+    "searchableText": "111 #111 31 марта 2022, los bandidos 2022-03-31 31 марта 2022 г. los bandidos китай-город улица маросейка, 2/15с1"
+  },
+  {
+    "id": 110,
+    "title": "24 Февраля 2022, Method Beer & Munchies",
+    "dateISO": "2022-02-24",
+    "dateLabel": "24 Февраля 2022 г.",
+    "year": 2022,
+    "bar": "Method Beer & Munchies",
+    "comment": null,
+    "subway": [
+      "Марксистская",
+      "Таганская"
+    ],
+    "address": "Товарищеский переулок, 4с5",
+    "coordinates": {
+      "lat": 55.741614,
+      "lng": 37.659801
+    },
+    "type": "regular",
+    "searchableText": "110 #110 24 февраля 2022, method beer & munchies 2022-02-24 24 февраля 2022 г. method beer & munchies марксистская таганская товарищеский переулок, 4с5"
+  },
+  {
+    "id": 109,
+    "title": "17 Февраля 2022, Эрик Рыжий",
+    "dateISO": "2022-02-17",
+    "dateLabel": "17 Февраля 2022 г.",
+    "year": 2022,
+    "bar": "Эрик Рыжий",
+    "comment": null,
+    "subway": [
+      "Смоленская"
+    ],
+    "address": "Спасопесковский переулок, 2/36",
+    "coordinates": {
+      "lat": 55.748691,
+      "lng": 37.5885
+    },
+    "type": "regular",
+    "searchableText": "109 #109 17 февраля 2022, эрик рыжий 2022-02-17 17 февраля 2022 г. эрик рыжий смоленская спасопесковский переулок, 2/36"
+  },
+  {
+    "id": 108,
+    "title": "10 Февраля 2022, Парка",
+    "dateISO": "2022-02-10",
+    "dateLabel": "10 Февраля 2022 г.",
+    "year": 2022,
+    "bar": "Парка",
+    "comment": null,
+    "subway": [
+      "Новокузнецкая"
+    ],
+    "address": "Пятницкая улица, 24",
+    "coordinates": {
+      "lat": 55.741429,
+      "lng": 37.628357
+    },
+    "type": "regular",
+    "searchableText": "108 #108 10 февраля 2022, парка 2022-02-10 10 февраля 2022 г. парка новокузнецкая пятницкая улица, 24"
+  },
+  {
+    "id": 107,
+    "title": "06 Января 2022, Los Bandidos",
+    "dateISO": "2022-01-06",
+    "dateLabel": "6 Января 2022 г.",
+    "year": 2022,
+    "bar": "Los Bandidos",
+    "comment": null,
+    "subway": [
+      "Китай-город"
+    ],
+    "address": "улица Маросейка, 2/15с1",
+    "coordinates": {
+      "lat": 55.757266,
+      "lng": 37.632569
+    },
+    "type": "regular",
+    "searchableText": "107 #107 06 января 2022, los bandidos 2022-01-06 6 января 2022 г. los bandidos китай-город улица маросейка, 2/15с1"
+  },
+  {
+    "id": 106,
+    "title": "23 Декабря 2021, Pivbar",
+    "dateISO": "2021-12-23",
+    "dateLabel": "23 Декабря 2021 г.",
+    "year": 2021,
+    "bar": "Pivbar",
+    "comment": null,
+    "subway": [
+      "Маяковская"
+    ],
+    "address": "1-я Тверская-Ямская улица, 2с1",
+    "coordinates": {
+      "lat": 55.769975,
+      "lng": 37.597194
+    },
+    "type": "regular",
+    "searchableText": "106 #106 23 декабря 2021, pivbar 2021-12-23 23 декабря 2021 г. pivbar маяковская 1-я тверская-ямская улица, 2с1"
+  },
+  {
+    "id": 105,
+    "title": "02 Декабря 2021, One More Pub",
+    "dateISO": "2021-12-02",
+    "dateLabel": "2 Декабря 2021 г.",
+    "year": 2021,
+    "bar": "One More Pub",
+    "comment": null,
+    "subway": [
+      "Белорусская"
+    ],
+    "address": "улица Бутырский Вал, 5",
+    "coordinates": {
+      "lat": 55.778913,
+      "lng": 37.585178
+    },
+    "type": "regular",
+    "searchableText": "105 #105 02 декабря 2021, one more pub 2021-12-02 2 декабря 2021 г. one more pub белорусская улица бутырский вал, 5"
+  },
+  {
+    "id": 104,
+    "title": "18 Ноября 2021, Pivbar",
+    "dateISO": "2021-11-18",
+    "dateLabel": "18 Ноября 2021 г.",
+    "year": 2021,
+    "bar": "Pivbar",
+    "comment": null,
+    "subway": [
+      "Маяковская"
+    ],
+    "address": "1-я Тверская-Ямская улица, 2с1",
+    "coordinates": {
+      "lat": 55.769975,
+      "lng": 37.597194
+    },
+    "type": "regular",
+    "searchableText": "104 #104 18 ноября 2021, pivbar 2021-11-18 18 ноября 2021 г. pivbar маяковская 1-я тверская-ямская улица, 2с1"
+  },
+  {
+    "id": 103,
+    "title": "21 Октября 2021, Craft Republic",
+    "dateISO": "2021-10-21",
+    "dateLabel": "21 Октября 2021 г.",
+    "year": 2021,
+    "bar": "Craft Republic",
+    "comment": null,
+    "subway": [
+      "Тверская"
+    ],
+    "address": "Малый Гнездниковский переулок, 9с2",
+    "coordinates": {
+      "lat": 55.762575,
+      "lng": 37.606318
+    },
+    "type": "regular",
+    "searchableText": "103 #103 21 октября 2021, craft republic 2021-10-21 21 октября 2021 г. craft republic тверская малый гнездниковский переулок, 9с2"
+  },
+  {
+    "id": 102,
+    "title": "23 Сентября 2021, Крапива",
+    "dateISO": "2021-09-23",
+    "dateLabel": "23 Сентября 2021 г.",
+    "year": 2021,
+    "bar": "Крапива",
+    "comment": null,
+    "subway": [
+      "Чистые пруды"
+    ],
+    "address": "Потаповский переулок, 5с2",
+    "coordinates": {
+      "lat": 55.761447,
+      "lng": 37.640785
+    },
+    "type": "regular",
+    "searchableText": "102 #102 23 сентября 2021, крапива 2021-09-23 23 сентября 2021 г. крапива чистые пруды потаповский переулок, 5с2"
+  },
+  {
+    "id": 101,
+    "title": "09 Сентября 2021, Эрик Рыжий",
+    "dateISO": "2021-09-09",
+    "dateLabel": "9 Сентября 2021 г.",
+    "year": 2021,
+    "bar": "Эрик Рыжий",
+    "comment": null,
+    "subway": [
+      "Смоленская"
+    ],
+    "address": "Спасопесковский переулок, 2/36",
+    "coordinates": {
+      "lat": 55.748691,
+      "lng": 37.5885
+    },
+    "type": "regular",
+    "searchableText": "101 #101 09 сентября 2021, эрик рыжий 2021-09-09 9 сентября 2021 г. эрик рыжий смоленская спасопесковский переулок, 2/36"
+  },
+  {
+    "id": 100,
+    "title": "19 Августа 2021, Beermood",
+    "dateISO": "2021-08-19",
+    "dateLabel": "19 Августа 2021 г.",
+    "year": 2021,
+    "bar": "Beermood",
+    "comment": null,
+    "subway": [
+      "Чистые пруды"
+    ],
+    "address": "Чистопрудный бульвар, 21",
+    "coordinates": {
+      "lat": 55.760461,
+      "lng": 37.646459
+    },
+    "type": "regular",
+    "searchableText": "100 #100 19 августа 2021, beermood 2021-08-19 19 августа 2021 г. beermood чистые пруды чистопрудный бульвар, 21"
+  },
+  {
+    "id": 99,
+    "title": "03 Июня 2021, Bô",
+    "dateISO": "2021-06-03",
+    "dateLabel": "3 Июня 2021 г.",
+    "year": 2021,
+    "bar": "Bô",
+    "comment": null,
+    "subway": [
+      "Октябрьская"
+    ],
+    "address": "улица Крымский Вал, 9с64",
+    "coordinates": {
+      "lat": 55.730116,
+      "lng": 37.598465
+    },
+    "type": "regular",
+    "searchableText": "99 #99 03 июня 2021, bô 2021-06-03 3 июня 2021 г. bô октябрьская улица крымский вал, 9с64"
+  },
+  {
+    "id": 98,
+    "title": "20 Мая 2021, Craft Republic",
+    "dateISO": "2021-05-20",
+    "dateLabel": "20 Мая 2021 г.",
+    "year": 2021,
+    "bar": "Craft Republic",
+    "comment": null,
+    "subway": [
+      "Тверская"
+    ],
+    "address": "Малый Гнездниковский переулок, 9с2",
+    "coordinates": {
+      "lat": 55.762575,
+      "lng": 37.606318
+    },
+    "type": "regular",
+    "searchableText": "98 #98 20 мая 2021, craft republic 2021-05-20 20 мая 2021 г. craft republic тверская малый гнездниковский переулок, 9с2"
+  },
+  {
+    "id": 97,
+    "title": "29 Апреля 2021, На кранах",
+    "dateISO": "2021-04-29",
+    "dateLabel": "29 Апреля 2021 г.",
+    "year": 2021,
+    "bar": "На кранах",
+    "comment": null,
+    "subway": [
+      "Цветной бульвар"
+    ],
+    "address": "Цветной бульвар, 19с5",
+    "coordinates": {
+      "lat": 55.771803,
+      "lng": 37.619409
+    },
+    "type": "regular",
+    "searchableText": "97 #97 29 апреля 2021, на кранах 2021-04-29 29 апреля 2021 г. на кранах цветной бульвар цветной бульвар, 19с5"
+  },
+  {
+    "id": 96,
+    "title": "25 Марта 2021, Парка",
+    "dateISO": "2021-03-25",
+    "dateLabel": "25 Марта 2021 г.",
+    "year": 2021,
+    "bar": "Парка",
+    "comment": null,
+    "subway": [
+      "Новокузнецкая"
+    ],
+    "address": "Пятницкая улица, 24",
+    "coordinates": {
+      "lat": 55.741429,
+      "lng": 37.628357
+    },
+    "type": "regular",
+    "searchableText": "96 #96 25 марта 2021, парка 2021-03-25 25 марта 2021 г. парка новокузнецкая пятницкая улица, 24"
+  },
+  {
+    "id": 95,
+    "title": "11 Марта 2021, Птица-Синица",
+    "dateISO": "2021-03-11",
+    "dateLabel": "11 Марта 2021 г.",
+    "year": 2021,
+    "bar": "Птица-Синица",
+    "comment": null,
+    "subway": [
+      "Китай-город"
+    ],
+    "address": "Большой Спасоглинищевский переулок, 3с5",
+    "coordinates": {
+      "lat": 55.756385,
+      "lng": 37.635254
+    },
+    "type": "regular",
+    "searchableText": "95 #95 11 марта 2021, птица-синица 2021-03-11 11 марта 2021 г. птица-синица китай-город большой спасоглинищевский переулок, 3с5"
+  },
+  {
+    "id": 94,
+    "title": "04 Марта 2021, Barcraft",
+    "dateISO": "2021-03-04",
+    "dateLabel": "4 Марта 2021 г.",
+    "year": 2021,
+    "bar": "Barcraft",
+    "comment": null,
+    "subway": [
+      "Баррикадная"
+    ],
+    "address": "Кудринская площадь, 1",
+    "coordinates": {
+      "lat": 55.75896,
+      "lng": 37.580001
+    },
+    "type": "regular",
+    "searchableText": "94 #94 04 марта 2021, barcraft 2021-03-04 4 марта 2021 г. barcraft баррикадная кудринская площадь, 1"
+  },
+  {
+    "id": 93,
+    "title": "03 Февраля 2021, Эрик Рыжий",
+    "dateISO": "2021-02-03",
+    "dateLabel": "3 Февраля 2021 г.",
+    "year": 2021,
+    "bar": "Эрик Рыжий",
+    "comment": null,
+    "subway": [
+      "Смоленская"
+    ],
+    "address": "Спасопесковский переулок, 2/36",
+    "coordinates": {
+      "lat": 55.748691,
+      "lng": 37.5885
+    },
+    "type": "regular",
+    "searchableText": "93 #93 03 февраля 2021, эрик рыжий 2021-02-03 3 февраля 2021 г. эрик рыжий смоленская спасопесковский переулок, 2/36"
+  },
+  {
+    "id": 92,
+    "title": "20 Августа 2020, Дом в Котором Pub",
+    "dateISO": "2020-08-20",
+    "dateLabel": "20 Августа 2020 г.",
+    "year": 2020,
+    "bar": "Дом в Котором Pub",
+    "comment": null,
+    "subway": [
+      "Китай-город",
+      "Курская"
+    ],
+    "address": "улица Покровка, 14/2с3",
+    "coordinates": {
+      "lat": 55.758561,
+      "lng": 37.645409
+    },
+    "type": "regular",
+    "searchableText": "92 #92 20 августа 2020, дом в котором pub 2020-08-20 20 августа 2020 г. дом в котором pub китай-город курская улица покровка, 14/2с3"
+  },
+  {
+    "id": 91,
+    "title": "03 Июля 2020, Howard Loves Craft",
+    "dateISO": "2020-07-03",
+    "dateLabel": "3 Июля 2020 г.",
+    "year": 2020,
+    "bar": "Howard Loves Craft",
+    "comment": null,
+    "subway": [
+      "Кропоткинская",
+      "Парк Культуры",
+      "Третьяковская"
+    ],
+    "address": "Болотная набережная, 7с3",
+    "coordinates": {
+      "lat": 55.740341,
+      "lng": 37.610595
+    },
+    "type": "regular",
+    "searchableText": "91 #91 03 июля 2020, howard loves craft 2020-07-03 3 июля 2020 г. howard loves craft кропоткинская парк культуры третьяковская болотная набережная, 7с3"
+  },
+  {
+    "id": 90,
+    "title": "05 Марта 2020, Парка",
+    "dateISO": "2020-03-05",
+    "dateLabel": "5 Марта 2020 г.",
+    "year": 2020,
+    "bar": "Парка",
+    "comment": null,
+    "subway": [
+      "Новокузнецкая"
+    ],
+    "address": "Пятницкая улица, 24",
+    "coordinates": {
+      "lat": 55.741429,
+      "lng": 37.628357
+    },
+    "type": "regular",
+    "searchableText": "90 #90 05 марта 2020, парка 2020-03-05 5 марта 2020 г. парка новокузнецкая пятницкая улица, 24"
+  },
+  {
+    "id": 89,
+    "title": "27 Февраля 2020, Фракция",
+    "dateISO": "2020-02-27",
+    "dateLabel": "27 Февраля 2020 г.",
+    "year": 2020,
+    "bar": "Фракция",
+    "comment": null,
+    "subway": [
+      "Тульская"
+    ],
+    "address": "Новоданиловская набережная, 4Ас1",
+    "coordinates": {
+      "lat": 55.700563,
+      "lng": 37.62582
+    },
+    "type": "regular",
+    "searchableText": "89 #89 27 февраля 2020, фракция 2020-02-27 27 февраля 2020 г. фракция тульская новоданиловская набережная, 4ас1"
+  },
+  {
+    "id": 88,
+    "title": "30 Января 2020, Beersenev Bar",
+    "dateISO": "2020-01-30",
+    "dateLabel": "30 Января 2020 г.",
+    "year": 2020,
+    "bar": "Beersenev Bar",
+    "comment": null,
+    "subway": [
+      "Технопарк"
+    ],
+    "address": "Автозаводская улица, 23с931к5",
+    "coordinates": {
+      "lat": 55.690885,
+      "lng": 37.659048
+    },
+    "type": "regular",
+    "searchableText": "88 #88 30 января 2020, beersenev bar 2020-01-30 30 января 2020 г. beersenev bar технопарк автозаводская улица, 23с931к5"
+  },
+  {
+    "id": 87,
+    "title": "23 Января 2020, Craft and Draft",
+    "dateISO": "2020-01-23",
+    "dateLabel": "23 Января 2020 г.",
+    "year": 2020,
+    "bar": "Craft and Draft",
+    "comment": null,
+    "subway": [
+      "Арбатская"
+    ],
+    "address": "улица Арбат, 6/2",
+    "coordinates": {
+      "lat": 55.751772,
+      "lng": 37.597671
+    },
+    "type": "regular",
+    "searchableText": "87 #87 23 января 2020, craft and draft 2020-01-23 23 января 2020 г. craft and draft арбатская улица арбат, 6/2"
+  },
+  {
+    "id": 86,
+    "title": "09 Января 2020, Птица-Синица",
+    "dateISO": "2020-01-09",
+    "dateLabel": "9 Января 2020 г.",
+    "year": 2020,
+    "bar": "Птица-Синица",
+    "comment": null,
+    "subway": [
+      "Китай-город"
+    ],
+    "address": "Большой Спасоглинищевский переулок, 3с5",
+    "coordinates": {
+      "lat": 55.756385,
+      "lng": 37.635254
+    },
+    "type": "regular",
+    "searchableText": "86 #86 09 января 2020, птица-синица 2020-01-09 9 января 2020 г. птица-синица китай-город большой спасоглинищевский переулок, 3с5"
+  },
+  {
+    "id": 85,
+    "title": "05 Декабря 2019, БИРкрафт Менделеевская",
+    "dateISO": "2019-12-05",
+    "dateLabel": "5 Декабря 2019 г.",
+    "year": 2019,
+    "bar": "БИРкрафт Менделеевская",
+    "comment": null,
+    "subway": [
+      "Менделеевская"
+    ],
+    "address": "Новослободская улица, 18",
+    "coordinates": {
+      "lat": 55.782334,
+      "lng": 37.59931
+    },
+    "type": "regular",
+    "searchableText": "85 #85 05 декабря 2019, биркрафт менделеевская 2019-12-05 5 декабря 2019 г. биркрафт менделеевская менделеевская новослободская улица, 18"
+  },
+  {
+    "id": 84,
+    "title": "28 Ноября 2019, Фракция",
+    "dateISO": "2019-11-28",
+    "dateLabel": "28 Ноября 2019 г.",
+    "year": 2019,
+    "bar": "Фракция",
+    "comment": null,
+    "subway": [
+      "Тульская"
+    ],
+    "address": "Новоданиловская набережная, 4Ас1",
+    "coordinates": {
+      "lat": 55.700563,
+      "lng": 37.62582
+    },
+    "type": "regular",
+    "searchableText": "84 #84 28 ноября 2019, фракция 2019-11-28 28 ноября 2019 г. фракция тульская новоданиловская набережная, 4ас1"
+  },
+  {
+    "id": 83,
+    "title": "07 Ноября 2019, Эрик Рыжий",
+    "dateISO": "2019-11-07",
+    "dateLabel": "7 Ноября 2019 г.",
+    "year": 2019,
+    "bar": "Эрик Рыжий",
+    "comment": null,
+    "subway": [
+      "Смоленская"
+    ],
+    "address": "Спасопесковский переулок, 2/36",
+    "coordinates": {
+      "lat": 55.748691,
+      "lng": 37.5885
+    },
+    "type": "regular",
+    "searchableText": "83 #83 07 ноября 2019, эрик рыжий 2019-11-07 7 ноября 2019 г. эрик рыжий смоленская спасопесковский переулок, 2/36"
+  },
+  {
+    "id": 82,
+    "title": "17 Октября 2019, Punk Fiction",
+    "dateISO": "2019-10-17",
+    "dateLabel": "17 Октября 2019 г.",
+    "year": 2019,
+    "bar": "Punk Fiction",
+    "comment": null,
+    "subway": [
+      "Бауманская",
+      "Красносельская"
+    ],
+    "address": "Ольховская улица, 14с1",
+    "coordinates": {
+      "lat": 55.774644,
+      "lng": 37.671
+    },
+    "type": "regular",
+    "searchableText": "82 #82 17 октября 2019, punk fiction 2019-10-17 17 октября 2019 г. punk fiction бауманская красносельская ольховская улица, 14с1"
+  },
+  {
+    "id": 81,
+    "title": "03 Октября 2019, Rule taproom",
+    "dateISO": "2019-10-03",
+    "dateLabel": "3 Октября 2019 г.",
+    "year": 2019,
+    "bar": "Rule taproom",
+    "comment": null,
+    "subway": [
+      "Арбатская",
+      "Боровицкая"
+    ],
+    "address": "Староваганьковский переулок, 19с7",
+    "coordinates": {
+      "lat": 55.751302,
+      "lng": 37.607041
+    },
+    "type": "regular",
+    "searchableText": "81 #81 03 октября 2019, rule taproom 2019-10-03 3 октября 2019 г. rule taproom арбатская боровицкая староваганьковский переулок, 19с7"
+  },
+  {
+    "id": 80,
+    "title": "22 Августа 2019, Птица-Синица",
+    "dateISO": "2019-08-22",
+    "dateLabel": "22 Августа 2019 г.",
+    "year": 2019,
+    "bar": "Птица-Синица",
+    "comment": null,
+    "subway": [
+      "Китай-город"
+    ],
+    "address": "Большой Спасоглинищевский переулок, 3с5",
+    "coordinates": {
+      "lat": 55.756385,
+      "lng": 37.635254
+    },
+    "type": "regular",
+    "searchableText": "80 #80 22 августа 2019, птица-синица 2019-08-22 22 августа 2019 г. птица-синица китай-город большой спасоглинищевский переулок, 3с5"
+  },
+  {
+    "id": 79,
+    "title": "20 Июня 2019, Los Bandidos",
+    "dateISO": "2019-06-20",
+    "dateLabel": "20 Июня 2019 г.",
+    "year": 2019,
+    "bar": "Los Bandidos",
+    "comment": null,
+    "subway": [
+      "Китай-город"
+    ],
+    "address": "улица Маросейка, 2/15с1",
+    "coordinates": {
+      "lat": 55.757266,
+      "lng": 37.632569
+    },
+    "type": "regular",
+    "searchableText": "79 #79 20 июня 2019, los bandidos 2019-06-20 20 июня 2019 г. los bandidos китай-город улица маросейка, 2/15с1"
+  },
+  {
+    "id": 78,
+    "title": "06 Июня 2019, Fcking Craft Pub",
+    "dateISO": "2019-06-06",
+    "dateLabel": "6 Июня 2019 г.",
+    "year": 2019,
+    "bar": "Fcking Craft Pub",
+    "comment": null,
+    "subway": [
+      "Новослободская"
+    ],
+    "address": "Новослободская ул., 16А",
+    "coordinates": {
+      "lat": 55.782082,
+      "lng": 37.599597
+    },
+    "type": "regular",
+    "searchableText": "78 #78 06 июня 2019, fcking craft pub 2019-06-06 6 июня 2019 г. fcking craft pub новослободская новослободская ул., 16а"
+  },
+  {
+    "id": 77,
+    "title": "20 Марта 2019, Barcraft",
+    "dateISO": "2019-03-20",
+    "dateLabel": "20 Марта 2019 г.",
+    "year": 2019,
+    "bar": "Barcraft",
+    "comment": null,
+    "subway": [
+      "Баррикадная"
+    ],
+    "address": "Кудринская площадь, 1",
+    "coordinates": {
+      "lat": 55.75896,
+      "lng": 37.580001
+    },
+    "type": "regular",
+    "searchableText": "77 #77 20 марта 2019, barcraft 2019-03-20 20 марта 2019 г. barcraft баррикадная кудринская площадь, 1"
+  },
+  {
+    "id": 76,
+    "title": "06 Марта 2019, Barcraft",
+    "dateISO": "2019-03-06",
+    "dateLabel": "6 Марта 2019 г.",
+    "year": 2019,
+    "bar": "Barcraft",
+    "comment": null,
+    "subway": [
+      "Баррикадная"
+    ],
+    "address": "Кудринская площадь, 1",
+    "coordinates": {
+      "lat": 55.75896,
+      "lng": 37.580001
+    },
+    "type": "regular",
+    "searchableText": "76 #76 06 марта 2019, barcraft 2019-03-06 6 марта 2019 г. barcraft баррикадная кудринская площадь, 1"
+  },
+  {
+    "id": 75,
+    "title": "10 Января 2019, МореПиva",
+    "dateISO": "2019-01-10",
+    "dateLabel": "10 Января 2019 г.",
+    "year": 2019,
+    "bar": "МореПиva",
+    "comment": null,
+    "subway": [
+      "Баррикадная"
+    ],
+    "address": "Баррикадная улица, 2/1с1",
+    "coordinates": {
+      "lat": 55.759481,
+      "lng": 37.583032
+    },
+    "type": "regular",
+    "searchableText": "75 #75 10 января 2019, морепиva 2019-01-10 10 января 2019 г. морепиva баррикадная баррикадная улица, 2/1с1"
+  },
+  {
+    "id": 74,
+    "title": "10 Января 2019, One More Pub",
+    "dateISO": "2019-01-10",
+    "dateLabel": "10 Января 2019 г.",
+    "year": 2019,
+    "bar": "One More Pub",
+    "comment": null,
+    "subway": [
+      "Белорусская"
+    ],
+    "address": "улица Бутырский Вал, 5",
+    "coordinates": {
+      "lat": 55.778913,
+      "lng": 37.585178
+    },
+    "type": "regular",
+    "searchableText": "74 #74 10 января 2019, one more pub 2019-01-10 10 января 2019 г. one more pub белорусская улица бутырский вал, 5"
+  },
+  {
+    "id": 73,
+    "title": "22 Ноября 2018, Эрик Рыжий",
+    "dateISO": "2018-11-22",
+    "dateLabel": "22 Ноября 2018 г.",
+    "year": 2018,
+    "bar": "Эрик Рыжий",
+    "comment": null,
+    "subway": [
+      "Смоленская"
+    ],
+    "address": "Спасопесковский переулок, 2/36",
+    "coordinates": {
+      "lat": 55.748691,
+      "lng": 37.5885
+    },
+    "type": "regular",
+    "searchableText": "73 #73 22 ноября 2018, эрик рыжий 2018-11-22 22 ноября 2018 г. эрик рыжий смоленская спасопесковский переулок, 2/36"
+  },
+  {
+    "id": 72,
+    "title": "08 Ноября 2018, Птица-Синица",
+    "dateISO": "2018-11-08",
+    "dateLabel": "8 Ноября 2018 г.",
+    "year": 2018,
+    "bar": "Птица-Синица",
+    "comment": null,
+    "subway": [
+      "Китай-город"
+    ],
+    "address": "Большой Спасоглинищевский переулок, 3с5",
+    "coordinates": {
+      "lat": 55.756385,
+      "lng": 37.635254
+    },
+    "type": "regular",
+    "searchableText": "72 #72 08 ноября 2018, птица-синица 2018-11-08 8 ноября 2018 г. птица-синица китай-город большой спасоглинищевский переулок, 3с5"
+  },
+  {
+    "id": 71,
+    "title": "25 Октября 2018, Fcking Craft Pub",
+    "dateISO": "2018-10-25",
+    "dateLabel": "25 Октября 2018 г.",
+    "year": 2018,
+    "bar": "Fcking Craft Pub",
+    "comment": null,
+    "subway": [
+      "Новослободская"
+    ],
+    "address": "Новослободская ул., 16А",
+    "coordinates": {
+      "lat": 55.782082,
+      "lng": 37.599597
+    },
+    "type": "regular",
+    "searchableText": "71 #71 25 октября 2018, fcking craft pub 2018-10-25 25 октября 2018 г. fcking craft pub новослободская новослободская ул., 16а"
+  },
+  {
+    "id": 70,
+    "title": "11 Октября 2018, Фракция",
+    "dateISO": "2018-10-11",
+    "dateLabel": "11 Октября 2018 г.",
+    "year": 2018,
+    "bar": "Фракция",
+    "comment": null,
+    "subway": [
+      "Тульская"
+    ],
+    "address": "Новоданиловская набережная, 4Ас1",
+    "coordinates": {
+      "lat": 55.700563,
+      "lng": 37.62582
+    },
+    "type": "regular",
+    "searchableText": "70 #70 11 октября 2018, фракция 2018-10-11 11 октября 2018 г. фракция тульская новоданиловская набережная, 4ас1"
+  },
+  {
+    "id": 69,
+    "title": "04 Октября 2018, Эрик Рыжий",
+    "dateISO": "2018-10-04",
+    "dateLabel": "4 Октября 2018 г.",
+    "year": 2018,
+    "bar": "Эрик Рыжий",
+    "comment": null,
+    "subway": [
+      "Смоленская"
+    ],
+    "address": "Спасопесковский переулок, 2/36",
+    "coordinates": {
+      "lat": 55.748691,
+      "lng": 37.5885
+    },
+    "type": "regular",
+    "searchableText": "69 #69 04 октября 2018, эрик рыжий 2018-10-04 4 октября 2018 г. эрик рыжий смоленская спасопесковский переулок, 2/36"
+  },
+  {
+    "id": 68,
+    "title": "27 Сентября 2018, Гастропаб 31",
+    "dateISO": "2018-09-27",
+    "dateLabel": "27 Сентября 2018 г.",
+    "year": 2018,
+    "bar": "Гастропаб 31",
+    "comment": null,
+    "subway": [
+      "Шаболовская"
+    ],
+    "address": "Шаболовка, 31г",
+    "coordinates": {
+      "lat": 55.720312,
+      "lng": 37.610115
+    },
+    "type": "regular",
+    "searchableText": "68 #68 27 сентября 2018, гастропаб 31 2018-09-27 27 сентября 2018 г. гастропаб 31 шаболовская шаболовка, 31г"
+  },
+  {
+    "id": 67,
+    "title": "06 Сентября 2018, БИРкрафт Менделеевская",
+    "dateISO": "2018-09-06",
+    "dateLabel": "6 Сентября 2018 г.",
+    "year": 2018,
+    "bar": "БИРкрафт Менделеевская",
+    "comment": null,
+    "subway": [
+      "Менделеевская"
+    ],
+    "address": "Новослободская улица, 18",
+    "coordinates": {
+      "lat": 55.782334,
+      "lng": 37.59931
+    },
+    "type": "regular",
+    "searchableText": "67 #67 06 сентября 2018, биркрафт менделеевская 2018-09-06 6 сентября 2018 г. биркрафт менделеевская менделеевская новослободская улица, 18"
+  },
+  {
+    "id": 66,
+    "title": "23 Августа 2018, Питчер",
+    "dateISO": "2018-08-23",
+    "dateLabel": "23 Августа 2018 г.",
+    "year": 2018,
+    "bar": "Питчер",
+    "comment": null,
+    "subway": [
+      "Добрынинская"
+    ],
+    "address": "Большой Спасоглинищевский переулок, 3с5",
+    "coordinates": {
+      "lat": 55.75643,
+      "lng": 37.635269
+    },
+    "type": "regular",
+    "searchableText": "66 #66 23 августа 2018, питчер 2018-08-23 23 августа 2018 г. питчер добрынинская большой спасоглинищевский переулок, 3с5"
+  },
+  {
+    "id": 65,
+    "title": "02 Августа 2018, Ян Примус",
+    "dateISO": "2018-08-02",
+    "dateLabel": "2 Августа 2018 г.",
+    "year": 2018,
+    "bar": "Ян Примус",
+    "comment": null,
+    "subway": [
+      "Бауманская"
+    ],
+    "address": "Спартаковская улица, 23",
+    "coordinates": {
+      "lat": 55.773161,
+      "lng": 37.678011
+    },
+    "type": "regular",
+    "searchableText": "65 #65 02 августа 2018, ян примус 2018-08-02 2 августа 2018 г. ян примус бауманская спартаковская улица, 23"
+  },
+  {
+    "id": 64,
+    "title": "26 Июля 2018, Rule taproom",
+    "dateISO": "2018-07-26",
+    "dateLabel": "26 Июля 2018 г.",
+    "year": 2018,
+    "bar": "Rule taproom",
+    "comment": null,
+    "subway": [
+      "Арбатская",
+      "Боровицкая"
+    ],
+    "address": "Староваганьковский переулок, 19с7",
+    "coordinates": {
+      "lat": 55.751302,
+      "lng": 37.607041
+    },
+    "type": "regular",
+    "searchableText": "64 #64 26 июля 2018, rule taproom 2018-07-26 26 июля 2018 г. rule taproom арбатская боровицкая староваганьковский переулок, 19с7"
+  },
+  {
+    "id": 63,
+    "title": "12 Июля 2018, Парка",
+    "dateISO": "2018-07-12",
+    "dateLabel": "12 Июля 2018 г.",
+    "year": 2018,
+    "bar": "Парка",
+    "comment": null,
+    "subway": [
+      "Новокузнецкая"
+    ],
+    "address": "Пятницкая улица, 24",
+    "coordinates": {
+      "lat": 55.741429,
+      "lng": 37.628357
+    },
+    "type": "regular",
+    "searchableText": "63 #63 12 июля 2018, парка 2018-07-12 12 июля 2018 г. парка новокузнецкая пятницкая улица, 24"
+  },
+  {
+    "id": 62,
+    "title": "05 Июля 2018, White Eagles Pub",
+    "dateISO": "2018-07-05",
+    "dateLabel": "5 Июля 2018 г.",
+    "year": 2018,
+    "bar": "White Eagles Pub",
+    "comment": null,
+    "subway": [
+      "Тверская"
+    ],
+    "address": "Козицкий переулок, 1Ас2",
+    "coordinates": {
+      "lat": 55.76482,
+      "lng": 37.608
+    },
+    "type": "regular",
+    "searchableText": "62 #62 05 июля 2018, white eagles pub 2018-07-05 5 июля 2018 г. white eagles pub тверская козицкий переулок, 1ас2"
+  },
+  {
+    "id": 61,
+    "title": "21 Июня 2018, Парка",
+    "dateISO": "2018-06-21",
+    "dateLabel": "21 Июня 2018 г.",
+    "year": 2018,
+    "bar": "Парка",
+    "comment": null,
+    "subway": [
+      "Новокузнецкая"
+    ],
+    "address": "Пятницкая улица, 24",
+    "coordinates": {
+      "lat": 55.741429,
+      "lng": 37.628357
+    },
+    "type": "regular",
+    "searchableText": "61 #61 21 июня 2018, парка 2018-06-21 21 июня 2018 г. парка новокузнецкая пятницкая улица, 24"
+  },
+  {
+    "id": 60,
+    "title": "14 Июня 2018, Эрик Рыжий",
+    "dateISO": "2018-06-14",
+    "dateLabel": "14 Июня 2018 г.",
+    "year": 2018,
+    "bar": "Эрик Рыжий",
+    "comment": null,
+    "subway": [
+      "Смоленская"
+    ],
+    "address": "Спасопесковский переулок, 2/36",
+    "coordinates": {
+      "lat": 55.748691,
+      "lng": 37.5885
+    },
+    "type": "regular",
+    "searchableText": "60 #60 14 июня 2018, эрик рыжий 2018-06-14 14 июня 2018 г. эрик рыжий смоленская спасопесковский переулок, 2/36"
+  },
+  {
+    "id": 59,
+    "title": "31 Мая 2018, Джон Донн",
+    "dateISO": "2018-05-31",
+    "dateLabel": "31 Мая 2018 г.",
+    "year": 2018,
+    "bar": "Джон Донн",
+    "comment": null,
+    "subway": [
+      "Арбатская"
+    ],
+    "address": "Никитский бульвар, 12",
+    "coordinates": {
+      "lat": 55.755462,
+      "lng": 37.600417
+    },
+    "type": "regular",
+    "searchableText": "59 #59 31 мая 2018, джон донн 2018-05-31 31 мая 2018 г. джон донн арбатская никитский бульвар, 12"
+  },
+  {
+    "id": 58,
+    "title": "24 Мая 2018, Птица-Синица",
+    "dateISO": "2018-05-24",
+    "dateLabel": "24 Мая 2018 г.",
+    "year": 2018,
+    "bar": "Птица-Синица",
+    "comment": null,
+    "subway": [
+      "Китай-город"
+    ],
+    "address": "Большой Спасоглинищевский переулок, 3с5",
+    "coordinates": {
+      "lat": 55.756385,
+      "lng": 37.635254
+    },
+    "type": "regular",
+    "searchableText": "58 #58 24 мая 2018, птица-синица 2018-05-24 24 мая 2018 г. птица-синица китай-город большой спасоглинищевский переулок, 3с5"
+  },
+  {
+    "id": 57,
+    "title": "19 Апреля 2018, White Eagles Pub",
+    "dateISO": "2018-04-19",
+    "dateLabel": "19 Апреля 2018 г.",
+    "year": 2018,
+    "bar": "White Eagles Pub",
+    "comment": null,
+    "subway": [
+      "Тверская"
+    ],
+    "address": "Козицкий переулок, 1Ас2",
+    "coordinates": {
+      "lat": 55.76482,
+      "lng": 37.608
+    },
+    "type": "regular",
+    "searchableText": "57 #57 19 апреля 2018, white eagles pub 2018-04-19 19 апреля 2018 г. white eagles pub тверская козицкий переулок, 1ас2"
+  },
+  {
+    "id": 56,
+    "title": "22 Марта 2018, Craft Station",
+    "dateISO": "2018-03-22",
+    "dateLabel": "22 Марта 2018 г.",
+    "year": 2018,
+    "bar": "Craft Station",
+    "comment": null,
+    "subway": [
+      "Тверская"
+    ],
+    "address": "Страстной бульвар, 4с3",
+    "coordinates": {
+      "lat": 55.764987,
+      "lng": 37.608212
+    },
+    "type": "regular",
+    "searchableText": "56 #56 22 марта 2018, craft station 2018-03-22 22 марта 2018 г. craft station тверская страстной бульвар, 4с3"
+  },
+  {
+    "id": 55,
+    "title": "15 Марта 2018, Крапива",
+    "dateISO": "2018-03-15",
+    "dateLabel": "15 Марта 2018 г.",
+    "year": 2018,
+    "bar": "Крапива",
+    "comment": null,
+    "subway": [
+      "Чистые пруды"
+    ],
+    "address": "Потаповский переулок, 5с2",
+    "coordinates": {
+      "lat": 55.761447,
+      "lng": 37.640785
+    },
+    "type": "regular",
+    "searchableText": "55 #55 15 марта 2018, крапива 2018-03-15 15 марта 2018 г. крапива чистые пруды потаповский переулок, 5с2"
+  },
+  {
+    "id": 54,
+    "title": "01 Марта 2018, One More Pub",
+    "dateISO": "2018-03-01",
+    "dateLabel": "1 Марта 2018 г.",
+    "year": 2018,
+    "bar": "One More Pub",
+    "comment": null,
+    "subway": [
+      "Белорусская"
+    ],
+    "address": "улица Бутырский Вал, 5",
+    "coordinates": {
+      "lat": 55.778913,
+      "lng": 37.585178
+    },
+    "type": "regular",
+    "searchableText": "54 #54 01 марта 2018, one more pub 2018-03-01 1 марта 2018 г. one more pub белорусская улица бутырский вал, 5"
+  },
+  {
+    "id": 53,
+    "title": "15 Февраля 2018, Гастропаб 31",
+    "dateISO": "2018-02-15",
+    "dateLabel": "15 Февраля 2018 г.",
+    "year": 2018,
+    "bar": "Гастропаб 31",
+    "comment": null,
+    "subway": [
+      "Шаболовская"
+    ],
+    "address": "Шаболовка, 31г",
+    "coordinates": {
+      "lat": 55.720312,
+      "lng": 37.610115
+    },
+    "type": "regular",
+    "searchableText": "53 #53 15 февраля 2018, гастропаб 31 2018-02-15 15 февраля 2018 г. гастропаб 31 шаболовская шаболовка, 31г"
+  },
+  {
+    "id": 52,
+    "title": "25 Января 2018, Крафтъ 22",
+    "dateISO": "2018-01-25",
+    "dateLabel": "25 Января 2018 г.",
+    "year": 2018,
+    "bar": "Крафтъ 22",
+    "comment": null,
+    "subway": [
+      "Севастопольская",
+      "Чертановская"
+    ],
+    "address": "Симферопольский бульвар, 22к1",
+    "coordinates": {
+      "lat": 55.64802,
+      "lng": 37.604792
+    },
+    "type": "regular",
+    "searchableText": "52 #52 25 января 2018, крафтъ 22 2018-01-25 25 января 2018 г. крафтъ 22 севастопольская чертановская симферопольский бульвар, 22к1"
+  },
+  {
+    "id": 51,
+    "title": "18 Января 2018, Ветка",
+    "dateISO": "2018-01-18",
+    "dateLabel": "18 Января 2018 г.",
+    "year": 2018,
+    "bar": "Ветка",
+    "comment": null,
+    "subway": [
+      "Площадь Ильича",
+      "Таганская"
+    ],
+    "address": "улица Александра Солженицына, 44",
+    "coordinates": {
+      "lat": 55.745562,
+      "lng": 37.66801
+    },
+    "type": "regular",
+    "searchableText": "51 #51 18 января 2018, ветка 2018-01-18 18 января 2018 г. ветка площадь ильича таганская улица александра солженицына, 44"
+  },
+  {
+    "id": 50,
+    "title": "28 Декабря 2017, Craft Station",
+    "dateISO": "2017-12-28",
+    "dateLabel": "28 Декабря 2017 г.",
+    "year": 2017,
+    "bar": "Craft Station",
+    "comment": null,
+    "subway": [
+      "Тверская"
+    ],
+    "address": "Страстной бульвар, 4с3",
+    "coordinates": {
+      "lat": 55.764987,
+      "lng": 37.608212
+    },
+    "type": "regular",
+    "searchableText": "50 #50 28 декабря 2017, craft station 2017-12-28 28 декабря 2017 г. craft station тверская страстной бульвар, 4с3"
+  },
+  {
+    "id": 49,
+    "title": "21 Декабря 2017, Эрик Рыжий",
+    "dateISO": "2017-12-21",
+    "dateLabel": "21 Декабря 2017 г.",
+    "year": 2017,
+    "bar": "Эрик Рыжий",
+    "comment": null,
+    "subway": [
+      "Смоленская"
+    ],
+    "address": "Спасопесковский переулок, 2/36",
+    "coordinates": {
+      "lat": 55.748691,
+      "lng": 37.5885
+    },
+    "type": "regular",
+    "searchableText": "49 #49 21 декабря 2017, эрик рыжий 2017-12-21 21 декабря 2017 г. эрик рыжий смоленская спасопесковский переулок, 2/36"
+  },
+  {
+    "id": 48,
+    "title": "30 Ноября 2017, White Eagles Pub",
+    "dateISO": "2017-11-30",
+    "dateLabel": "30 Ноября 2017 г.",
+    "year": 2017,
+    "bar": "White Eagles Pub",
+    "comment": null,
+    "subway": [
+      "Тверская"
+    ],
+    "address": "Козицкий переулок, 1Ас2",
+    "coordinates": {
+      "lat": 55.76482,
+      "lng": 37.608
+    },
+    "type": "regular",
+    "searchableText": "48 #48 30 ноября 2017, white eagles pub 2017-11-30 30 ноября 2017 г. white eagles pub тверская козицкий переулок, 1ас2"
+  },
+  {
+    "id": 47,
+    "title": "23 Ноября 2017, White Eagles Pub",
+    "dateISO": "2017-11-23",
+    "dateLabel": "23 Ноября 2017 г.",
+    "year": 2017,
+    "bar": "White Eagles Pub",
+    "comment": null,
+    "subway": [
+      "Тверская"
+    ],
+    "address": "Козицкий переулок, 1Ас2",
+    "coordinates": {
+      "lat": 55.76482,
+      "lng": 37.608
+    },
+    "type": "regular",
+    "searchableText": "47 #47 23 ноября 2017, white eagles pub 2017-11-23 23 ноября 2017 г. white eagles pub тверская козицкий переулок, 1ас2"
+  },
+  {
+    "id": 46,
+    "title": "09 Ноября 2017, Ветка",
+    "dateISO": "2017-11-09",
+    "dateLabel": "9 Ноября 2017 г.",
+    "year": 2017,
+    "bar": "Ветка",
+    "comment": null,
+    "subway": [
+      "Площадь Ильича",
+      "Таганская"
+    ],
+    "address": "улица Александра Солженицына, 44",
+    "coordinates": {
+      "lat": 55.745562,
+      "lng": 37.66801
+    },
+    "type": "regular",
+    "searchableText": "46 #46 09 ноября 2017, ветка 2017-11-09 9 ноября 2017 г. ветка площадь ильича таганская улица александра солженицына, 44"
+  },
+  {
+    "id": 45,
+    "title": "19 Октября 2017, Птица-Синица",
+    "dateISO": "2017-10-19",
+    "dateLabel": "19 Октября 2017 г.",
+    "year": 2017,
+    "bar": "Птица-Синица",
+    "comment": null,
+    "subway": [
+      "Китай-город"
+    ],
+    "address": "Большой Спасоглинищевский переулок, 3с5",
+    "coordinates": {
+      "lat": 55.756385,
+      "lng": 37.635254
+    },
+    "type": "regular",
+    "searchableText": "45 #45 19 октября 2017, птица-синица 2017-10-19 19 октября 2017 г. птица-синица китай-город большой спасоглинищевский переулок, 3с5"
+  },
+  {
+    "id": 44,
+    "title": "12 Октября 2017, Kitchen Burger Bar",
+    "dateISO": "2017-10-12",
+    "dateLabel": "12 Октября 2017 г.",
+    "year": 2017,
+    "bar": "Kitchen Burger Bar",
+    "comment": null,
+    "subway": [
+      "Добрынинская"
+    ],
+    "address": "ул. Пятницкая, 82/34с1",
+    "coordinates": {
+      "lat": 55.730218,
+      "lng": 37.625307
+    },
+    "type": "regular",
+    "searchableText": "44 #44 12 октября 2017, kitchen burger bar 2017-10-12 12 октября 2017 г. kitchen burger bar добрынинская ул. пятницкая, 82/34с1"
+  },
+  {
+    "id": 43,
+    "title": "21 Сентября 2017, Barcraft",
+    "dateISO": "2017-09-21",
+    "dateLabel": "21 Сентября 2017 г.",
+    "year": 2017,
+    "bar": "Barcraft",
+    "comment": null,
+    "subway": [
+      "Баррикадная"
+    ],
+    "address": "Кудринская площадь, 1",
+    "coordinates": {
+      "lat": 55.75896,
+      "lng": 37.580001
+    },
+    "type": "regular",
+    "searchableText": "43 #43 21 сентября 2017, barcraft 2017-09-21 21 сентября 2017 г. barcraft баррикадная кудринская площадь, 1"
+  },
+  {
+    "id": 42,
+    "title": "14 Сентября 2017, Паб-ресторан Cuba",
+    "dateISO": "2017-09-14",
+    "dateLabel": "14 Сентября 2017 г.",
+    "year": 2017,
+    "bar": "Паб-ресторан Cuba",
+    "comment": null,
+    "subway": [
+      "Речной вокзал"
+    ],
+    "address": "Ленинградское шоссе, 84",
+    "coordinates": {
+      "lat": 55.84901,
+      "lng": 37.475204
+    },
+    "type": "regular",
+    "searchableText": "42 #42 14 сентября 2017, паб-ресторан cuba 2017-09-14 14 сентября 2017 г. паб-ресторан cuba речной вокзал ленинградское шоссе, 84"
+  },
+  {
+    "id": 41,
+    "title": "24 Августа 2017, Dark Patricks Pub",
+    "dateISO": "2017-08-24",
+    "dateLabel": "24 Августа 2017 г.",
+    "year": 2017,
+    "bar": "Dark Patricks Pub",
+    "comment": null,
+    "subway": [
+      "Лубянка"
+    ],
+    "address": "Большой Златоустинский переулок, 1с1",
+    "coordinates": {
+      "lat": 55.759979,
+      "lng": 37.631529
+    },
+    "type": "regular",
+    "searchableText": "41 #41 24 августа 2017, dark patricks pub 2017-08-24 24 августа 2017 г. dark patricks pub лубянка большой златоустинский переулок, 1с1"
+  },
+  {
+    "id": 40,
+    "title": "10 Августа 2017, Fcking Craft Pub",
+    "dateISO": "2017-08-10",
+    "dateLabel": "10 Августа 2017 г.",
+    "year": 2017,
+    "bar": "Fcking Craft Pub",
+    "comment": null,
+    "subway": [
+      "Новослободская"
+    ],
+    "address": "Новослободская ул., 16А",
+    "coordinates": {
+      "lat": 55.782082,
+      "lng": 37.599597
+    },
+    "type": "regular",
+    "searchableText": "40 #40 10 августа 2017, fcking craft pub 2017-08-10 10 августа 2017 г. fcking craft pub новослободская новослободская ул., 16а"
+  },
+  {
+    "id": 39,
+    "title": "27 Июля 2017, Парка",
+    "dateISO": "2017-07-27",
+    "dateLabel": "27 Июля 2017 г.",
+    "year": 2017,
+    "bar": "Парка",
+    "comment": null,
+    "subway": [
+      "Новокузнецкая"
+    ],
+    "address": "Пятницкая улица, 24",
+    "coordinates": {
+      "lat": 55.741429,
+      "lng": 37.628357
+    },
+    "type": "regular",
+    "searchableText": "39 #39 27 июля 2017, парка 2017-07-27 27 июля 2017 г. парка новокузнецкая пятницкая улица, 24"
+  },
+  {
+    "id": 38,
+    "title": "13 Июля 2017, Птица-Синица",
+    "dateISO": "2017-07-13",
+    "dateLabel": "13 Июля 2017 г.",
+    "year": 2017,
+    "bar": "Птица-Синица",
+    "comment": null,
+    "subway": [
+      "Китай-город"
+    ],
+    "address": "Большой Спасоглинищевский переулок, 3с5",
+    "coordinates": {
+      "lat": 55.756385,
+      "lng": 37.635254
+    },
+    "type": "regular",
+    "searchableText": "38 #38 13 июля 2017, птица-синица 2017-07-13 13 июля 2017 г. птица-синица китай-город большой спасоглинищевский переулок, 3с5"
+  },
+  {
+    "id": 37,
+    "title": "06 Июля 2017, Птица-Синица",
+    "dateISO": "2017-07-06",
+    "dateLabel": "6 Июля 2017 г.",
+    "year": 2017,
+    "bar": "Птица-Синица",
+    "comment": null,
+    "subway": [
+      "Китай-город"
+    ],
+    "address": "Большой Спасоглинищевский переулок, 3с5",
+    "coordinates": {
+      "lat": 55.756385,
+      "lng": 37.635254
+    },
+    "type": "regular",
+    "searchableText": "37 #37 06 июля 2017, птица-синица 2017-07-06 6 июля 2017 г. птица-синица китай-город большой спасоглинищевский переулок, 3с5"
+  },
+  {
+    "id": 36,
+    "title": "29 Июня 2017, Los Bandidos",
+    "dateISO": "2017-06-29",
+    "dateLabel": "29 Июня 2017 г.",
+    "year": 2017,
+    "bar": "Los Bandidos",
+    "comment": null,
+    "subway": [
+      "Китай-город"
+    ],
+    "address": "улица Маросейка, 2/15с1",
+    "coordinates": {
+      "lat": 55.757266,
+      "lng": 37.632569
+    },
+    "type": "regular",
+    "searchableText": "36 #36 29 июня 2017, los bandidos 2017-06-29 29 июня 2017 г. los bandidos китай-город улица маросейка, 2/15с1"
+  },
+  {
+    "id": 35,
+    "title": "08 Июня 2017, Парка",
+    "dateISO": "2017-06-08",
+    "dateLabel": "8 Июня 2017 г.",
+    "year": 2017,
+    "bar": "Парка",
+    "comment": null,
+    "subway": [
+      "Новокузнецкая"
+    ],
+    "address": "Пятницкая улица, 24",
+    "coordinates": {
+      "lat": 55.741429,
+      "lng": 37.628357
+    },
+    "type": "regular",
+    "searchableText": "35 #35 08 июня 2017, парка 2017-06-08 8 июня 2017 г. парка новокузнецкая пятницкая улица, 24"
+  },
+  {
+    "id": 34,
+    "title": "01 Июня 2017, Dark Patricks Pub",
+    "dateISO": "2017-06-01",
+    "dateLabel": "1 Июня 2017 г.",
+    "year": 2017,
+    "bar": "Dark Patricks Pub",
+    "comment": null,
+    "subway": [
+      "Лубянка"
+    ],
+    "address": "Большой Златоустинский переулок, 1с1",
+    "coordinates": {
+      "lat": 55.759979,
+      "lng": 37.631529
+    },
+    "type": "regular",
+    "searchableText": "34 #34 01 июня 2017, dark patricks pub 2017-06-01 1 июня 2017 г. dark patricks pub лубянка большой златоустинский переулок, 1с1"
+  },
+  {
+    "id": 33,
+    "title": "11 Мая 2017, Эрик Рыжий",
+    "dateISO": "2017-05-11",
+    "dateLabel": "11 Мая 2017 г.",
+    "year": 2017,
+    "bar": "Эрик Рыжий",
+    "comment": null,
+    "subway": [
+      "Смоленская"
+    ],
+    "address": "Спасопесковский переулок, 2/36",
+    "coordinates": {
+      "lat": 55.748691,
+      "lng": 37.5885
+    },
+    "type": "regular",
+    "searchableText": "33 #33 11 мая 2017, эрик рыжий 2017-05-11 11 мая 2017 г. эрик рыжий смоленская спасопесковский переулок, 2/36"
+  },
+  {
+    "id": 32,
+    "title": "27 Апреля 2017, Пес Борода",
+    "dateISO": "2017-04-27",
+    "dateLabel": "27 Апреля 2017 г.",
+    "year": 2017,
+    "bar": "Пес Борода",
+    "comment": null,
+    "subway": [
+      "Цветной бульвар"
+    ],
+    "address": "Трубная, 15",
+    "coordinates": {
+      "lat": 55.769373,
+      "lng": 37.624849
+    },
+    "type": "regular",
+    "searchableText": "32 #32 27 апреля 2017, пес борода 2017-04-27 27 апреля 2017 г. пес борода цветной бульвар трубная, 15"
+  },
+  {
+    "id": 31,
+    "title": "20 Апреля 2017, Эрик Рыжий",
+    "dateISO": "2017-04-20",
+    "dateLabel": "20 Апреля 2017 г.",
+    "year": 2017,
+    "bar": "Эрик Рыжий",
+    "comment": null,
+    "subway": [
+      "Смоленская"
+    ],
+    "address": "Спасопесковский переулок, 2/36",
+    "coordinates": {
+      "lat": 55.748691,
+      "lng": 37.5885
+    },
+    "type": "regular",
+    "searchableText": "31 #31 20 апреля 2017, эрик рыжий 2017-04-20 20 апреля 2017 г. эрик рыжий смоленская спасопесковский переулок, 2/36"
+  },
+  {
+    "id": 30,
+    "title": "13 Апреля 2017, Гастропаб 31",
+    "dateISO": "2017-04-13",
+    "dateLabel": "13 Апреля 2017 г.",
+    "year": 2017,
+    "bar": "Гастропаб 31",
+    "comment": null,
+    "subway": [
+      "Шаболовская"
+    ],
+    "address": "Шаболовка, 31г",
+    "coordinates": {
+      "lat": 55.720312,
+      "lng": 37.610115
+    },
+    "type": "regular",
+    "searchableText": "30 #30 13 апреля 2017, гастропаб 31 2017-04-13 13 апреля 2017 г. гастропаб 31 шаболовская шаболовка, 31г"
+  },
+  {
+    "id": 29,
+    "title": "30 Марта 2017, Fcking Craft Pub",
+    "dateISO": "2017-03-30",
+    "dateLabel": "30 Марта 2017 г.",
+    "year": 2017,
+    "bar": "Fcking Craft Pub",
+    "comment": null,
+    "subway": [
+      "Новослободская"
+    ],
+    "address": "Новослободская ул., 16А",
+    "coordinates": {
+      "lat": 55.782082,
+      "lng": 37.599597
+    },
+    "type": "regular",
+    "searchableText": "29 #29 30 марта 2017, fcking craft pub 2017-03-30 30 марта 2017 г. fcking craft pub новослободская новослободская ул., 16а"
+  },
+  {
+    "id": 28,
+    "title": "23 Марта 2017, Прогресс",
+    "dateISO": "2017-03-23",
+    "dateLabel": "23 Марта 2017 г.",
+    "year": 2017,
+    "bar": "Прогресс",
+    "comment": null,
+    "subway": [
+      "Белорусская"
+    ],
+    "address": "улица Пресненский Вал, 38с1",
+    "coordinates": {
+      "lat": 55.771367,
+      "lng": 37.570232
+    },
+    "type": "regular",
+    "searchableText": "28 #28 23 марта 2017, прогресс 2017-03-23 23 марта 2017 г. прогресс белорусская улица пресненский вал, 38с1"
+  },
+  {
+    "id": 27,
+    "title": "02 Марта 2017, Fcking Craft Pub",
+    "dateISO": "2017-03-02",
+    "dateLabel": "2 Марта 2017 г.",
+    "year": 2017,
+    "bar": "Fcking Craft Pub",
+    "comment": null,
+    "subway": [
+      "Новослободская"
+    ],
+    "address": "Новослободская ул., 16А",
+    "coordinates": {
+      "lat": 55.782082,
+      "lng": 37.599597
+    },
+    "type": "regular",
+    "searchableText": "27 #27 02 марта 2017, fcking craft pub 2017-03-02 2 марта 2017 г. fcking craft pub новослободская новослободская ул., 16а"
+  },
+  {
+    "id": 26,
+    "title": "16 Февраля 2017, Падди'с",
+    "dateISO": "2017-02-16",
+    "dateLabel": "16 Февраля 2017 г.",
+    "year": 2017,
+    "bar": "Падди'с",
+    "comment": null,
+    "subway": [
+      "Белорусская"
+    ],
+    "address": "улица Бутырский Вал, 2",
+    "coordinates": {
+      "lat": 55.777133,
+      "lng": 37.585154
+    },
+    "type": "regular",
+    "searchableText": "26 #26 16 февраля 2017, падди'с 2017-02-16 16 февраля 2017 г. падди'с белорусская улица бутырский вал, 2"
+  },
+  {
+    "id": 25,
+    "title": "09 Февраля 2017, White Eagles Pub",
+    "dateISO": "2017-02-09",
+    "dateLabel": "9 Февраля 2017 г.",
+    "year": 2017,
+    "bar": "White Eagles Pub",
+    "comment": null,
+    "subway": [
+      "Тверская"
+    ],
+    "address": "Козицкий переулок, 1Ас2",
+    "coordinates": {
+      "lat": 55.76482,
+      "lng": 37.608
+    },
+    "type": "regular",
+    "searchableText": "25 #25 09 февраля 2017, white eagles pub 2017-02-09 9 февраля 2017 г. white eagles pub тверская козицкий переулок, 1ас2"
+  },
+  {
+    "id": 24,
+    "title": "26 Января 2017, Pivbar",
+    "dateISO": "2017-01-26",
+    "dateLabel": "26 Января 2017 г.",
+    "year": 2017,
+    "bar": "Pivbar",
+    "comment": null,
+    "subway": [
+      "Маяковская"
+    ],
+    "address": "1-я Тверская-Ямская улица, 2с1",
+    "coordinates": {
+      "lat": 55.769975,
+      "lng": 37.597194
+    },
+    "type": "regular",
+    "searchableText": "24 #24 26 января 2017, pivbar 2017-01-26 26 января 2017 г. pivbar маяковская 1-я тверская-ямская улица, 2с1"
+  },
+  {
+    "id": 23,
+    "title": "12 Января 2017, Barcraft",
+    "dateISO": "2017-01-12",
+    "dateLabel": "12 Января 2017 г.",
+    "year": 2017,
+    "bar": "Barcraft",
+    "comment": null,
+    "subway": [
+      "Баррикадная"
+    ],
+    "address": "Кудринская площадь, 1",
+    "coordinates": {
+      "lat": 55.75896,
+      "lng": 37.580001
+    },
+    "type": "regular",
+    "searchableText": "23 #23 12 января 2017, barcraft 2017-01-12 12 января 2017 г. barcraft баррикадная кудринская площадь, 1"
+  },
+  {
+    "id": 22,
+    "title": "22 Декабря 2016, Fcking Craft Pub",
+    "dateISO": "2016-12-22",
+    "dateLabel": "22 Декабря 2016 г.",
+    "year": 2016,
+    "bar": "Fcking Craft Pub",
+    "comment": null,
+    "subway": [
+      "Новослободская"
+    ],
+    "address": "Новослободская ул., 16А",
+    "coordinates": {
+      "lat": 55.782082,
+      "lng": 37.599597
+    },
+    "type": "regular",
+    "searchableText": "22 #22 22 декабря 2016, fcking craft pub 2016-12-22 22 декабря 2016 г. fcking craft pub новослободская новослободская ул., 16а"
+  },
+  {
+    "id": 21,
+    "title": "24 Ноября 2016, One More Pub",
+    "dateISO": "2016-11-24",
+    "dateLabel": "24 Ноября 2016 г.",
+    "year": 2016,
+    "bar": "One More Pub",
+    "comment": null,
+    "subway": [
+      "Белорусская"
+    ],
+    "address": "улица Бутырский Вал, 5",
+    "coordinates": {
+      "lat": 55.778913,
+      "lng": 37.585178
+    },
+    "type": "regular",
+    "searchableText": "21 #21 24 ноября 2016, one more pub 2016-11-24 24 ноября 2016 г. one more pub белорусская улица бутырский вал, 5"
+  },
+  {
+    "id": 20,
+    "title": "17 Ноября 2016, Beertep Craft Pub",
+    "dateISO": "2016-11-17",
+    "dateLabel": "17 Ноября 2016 г.",
+    "year": 2016,
+    "bar": "Beertep Craft Pub",
+    "comment": null,
+    "subway": [
+      "Водный стадион"
+    ],
+    "address": "улица Адмирала Макарова, 6с13",
+    "coordinates": {
+      "lat": 55.835721,
+      "lng": 37.490362
+    },
+    "type": "regular",
+    "searchableText": "20 #20 17 ноября 2016, beertep craft pub 2016-11-17 17 ноября 2016 г. beertep craft pub водный стадион улица адмирала макарова, 6с13"
+  },
+  {
+    "id": 19,
+    "title": "10 Ноября 2016, Эрик Рыжий",
+    "dateISO": "2016-11-10",
+    "dateLabel": "10 Ноября 2016 г.",
+    "year": 2016,
+    "bar": "Эрик Рыжий",
+    "comment": null,
+    "subway": [
+      "Смоленская"
+    ],
+    "address": "Спасопесковский переулок, 2/36",
+    "coordinates": {
+      "lat": 55.748691,
+      "lng": 37.5885
+    },
+    "type": "regular",
+    "searchableText": "19 #19 10 ноября 2016, эрик рыжий 2016-11-10 10 ноября 2016 г. эрик рыжий смоленская спасопесковский переулок, 2/36"
+  },
+  {
+    "id": 18,
+    "title": "20 Октября 2016, Эрик Рыжий",
+    "dateISO": "2016-10-20",
+    "dateLabel": "20 Октября 2016 г.",
+    "year": 2016,
+    "bar": "Эрик Рыжий",
+    "comment": null,
+    "subway": [
+      "Смоленская"
+    ],
+    "address": "Спасопесковский переулок, 2/36",
+    "coordinates": {
+      "lat": 55.748691,
+      "lng": 37.5885
+    },
+    "type": "regular",
+    "searchableText": "18 #18 20 октября 2016, эрик рыжий 2016-10-20 20 октября 2016 г. эрик рыжий смоленская спасопесковский переулок, 2/36"
+  },
+  {
+    "id": 17,
+    "title": "13 Октября 2016, Борода",
+    "dateISO": "2016-10-13",
+    "dateLabel": "13 Октября 2016 г.",
+    "year": 2016,
+    "bar": "Борода",
+    "comment": null,
+    "subway": [
+      "Чистые пруды"
+    ],
+    "address": "Покровка, 16",
+    "coordinates": {
+      "lat": 55.759157,
+      "lng": 37.645744
+    },
+    "type": "regular",
+    "searchableText": "17 #17 13 октября 2016, борода 2016-10-13 13 октября 2016 г. борода чистые пруды покровка, 16"
+  },
+  {
+    "id": 16,
+    "title": "01 Сентября 2016, Эрик Рыжий",
+    "dateISO": "2016-09-01",
+    "dateLabel": "1 Сентября 2016 г.",
+    "year": 2016,
+    "bar": "Эрик Рыжий",
+    "comment": null,
+    "subway": [
+      "Смоленская"
+    ],
+    "address": "Спасопесковский переулок, 2/36",
+    "coordinates": {
+      "lat": 55.748691,
+      "lng": 37.5885
+    },
+    "type": "regular",
+    "searchableText": "16 #16 01 сентября 2016, эрик рыжий 2016-09-01 1 сентября 2016 г. эрик рыжий смоленская спасопесковский переулок, 2/36"
+  },
+  {
+    "id": 15,
+    "title": "21 Июля 2016, Beer Happens",
+    "dateISO": "2016-07-21",
+    "dateLabel": "21 Июля 2016 г.",
+    "year": 2016,
+    "bar": "Beer Happens",
+    "comment": null,
+    "subway": [
+      "Сухаревская"
+    ],
+    "address": "улица Сретенка, 24/2с1",
+    "coordinates": {
+      "lat": 55.769879,
+      "lng": 37.632445
+    },
+    "type": "regular",
+    "searchableText": "15 #15 21 июля 2016, beer happens 2016-07-21 21 июля 2016 г. beer happens сухаревская улица сретенка, 24/2с1"
+  },
+  {
+    "id": 14,
+    "title": "13 Июля 2016, Джон Донн",
+    "dateISO": "2016-07-13",
+    "dateLabel": "13 Июля 2016 г.",
+    "year": 2016,
+    "bar": "Джон Донн",
+    "comment": null,
+    "subway": [
+      "Арбатская"
+    ],
+    "address": "Никитский бульвар, 12",
+    "coordinates": {
+      "lat": 55.755462,
+      "lng": 37.600417
+    },
+    "type": "regular",
+    "searchableText": "14 #14 13 июля 2016, джон донн 2016-07-13 13 июля 2016 г. джон донн арбатская никитский бульвар, 12"
+  },
+  {
+    "id": 13,
+    "title": "23 Июня 2016, Craft Republic",
+    "dateISO": "2016-06-23",
+    "dateLabel": "23 Июня 2016 г.",
+    "year": 2016,
+    "bar": "Craft Republic",
+    "comment": null,
+    "subway": [
+      "Тверская"
+    ],
+    "address": "Малый Гнездниковский переулок, 9с2",
+    "coordinates": {
+      "lat": 55.762575,
+      "lng": 37.606318
+    },
+    "type": "regular",
+    "searchableText": "13 #13 23 июня 2016, craft republic 2016-06-23 23 июня 2016 г. craft republic тверская малый гнездниковский переулок, 9с2"
+  },
+  {
+    "id": 12,
+    "title": "06 Июня 2016, Варка",
+    "dateISO": "2016-06-06",
+    "dateLabel": "6 Июня 2016 г.",
+    "year": 2016,
+    "bar": "Варка",
+    "comment": null,
+    "subway": [
+      "Цветной бульвар"
+    ],
+    "address": "Цветной бульвар, 7с1",
+    "coordinates": {
+      "lat": 55.769237,
+      "lng": 37.620841
+    },
+    "type": "regular",
+    "searchableText": "12 #12 06 июня 2016, варка 2016-06-06 6 июня 2016 г. варка цветной бульвар цветной бульвар, 7с1"
+  },
+  {
+    "id": 11,
+    "title": "26 Мая 2016, Эрик Рыжий",
+    "dateISO": "2016-05-26",
+    "dateLabel": "26 Мая 2016 г.",
+    "year": 2016,
+    "bar": "Эрик Рыжий",
+    "comment": null,
+    "subway": [
+      "Смоленская"
+    ],
+    "address": "Спасопесковский переулок, 2/36",
+    "coordinates": {
+      "lat": 55.748691,
+      "lng": 37.5885
+    },
+    "type": "regular",
+    "searchableText": "11 #11 26 мая 2016, эрик рыжий 2016-05-26 26 мая 2016 г. эрик рыжий смоленская спасопесковский переулок, 2/36"
+  },
+  {
+    "id": 10,
+    "title": "05 Мая 2016, Питчер",
+    "dateISO": "2016-05-05",
+    "dateLabel": "5 Мая 2016 г.",
+    "year": 2016,
+    "bar": "Питчер",
+    "comment": null,
+    "subway": [
+      "Добрынинская"
+    ],
+    "address": "Большой Спасоглинищевский переулок, 3с5",
+    "coordinates": {
+      "lat": 55.75643,
+      "lng": 37.635269
+    },
+    "type": "regular",
+    "searchableText": "10 #10 05 мая 2016, питчер 2016-05-05 5 мая 2016 г. питчер добрынинская большой спасоглинищевский переулок, 3с5"
+  },
+  {
+    "id": 9,
+    "title": "17 Марта 2016, Piligrim",
+    "dateISO": "2016-03-17",
+    "dateLabel": "17 Марта 2016 г.",
+    "year": 2016,
+    "bar": "Piligrim",
+    "comment": null,
+    "subway": [
+      "Сухаревская",
+      "Цветной бульвар"
+    ],
+    "address": "Колокольников пер., 22, стр. 5",
+    "coordinates": {
+      "lat": 55.767919,
+      "lng": 37.62934
+    },
+    "type": "regular",
+    "searchableText": "9 #9 17 марта 2016, piligrim 2016-03-17 17 марта 2016 г. piligrim сухаревская цветной бульвар колокольников пер., 22, стр. 5"
+  },
+  {
+    "id": 8,
+    "title": "24 Декабря 2015, Piligrim",
+    "dateISO": "2015-12-24",
+    "dateLabel": "24 Декабря 2015 г.",
+    "year": 2015,
+    "bar": "Piligrim",
+    "comment": null,
+    "subway": [
+      "Сухаревская",
+      "Цветной бульвар"
+    ],
+    "address": "Колокольников пер., 22, стр. 5",
+    "coordinates": {
+      "lat": 55.767919,
+      "lng": 37.62934
+    },
+    "type": "regular",
+    "searchableText": "8 #8 24 декабря 2015, piligrim 2015-12-24 24 декабря 2015 г. piligrim сухаревская цветной бульвар колокольников пер., 22, стр. 5"
+  },
+  {
+    "id": 7,
+    "title": "19 Ноября 2015, Piligrim",
+    "dateISO": "2015-11-19",
+    "dateLabel": "19 Ноября 2015 г.",
+    "year": 2015,
+    "bar": "Piligrim",
+    "comment": null,
+    "subway": [
+      "Сухаревская",
+      "Цветной бульвар"
+    ],
+    "address": "Колокольников пер., 22, стр. 5",
+    "coordinates": {
+      "lat": 55.767919,
+      "lng": 37.62934
+    },
+    "type": "regular",
+    "searchableText": "7 #7 19 ноября 2015, piligrim 2015-11-19 19 ноября 2015 г. piligrim сухаревская цветной бульвар колокольников пер., 22, стр. 5"
+  },
+  {
+    "id": 6,
+    "title": "03 Сентября 2015, HopHead",
+    "dateISO": "2015-09-03",
+    "dateLabel": "3 Сентября 2015 г.",
+    "year": 2015,
+    "bar": "HopHead",
+    "comment": null,
+    "subway": [
+      "Бауманская"
+    ],
+    "address": "Фридриха Энгельса, 20с1",
+    "coordinates": {
+      "lat": 55.772375,
+      "lng": 37.683149
+    },
+    "type": "regular",
+    "searchableText": "6 #6 03 сентября 2015, hophead 2015-09-03 3 сентября 2015 г. hophead бауманская фридриха энгельса, 20с1"
+  },
+  {
+    "id": 5,
+    "title": "20 Августа 2015, Piligrim",
+    "dateISO": "2015-08-20",
+    "dateLabel": "20 Августа 2015 г.",
+    "year": 2015,
+    "bar": "Piligrim",
+    "comment": null,
+    "subway": [
+      "Сухаревская",
+      "Цветной бульвар"
+    ],
+    "address": "Колокольников пер., 22, стр. 5",
+    "coordinates": {
+      "lat": 55.767919,
+      "lng": 37.62934
+    },
+    "type": "regular",
+    "searchableText": "5 #5 20 августа 2015, piligrim 2015-08-20 20 августа 2015 г. piligrim сухаревская цветной бульвар колокольников пер., 22, стр. 5"
+  },
+  {
+    "id": 4,
+    "title": "06 Августа 2015, Pivbar",
+    "dateISO": "2015-08-06",
+    "dateLabel": "6 Августа 2015 г.",
+    "year": 2015,
+    "bar": "Pivbar",
+    "comment": null,
+    "subway": [
+      "Маяковская"
+    ],
+    "address": "1-я Тверская-Ямская улица, 2с1",
+    "coordinates": {
+      "lat": 55.769975,
+      "lng": 37.597194
+    },
+    "type": "regular",
+    "searchableText": "4 #4 06 августа 2015, pivbar 2015-08-06 6 августа 2015 г. pivbar маяковская 1-я тверская-ямская улица, 2с1"
+  },
+  {
+    "id": 3,
+    "title": "02 Июля 2015, Pivbar",
+    "dateISO": "2015-07-02",
+    "dateLabel": "2 Июля 2015 г.",
+    "year": 2015,
+    "bar": "Pivbar",
+    "comment": null,
+    "subway": [
+      "Маяковская"
+    ],
+    "address": "1-я Тверская-Ямская улица, 2с1",
+    "coordinates": {
+      "lat": 55.769975,
+      "lng": 37.597194
+    },
+    "type": "regular",
+    "searchableText": "3 #3 02 июля 2015, pivbar 2015-07-02 2 июля 2015 г. pivbar маяковская 1-я тверская-ямская улица, 2с1"
+  },
+  {
+    "id": 2,
+    "title": "18 Июня 2015, Pivbar",
+    "dateISO": "2015-06-18",
+    "dateLabel": "18 Июня 2015 г.",
+    "year": 2015,
+    "bar": "Pivbar",
+    "comment": null,
+    "subway": [
+      "Маяковская"
+    ],
+    "address": "1-я Тверская-Ямская улица, 2с1",
+    "coordinates": {
+      "lat": 55.769975,
+      "lng": 37.597194
+    },
+    "type": "regular",
+    "searchableText": "2 #2 18 июня 2015, pivbar 2015-06-18 18 июня 2015 г. pivbar маяковская 1-я тверская-ямская улица, 2с1"
+  },
+  {
+    "id": 1,
+    "title": "25 Декабря 2014, Гастропаб 31",
+    "dateISO": "2014-12-25",
+    "dateLabel": "25 Декабря 2014 г.",
+    "year": 2014,
+    "bar": "Гастропаб 31",
+    "comment": null,
+    "subway": [
+      "Шаболовская"
+    ],
+    "address": "Шаболовка, 31г",
+    "coordinates": {
+      "lat": 55.720312,
+      "lng": 37.610115
+    },
+    "type": "regular",
+    "searchableText": "1 #1 25 декабря 2014, гастропаб 31 2014-12-25 25 декабря 2014 г. гастропаб 31 шаболовская шаболовка, 31г"
+  }
+]

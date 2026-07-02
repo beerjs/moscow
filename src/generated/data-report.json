@@ -1,0 +1,132 @@
+{
+  "summary": {
+    "totalDrinkups": 201,
+    "drinkupsWithCoordinates": 194,
+    "drinkupsWithoutCoordinates": 7,
+    "uniqueVenuesOnMap": 61,
+    "dateRange": {
+      "first": "2014-12-25",
+      "last": "2026-07-02"
+    }
+  },
+  "drinkupsWithoutCoordinates": [
+    {
+      "id": 191,
+      "dateISO": "2026-03-05",
+      "bar": "4brewers Pub",
+      "address": null,
+      "subway": [
+        "Добрынинская"
+      ],
+      "comment": null
+    },
+    {
+      "id": 179,
+      "dateISO": "2025-06-05",
+      "bar": "Bad Bro Bar",
+      "address": null,
+      "subway": [
+        "Белорусская"
+      ],
+      "comment": "Афтепати MoscowJS 65"
+    },
+    {
+      "id": 177,
+      "dateISO": "2025-05-22",
+      "bar": "Косой Маркс",
+      "address": null,
+      "subway": [],
+      "comment": null
+    },
+    {
+      "id": 174,
+      "dateISO": "2025-04-24",
+      "bar": "Косой Маркс",
+      "address": null,
+      "subway": [],
+      "comment": null
+    },
+    {
+      "id": 167,
+      "dateISO": "2025-02-20",
+      "bar": "4brewers Pub",
+      "address": null,
+      "subway": [
+        "Добрынинская"
+      ],
+      "comment": null
+    },
+    {
+      "id": 165,
+      "dateISO": "2025-02-06",
+      "bar": "Слоны и мамонты",
+      "address": null,
+      "subway": [
+        "Белорусская"
+      ],
+      "comment": null
+    },
+    {
+      "id": 162,
+      "dateISO": "2025-01-16",
+      "bar": "Арма craft",
+      "address": null,
+      "subway": [],
+      "comment": null
+    }
+  ],
+  "barsWithMultipleCoordinates": [],
+  "suspiciousCoordinates": [],
+  "emptyAddress": [
+    {
+      "id": 191,
+      "dateISO": "2026-03-05",
+      "bar": "4brewers Pub",
+      "subway": [
+        "Добрынинская"
+      ]
+    },
+    {
+      "id": 179,
+      "dateISO": "2025-06-05",
+      "bar": "Bad Bro Bar",
+      "subway": [
+        "Белорусская"
+      ]
+    },
+    {
+      "id": 177,
+      "dateISO": "2025-05-22",
+      "bar": "Косой Маркс",
+      "subway": []
+    },
+    {
+      "id": 174,
+      "dateISO": "2025-04-24",
+      "bar": "Косой Маркс",
+      "subway": []
+    },
+    {
+      "id": 167,
+      "dateISO": "2025-02-20",
+      "bar": "4brewers Pub",
+      "subway": [
+        "Добрынинская"
+      ]
+    },
+    {
+      "id": 165,
+      "dateISO": "2025-02-06",
+      "bar": "Слоны и мамонты",
+      "subway": [
+        "Белорусская"
+      ]
+    },
+    {
+      "id": 162,
+      "dateISO": "2025-01-16",
+      "bar": "Арма craft",
+      "subway": []
+    }
+  ]
+}

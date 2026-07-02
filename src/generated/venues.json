@@ -1,0 +1,1447 @@
+[
+  {
+    "id": "venue-3073e2455e",
+    "name": "Варка",
+    "address": "Цветной бульвар, 7с1",
+    "subway": [
+      "Цветной бульвар"
+    ],
+    "coordinates": {
+      "lat": 55.769237,
+      "lng": 37.620841
+    },
+    "drinkupIds": [
+      201,
+      155,
+      12
+    ],
+    "drinkupCount": 3,
+    "firstDateISO": "2016-06-06",
+    "lastDateISO": "2026-07-02",
+    "types": [
+      "regular"
+    ]
+  },
+  {
+    "id": "freedom-bar-54580a5a4f",
+    "name": "Freedom Bar",
+    "address": "Большая Новодмитровская улица, 36с6",
+    "subway": [
+      "Дмитровская"
+    ],
+    "coordinates": {
+      "lat": 55.805912,
+      "lng": 37.585357
+    },
+    "drinkupIds": [
+      200,
+      197,
+      190,
+      149,
+      148
+    ],
+    "drinkupCount": 5,
+    "firstDateISO": "2024-03-21",
+    "lastDateISO": "2026-06-25",
+    "types": [
+      "moscowjs-afterparty",
+      "moscowcss-afterparty",
+      "regular",
+      "beerjs-drinkup"
+    ]
+  },
+  {
+    "id": "st-y-3f631d893f",
+    "name": "Støy!",
+    "address": "Валовая улица, 30",
+    "subway": [
+      "Добрынинская"
+    ],
+    "coordinates": {
+      "lat": 55.73021,
+      "lng": 37.626558
+    },
+    "drinkupIds": [
+      199,
+      196,
+      194,
+      193,
+      188,
+      185,
+      183,
+      182,
+      178,
+      176,
+      175,
+      172,
+      170,
+      163,
+      161,
+      160,
+      159,
+      158,
+      157,
+      156,
+      154,
+      146,
+      141,
+      138,
+      133,
+      125,
+      116
+    ],
+    "drinkupCount": 27,
+    "firstDateISO": "2022-08-04",
+    "lastDateISO": "2026-06-18",
+    "types": [
+      "beerjs-drinkup",
+      "moscowjs-afterparty",
+      "regular",
+      "vue-afterparty",
+      "other"
+    ]
+  },
+  {
+    "id": "public-bar-f05a96f1d6",
+    "name": "Public Bar",
+    "address": "Большая Новодмитровская улица, 36с6",
+    "subway": [
+      "Дмитровская"
+    ],
+    "coordinates": {
+      "lat": 55.805867,
+      "lng": 37.585404
+    },
+    "drinkupIds": [
+      198
+    ],
+    "drinkupCount": 1,
+    "firstDateISO": "2026-06-11",
+    "lastDateISO": "2026-06-11",
+    "types": [
+      "regular"
+    ]
+  },
+  {
+    "id": "share-house-a949c0e9d8",
+    "name": "Share House",
+    "address": "Оружейный переулок, 3с2",
+    "subway": [
+      "Маяковская"
+    ],
+    "coordinates": {
+      "lat": 55.770864,
+      "lng": 37.596818
+    },
+    "drinkupIds": [
+      195
+    ],
+    "drinkupCount": 1,
+    "firstDateISO": "2026-04-16",
+    "lastDateISO": "2026-04-16",
+    "types": [
+      "regular"
+    ]
+  },
+  {
+    "id": "craft-republic-e76c6af9dc",
+    "name": "Craft Republic",
+    "address": "Малый Гнездниковский переулок, 9с2",
+    "subway": [
+      "Тверская"
+    ],
+    "coordinates": {
+      "lat": 55.762575,
+      "lng": 37.606318
+    },
+    "drinkupIds": [
+      192,
+      103,
+      98,
+      13
+    ],
+    "drinkupCount": 4,
+    "firstDateISO": "2016-06-23",
+    "lastDateISO": "2026-03-19",
+    "types": [
+      "regular"
+    ]
+  },
+  {
+    "id": "venue-a0b657b3d9",
+    "name": "ГлавПивМаг",
+    "address": "улица Макаренко, 2",
+    "subway": [
+      "Китай-город",
+      "Курская",
+      "Сретенский бульвар",
+      "Тургеневская",
+      "Чистые пруды",
+      "Чкаловская"
+    ],
+    "coordinates": {
+      "lat": 55.760851,
+      "lng": 37.646027
+    },
+    "drinkupIds": [
+      189,
+      166
+    ],
+    "drinkupCount": 2,
+    "firstDateISO": "2025-02-13",
+    "lastDateISO": "2026-01-08",
+    "types": [
+      "regular"
+    ]
+  },
+  {
+    "id": "465-4bdb7578a2",
+    "name": "Пивотека 465",
+    "address": "Новоданиловская набережная, 4Ас1",
+    "subway": [
+      "Тульская"
+    ],
+    "coordinates": {
+      "lat": 55.700608,
+      "lng": 37.625774
+    },
+    "drinkupIds": [
+      187
+    ],
+    "drinkupCount": 1,
+    "firstDateISO": "2025-10-23",
+    "lastDateISO": "2025-10-23",
+    "types": [
+      "moscowjs-afterparty"
+    ]
+  },
+  {
+    "id": "axiom-76f8c93c08",
+    "name": "Axiom",
+    "address": "Спартаковская площадь, 16/15с2",
+    "subway": [
+      "Бауманская"
+    ],
+    "coordinates": {
+      "lat": 55.776273,
+      "lng": 37.679453
+    },
+    "drinkupIds": [
+      186,
+      184,
+      180,
+      169,
+      164,
+      128,
+      118,
+      115
+    ],
+    "drinkupCount": 8,
+    "firstDateISO": "2022-07-27",
+    "lastDateISO": "2025-10-09",
+    "types": [
+      "regular",
+      "beerjs-drinkup"
+    ]
+  },
+  {
+    "id": "rusty-pub-097e0e06a4",
+    "name": "Rusty pub",
+    "address": "Большая Новодмитровская улица, 36с6",
+    "subway": [
+      "Дмитровская"
+    ],
+    "coordinates": {
+      "lat": 55.805923,
+      "lng": 37.585445
+    },
+    "drinkupIds": [
+      181
+    ],
+    "drinkupCount": 1,
+    "firstDateISO": "2025-07-03",
+    "lastDateISO": "2025-07-03",
+    "types": [
+      "moscowjs-afterparty"
+    ]
+  },
+  {
+    "id": "venue-575b78e6a8",
+    "name": "Эрик Рыжий",
+    "address": "Спасопесковский переулок, 2/36",
+    "subway": [
+      "Смоленская"
+    ],
+    "coordinates": {
+      "lat": 55.748691,
+      "lng": 37.5885
+    },
+    "drinkupIds": [
+      173,
+      112,
+      109,
+      101,
+      93,
+      83,
+      73,
+      69,
+      60,
+      49,
+      33,
+      31,
+      19,
+      18,
+      16,
+      11
+    ],
+    "drinkupCount": 16,
+    "firstDateISO": "2016-05-26",
+    "lastDateISO": "2025-04-17",
+    "types": [
+      "regular"
+    ]
+  },
+  {
+    "id": "the-backyard-pub-24188473ba",
+    "name": "The Backyard Pub",
+    "address": "Большой Спасоглинищевский переулок, 3с5",
+    "subway": [
+      "Китай-город"
+    ],
+    "coordinates": {
+      "lat": 55.756437,
+      "lng": 37.635197
+    },
+    "drinkupIds": [
+      171,
+      152
+    ],
+    "drinkupCount": 2,
+    "firstDateISO": "2024-07-18",
+    "lastDateISO": "2025-03-27",
+    "types": [
+      "moscowjs-afterparty",
+      "beerjs-drinkup"
+    ]
+  },
+  {
+    "id": "rule-taproom-6e9dc9a5fd",
+    "name": "Rule taproom",
+    "address": "Староваганьковский переулок, 19с7",
+    "subway": [
+      "Арбатская",
+      "Боровицкая"
+    ],
+    "coordinates": {
+      "lat": 55.751302,
+      "lng": 37.607041
+    },
+    "drinkupIds": [
+      168,
+      81,
+      64
+    ],
+    "drinkupCount": 3,
+    "firstDateISO": "2018-07-26",
+    "lastDateISO": "2025-02-27",
+    "types": [
+      "regular"
+    ]
+  },
+  {
+    "id": "right-hops-9f688145f9",
+    "name": "Right Hops",
+    "address": "1-й Красногвардейский пр., 22, стр. 2, 2й этаж",
+    "subway": [
+      "Международная"
+    ],
+    "coordinates": {
+      "lat": 55.75138,
+      "lng": 37.534577
+    },
+    "drinkupIds": [
+      153
+    ],
+    "drinkupCount": 1,
+    "firstDateISO": "2024-08-15",
+    "lastDateISO": "2024-08-15",
+    "types": [
+      "moscowjs-afterparty"
+    ]
+  },
+  {
+    "id": "venue-bdda013218",
+    "name": "БИРкрафт Белорусская",
+    "address": "улица Бутырский Вал, 2",
+    "subway": [
+      "Белорусская"
+    ],
+    "coordinates": {
+      "lat": 55.777095,
+      "lng": 37.58514
+    },
+    "drinkupIds": [
+      151
+    ],
+    "drinkupCount": 1,
+    "firstDateISO": "2024-06-20",
+    "lastDateISO": "2024-06-20",
+    "types": [
+      "regular"
+    ]
+  },
+  {
+    "id": "venue-5417ce5782",
+    "name": "Прогресс",
+    "address": "улица Пресненский Вал, 38с1",
+    "subway": [
+      "Белорусская"
+    ],
+    "coordinates": {
+      "lat": 55.771367,
+      "lng": 37.570232
+    },
+    "drinkupIds": [
+      150,
+      28
+    ],
+    "drinkupCount": 2,
+    "firstDateISO": "2017-03-23",
+    "lastDateISO": "2024-06-06",
+    "types": [
+      "moscowjs-afterparty",
+      "regular"
+    ]
+  },
+  {
+    "id": "howard-loves-craft-1671a7b897",
+    "name": "Howard Loves Craft",
+    "address": "Болотная набережная, 7с3",
+    "subway": [
+      "Кропоткинская",
+      "Парк Культуры",
+      "Третьяковская"
+    ],
+    "coordinates": {
+      "lat": 55.740341,
+      "lng": 37.610595
+    },
+    "drinkupIds": [
+      147,
+      142,
+      140,
+      135,
+      91
+    ],
+    "drinkupCount": 5,
+    "firstDateISO": "2020-07-03",
+    "lastDateISO": "2024-03-14",
+    "types": [
+      "moscowjs-afterparty",
+      "regular"
+    ]
+  },
+  {
+    "id": "venue-d2afeae457",
+    "name": "Вариант",
+    "address": "улица Орджоникидзе, 9к1",
+    "subway": [
+      "Площадь Гагарина",
+      "Тульская",
+      "Шаболовская"
+    ],
+    "coordinates": {
+      "lat": 55.709967,
+      "lng": 37.598492
+    },
+    "drinkupIds": [
+      144
+    ],
+    "drinkupCount": 1,
+    "firstDateISO": "2024-02-08",
+    "lastDateISO": "2024-02-08",
+    "types": [
+      "moscowjs-afterparty"
+    ]
+  },
+  {
+    "id": "pivbar-3fd10c5aea",
+    "name": "Pivbar",
+    "address": "1-я Тверская-Ямская улица, 2с1",
+    "subway": [
+      "Маяковская"
+    ],
+    "coordinates": {
+      "lat": 55.769975,
+      "lng": 37.597194
+    },
+    "drinkupIds": [
+      145,
+      106,
+      104,
+      24,
+      4,
+      3,
+      2
+    ],
+    "drinkupCount": 7,
+    "firstDateISO": "2015-06-18",
+    "lastDateISO": "2024-02-08",
+    "types": [
+      "moscowjs-afterparty",
+      "regular"
+    ]
+  },
+  {
+    "id": "venue-5cc2e4bfec",
+    "name": "\"Хиросима, Моя любовь\"",
+    "address": "Спартаковская площадь, 16/15с2",
+    "subway": [
+      "Бауманская"
+    ],
+    "coordinates": {
+      "lat": 55.776259,
+      "lng": 37.679637
+    },
+    "drinkupIds": [
+      143
+    ],
+    "drinkupCount": 1,
+    "firstDateISO": "2024-01-25",
+    "lastDateISO": "2024-01-25",
+    "types": [
+      "regular"
+    ]
+  },
+  {
+    "id": "beermood-6bab4c83c9",
+    "name": "Beermood",
+    "address": "Чистопрудный бульвар, 21",
+    "subway": [
+      "Чистые пруды"
+    ],
+    "coordinates": {
+      "lat": 55.760461,
+      "lng": 37.646459
+    },
+    "drinkupIds": [
+      139,
+      129,
+      120,
+      119,
+      100
+    ],
+    "drinkupCount": 5,
+    "firstDateISO": "2021-08-19",
+    "lastDateISO": "2023-09-28",
+    "types": [
+      "moscowcss-afterparty",
+      "regular",
+      "other"
+    ]
+  },
+  {
+    "id": "venue-ad840c8abd",
+    "name": "Белфаст",
+    "address": "Средний Овчинниковский переулок, 1с13",
+    "subway": [
+      "Новокузнецкая"
+    ],
+    "coordinates": {
+      "lat": 55.745246,
+      "lng": 37.630722
+    },
+    "drinkupIds": [
+      137,
+      124
+    ],
+    "drinkupCount": 2,
+    "firstDateISO": "2022-12-08",
+    "lastDateISO": "2023-09-14",
+    "types": [
+      "regular"
+    ]
+  },
+  {
+    "id": "bijou-a22f558d5b",
+    "name": "Bijou",
+    "address": "2-я Брестская улица, 39с3",
+    "subway": [
+      "Белорусская"
+    ],
+    "coordinates": {
+      "lat": 55.773978,
+      "lng": 37.584602
+    },
+    "drinkupIds": [
+      136
+    ],
+    "drinkupCount": 1,
+    "firstDateISO": "2023-08-31",
+    "lastDateISO": "2023-08-31",
+    "types": [
+      "cocktailjs"
+    ]
+  },
+  {
+    "id": "beersenev-bar-74cb13e13d",
+    "name": "Beersenev Bar",
+    "address": "Автозаводская улица, 23с931к5",
+    "subway": [
+      "Технопарк"
+    ],
+    "coordinates": {
+      "lat": 55.690885,
+      "lng": 37.659048
+    },
+    "drinkupIds": [
+      134,
+      88
+    ],
+    "drinkupCount": 2,
+    "firstDateISO": "2020-01-30",
+    "lastDateISO": "2023-08-24",
+    "types": [
+      "moscowjs-afterparty",
+      "regular"
+    ]
+  },
+  {
+    "id": "method-beer-munchies-ca846f40f3",
+    "name": "Method Beer & Munchies",
+    "address": "Товарищеский переулок, 4с5",
+    "subway": [
+      "Марксистская",
+      "Таганская"
+    ],
+    "coordinates": {
+      "lat": 55.741614,
+      "lng": 37.659801
+    },
+    "drinkupIds": [
+      132,
+      131,
+      113,
+      110
+    ],
+    "drinkupCount": 4,
+    "firstDateISO": "2022-02-24",
+    "lastDateISO": "2023-07-13",
+    "types": [
+      "regular"
+    ]
+  },
+  {
+    "id": "venue-25dce448d0",
+    "name": "Кит&Планктон",
+    "address": "Ленинградский проспект, 2",
+    "subway": [
+      "Белорусская"
+    ],
+    "coordinates": {
+      "lat": 55.778565,
+      "lng": 37.582329
+    },
+    "drinkupIds": [
+      130
+    ],
+    "drinkupCount": 1,
+    "firstDateISO": "2023-05-18",
+    "lastDateISO": "2023-05-18",
+    "types": [
+      "moscowjs-afterparty"
+    ]
+  },
+  {
+    "id": "venue-0e4cc68e11",
+    "name": "Парка",
+    "address": "Пятницкая улица, 24",
+    "subway": [
+      "Новокузнецкая"
+    ],
+    "coordinates": {
+      "lat": 55.741429,
+      "lng": 37.628357
+    },
+    "drinkupIds": [
+      127,
+      108,
+      96,
+      90,
+      63,
+      61,
+      39,
+      35
+    ],
+    "drinkupCount": 8,
+    "firstDateISO": "2017-06-08",
+    "lastDateISO": "2023-03-23",
+    "types": [
+      "regular"
+    ]
+  },
+  {
+    "id": "venue-22ca7c5d0e",
+    "name": "Слёзы Берёзы",
+    "address": "Бауманская улица, 15",
+    "subway": [
+      "Бауманская"
+    ],
+    "coordinates": {
+      "lat": 55.775646,
+      "lng": 37.677753
+    },
+    "drinkupIds": [
+      126,
+      117
+    ],
+    "drinkupCount": 2,
+    "firstDateISO": "2022-09-08",
+    "lastDateISO": "2023-01-26",
+    "types": [
+      "regular"
+    ]
+  },
+  {
+    "id": "venue-8616ba648e",
+    "name": "Пестики-Тычинки",
+    "address": "Большой Спасоглинищевский переулок, 3с5",
+    "subway": [
+      "Китай-город"
+    ],
+    "coordinates": {
+      "lat": 55.75643,
+      "lng": 37.635269
+    },
+    "drinkupIds": [
+      123,
+      122,
+      121
+    ],
+    "drinkupCount": 3,
+    "firstDateISO": "2022-10-27",
+    "lastDateISO": "2022-11-17",
+    "types": [
+      "regular"
+    ]
+  },
+  {
+    "id": "venue-fdc4601751",
+    "name": "Фракция",
+    "address": "Новоданиловская набережная, 4Ас1",
+    "subway": [
+      "Тульская"
+    ],
+    "coordinates": {
+      "lat": 55.700563,
+      "lng": 37.62582
+    },
+    "drinkupIds": [
+      114,
+      89,
+      84,
+      70
+    ],
+    "drinkupCount": 4,
+    "firstDateISO": "2018-10-11",
+    "lastDateISO": "2022-06-30",
+    "types": [
+      "regular"
+    ]
+  },
+  {
+    "id": "los-bandidos-f2330f4a7b",
+    "name": "Los Bandidos",
+    "address": "улица Маросейка, 2/15с1",
+    "subway": [
+      "Китай-город"
+    ],
+    "coordinates": {
+      "lat": 55.757266,
+      "lng": 37.632569
+    },
+    "drinkupIds": [
+      111,
+      107,
+      79,
+      36
+    ],
+    "drinkupCount": 4,
+    "firstDateISO": "2017-06-29",
+    "lastDateISO": "2022-03-31",
+    "types": [
+      "regular"
+    ]
+  },
+  {
+    "id": "one-more-pub-422251f35b",
+    "name": "One More Pub",
+    "address": "улица Бутырский Вал, 5",
+    "subway": [
+      "Белорусская"
+    ],
+    "coordinates": {
+      "lat": 55.778913,
+      "lng": 37.585178
+    },
+    "drinkupIds": [
+      105,
+      74,
+      54,
+      21
+    ],
+    "drinkupCount": 4,
+    "firstDateISO": "2016-11-24",
+    "lastDateISO": "2021-12-02",
+    "types": [
+      "regular"
+    ]
+  },
+  {
+    "id": "venue-15262d8abe",
+    "name": "Крапива",
+    "address": "Потаповский переулок, 5с2",
+    "subway": [
+      "Чистые пруды"
+    ],
+    "coordinates": {
+      "lat": 55.761447,
+      "lng": 37.640785
+    },
+    "drinkupIds": [
+      102,
+      55
+    ],
+    "drinkupCount": 2,
+    "firstDateISO": "2018-03-15",
+    "lastDateISO": "2021-09-23",
+    "types": [
+      "regular"
+    ]
+  },
+  {
+    "id": "b-2aac31dc90",
+    "name": "Bô",
+    "address": "улица Крымский Вал, 9с64",
+    "subway": [
+      "Октябрьская"
+    ],
+    "coordinates": {
+      "lat": 55.730116,
+      "lng": 37.598465
+    },
+    "drinkupIds": [
+      99
+    ],
+    "drinkupCount": 1,
+    "firstDateISO": "2021-06-03",
+    "lastDateISO": "2021-06-03",
+    "types": [
+      "regular"
+    ]
+  },
+  {
+    "id": "venue-e3f08d936e",
+    "name": "На кранах",
+    "address": "Цветной бульвар, 19с5",
+    "subway": [
+      "Цветной бульвар"
+    ],
+    "coordinates": {
+      "lat": 55.771803,
+      "lng": 37.619409
+    },
+    "drinkupIds": [
+      97
+    ],
+    "drinkupCount": 1,
+    "firstDateISO": "2021-04-29",
+    "lastDateISO": "2021-04-29",
+    "types": [
+      "regular"
+    ]
+  },
+  {
+    "id": "venue-6642981f7e",
+    "name": "Птица-Синица",
+    "address": "Большой Спасоглинищевский переулок, 3с5",
+    "subway": [
+      "Китай-город"
+    ],
+    "coordinates": {
+      "lat": 55.756385,
+      "lng": 37.635254
+    },
+    "drinkupIds": [
+      95,
+      86,
+      80,
+      72,
+      58,
+      45,
+      38,
+      37
+    ],
+    "drinkupCount": 8,
+    "firstDateISO": "2017-07-06",
+    "lastDateISO": "2021-03-11",
+    "types": [
+      "regular"
+    ]
+  },
+  {
+    "id": "barcraft-55f7fb9b96",
+    "name": "Barcraft",
+    "address": "Кудринская площадь, 1",
+    "subway": [
+      "Баррикадная"
+    ],
+    "coordinates": {
+      "lat": 55.75896,
+      "lng": 37.580001
+    },
+    "drinkupIds": [
+      94,
+      77,
+      76,
+      43,
+      23
+    ],
+    "drinkupCount": 5,
+    "firstDateISO": "2017-01-12",
+    "lastDateISO": "2021-03-04",
+    "types": [
+      "regular"
+    ]
+  },
+  {
+    "id": "pub-c65ad33563",
+    "name": "Дом в Котором Pub",
+    "address": "улица Покровка, 14/2с3",
+    "subway": [
+      "Китай-город",
+      "Курская"
+    ],
+    "coordinates": {
+      "lat": 55.758561,
+      "lng": 37.645409
+    },
+    "drinkupIds": [
+      92
+    ],
+    "drinkupCount": 1,
+    "firstDateISO": "2020-08-20",
+    "lastDateISO": "2020-08-20",
+    "types": [
+      "regular"
+    ]
+  },
+  {
+    "id": "craft-and-draft-77a2c49dc9",
+    "name": "Craft and Draft",
+    "address": "улица Арбат, 6/2",
+    "subway": [
+      "Арбатская"
+    ],
+    "coordinates": {
+      "lat": 55.751772,
+      "lng": 37.597671
+    },
+    "drinkupIds": [
+      87
+    ],
+    "drinkupCount": 1,
+    "firstDateISO": "2020-01-23",
+    "lastDateISO": "2020-01-23",
+    "types": [
+      "regular"
+    ]
+  },
+  {
+    "id": "venue-5f1c89ee0b",
+    "name": "БИРкрафт Менделеевская",
+    "address": "Новослободская улица, 18",
+    "subway": [
+      "Менделеевская"
+    ],
+    "coordinates": {
+      "lat": 55.782334,
+      "lng": 37.59931
+    },
+    "drinkupIds": [
+      85,
+      67
+    ],
+    "drinkupCount": 2,
+    "firstDateISO": "2018-09-06",
+    "lastDateISO": "2019-12-05",
+    "types": [
+      "regular"
+    ]
+  },
+  {
+    "id": "punk-fiction-a0aeb04230",
+    "name": "Punk Fiction",
+    "address": "Ольховская улица, 14с1",
+    "subway": [
+      "Бауманская",
+      "Красносельская"
+    ],
+    "coordinates": {
+      "lat": 55.774644,
+      "lng": 37.671
+    },
+    "drinkupIds": [
+      82
+    ],
+    "drinkupCount": 1,
+    "firstDateISO": "2019-10-17",
+    "lastDateISO": "2019-10-17",
+    "types": [
+      "regular"
+    ]
+  },
+  {
+    "id": "fcking-craft-pub-0056877d97",
+    "name": "Fcking Craft Pub",
+    "address": "Новослободская ул., 16А",
+    "subway": [
+      "Новослободская"
+    ],
+    "coordinates": {
+      "lat": 55.782082,
+      "lng": 37.599597
+    },
+    "drinkupIds": [
+      78,
+      71,
+      40,
+      29,
+      27,
+      22
+    ],
+    "drinkupCount": 6,
+    "firstDateISO": "2016-12-22",
+    "lastDateISO": "2019-06-06",
+    "types": [
+      "regular"
+    ]
+  },
+  {
+    "id": "va-33a1164bf0",
+    "name": "МореПиva",
+    "address": "Баррикадная улица, 2/1с1",
+    "subway": [
+      "Баррикадная"
+    ],
+    "coordinates": {
+      "lat": 55.759481,
+      "lng": 37.583032
+    },
+    "drinkupIds": [
+      75
+    ],
+    "drinkupCount": 1,
+    "firstDateISO": "2019-01-10",
+    "lastDateISO": "2019-01-10",
+    "types": [
+      "regular"
+    ]
+  },
+  {
+    "id": "31-b73415a226",
+    "name": "Гастропаб 31",
+    "address": "Шаболовка, 31г",
+    "subway": [
+      "Шаболовская"
+    ],
+    "coordinates": {
+      "lat": 55.720312,
+      "lng": 37.610115
+    },
+    "drinkupIds": [
+      68,
+      53,
+      30,
+      1
+    ],
+    "drinkupCount": 4,
+    "firstDateISO": "2014-12-25",
+    "lastDateISO": "2018-09-27",
+    "types": [
+      "regular"
+    ]
+  },
+  {
+    "id": "venue-863f2ebad4",
+    "name": "Питчер",
+    "address": "Большой Спасоглинищевский переулок, 3с5",
+    "subway": [
+      "Добрынинская"
+    ],
+    "coordinates": {
+      "lat": 55.75643,
+      "lng": 37.635269
+    },
+    "drinkupIds": [
+      66,
+      10
+    ],
+    "drinkupCount": 2,
+    "firstDateISO": "2016-05-05",
+    "lastDateISO": "2018-08-23",
+    "types": [
+      "regular"
+    ]
+  },
+  {
+    "id": "venue-0fc2a96451",
+    "name": "Ян Примус",
+    "address": "Спартаковская улица, 23",
+    "subway": [
+      "Бауманская"
+    ],
+    "coordinates": {
+      "lat": 55.773161,
+      "lng": 37.678011
+    },
+    "drinkupIds": [
+      65
+    ],
+    "drinkupCount": 1,
+    "firstDateISO": "2018-08-02",
+    "lastDateISO": "2018-08-02",
+    "types": [
+      "regular"
+    ]
+  },
+  {
+    "id": "white-eagles-pub-c93278d948",
+    "name": "White Eagles Pub",
+    "address": "Козицкий переулок, 1Ас2",
+    "subway": [
+      "Тверская"
+    ],
+    "coordinates": {
+      "lat": 55.76482,
+      "lng": 37.608
+    },
+    "drinkupIds": [
+      62,
+      57,
+      48,
+      47,
+      25
+    ],
+    "drinkupCount": 5,
+    "firstDateISO": "2017-02-09",
+    "lastDateISO": "2018-07-05",
+    "types": [
+      "regular"
+    ]
+  },
+  {
+    "id": "venue-c1a3acfddc",
+    "name": "Джон Донн",
+    "address": "Никитский бульвар, 12",
+    "subway": [
+      "Арбатская"
+    ],
+    "coordinates": {
+      "lat": 55.755462,
+      "lng": 37.600417
+    },
+    "drinkupIds": [
+      59,
+      14
+    ],
+    "drinkupCount": 2,
+    "firstDateISO": "2016-07-13",
+    "lastDateISO": "2018-05-31",
+    "types": [
+      "regular"
+    ]
+  },
+  {
+    "id": "craft-station-f99f305ece",
+    "name": "Craft Station",
+    "address": "Страстной бульвар, 4с3",
+    "subway": [
+      "Тверская"
+    ],
+    "coordinates": {
+      "lat": 55.764987,
+      "lng": 37.608212
+    },
+    "drinkupIds": [
+      56,
+      50
+    ],
+    "drinkupCount": 2,
+    "firstDateISO": "2017-12-28",
+    "lastDateISO": "2018-03-22",
+    "types": [
+      "regular"
+    ]
+  },
+  {
+    "id": "22-0158ec6795",
+    "name": "Крафтъ 22",
+    "address": "Симферопольский бульвар, 22к1",
+    "subway": [
+      "Севастопольская",
+      "Чертановская"
+    ],
+    "coordinates": {
+      "lat": 55.64802,
+      "lng": 37.604792
+    },
+    "drinkupIds": [
+      52
+    ],
+    "drinkupCount": 1,
+    "firstDateISO": "2018-01-25",
+    "lastDateISO": "2018-01-25",
+    "types": [
+      "regular"
+    ]
+  },
+  {
+    "id": "venue-28faa0a092",
+    "name": "Ветка",
+    "address": "улица Александра Солженицына, 44",
+    "subway": [
+      "Площадь Ильича",
+      "Таганская"
+    ],
+    "coordinates": {
+      "lat": 55.745562,
+      "lng": 37.66801
+    },
+    "drinkupIds": [
+      51,
+      46
+    ],
+    "drinkupCount": 2,
+    "firstDateISO": "2017-11-09",
+    "lastDateISO": "2018-01-18",
+    "types": [
+      "regular"
+    ]
+  },
+  {
+    "id": "kitchen-burger-bar-7489b8ae16",
+    "name": "Kitchen Burger Bar",
+    "address": "ул. Пятницкая, 82/34с1",
+    "subway": [
+      "Добрынинская"
+    ],
+    "coordinates": {
+      "lat": 55.730218,
+      "lng": 37.625307
+    },
+    "drinkupIds": [
+      44
+    ],
+    "drinkupCount": 1,
+    "firstDateISO": "2017-10-12",
+    "lastDateISO": "2017-10-12",
+    "types": [
+      "regular"
+    ]
+  },
+  {
+    "id": "cuba-fab1fadcfa",
+    "name": "Паб-ресторан Cuba",
+    "address": "Ленинградское шоссе, 84",
+    "subway": [
+      "Речной вокзал"
+    ],
+    "coordinates": {
+      "lat": 55.84901,
+      "lng": 37.475204
+    },
+    "drinkupIds": [
+      42
+    ],
+    "drinkupCount": 1,
+    "firstDateISO": "2017-09-14",
+    "lastDateISO": "2017-09-14",
+    "types": [
+      "regular"
+    ]
+  },
+  {
+    "id": "dark-patricks-pub-4072b2f4ad",
+    "name": "Dark Patricks Pub",
+    "address": "Большой Златоустинский переулок, 1с1",
+    "subway": [
+      "Лубянка"
+    ],
+    "coordinates": {
+      "lat": 55.759979,
+      "lng": 37.631529
+    },
+    "drinkupIds": [
+      41,
+      34
+    ],
+    "drinkupCount": 2,
+    "firstDateISO": "2017-06-01",
+    "lastDateISO": "2017-08-24",
+    "types": [
+      "regular"
+    ]
+  },
+  {
+    "id": "venue-88a542e223",
+    "name": "Пес Борода",
+    "address": "Трубная, 15",
+    "subway": [
+      "Цветной бульвар"
+    ],
+    "coordinates": {
+      "lat": 55.769373,
+      "lng": 37.624849
+    },
+    "drinkupIds": [
+      32
+    ],
+    "drinkupCount": 1,
+    "firstDateISO": "2017-04-27",
+    "lastDateISO": "2017-04-27",
+    "types": [
+      "regular"
+    ]
+  },
+  {
+    "id": "venue-6e3cc888f2",
+    "name": "Падди'с",
+    "address": "улица Бутырский Вал, 2",
+    "subway": [
+      "Белорусская"
+    ],
+    "coordinates": {
+      "lat": 55.777133,
+      "lng": 37.585154
+    },
+    "drinkupIds": [
+      26
+    ],
+    "drinkupCount": 1,
+    "firstDateISO": "2017-02-16",
+    "lastDateISO": "2017-02-16",
+    "types": [
+      "regular"
+    ]
+  },
+  {
+    "id": "beertep-craft-pub-0998c03ac8",
+    "name": "Beertep Craft Pub",
+    "address": "улица Адмирала Макарова, 6с13",
+    "subway": [
+      "Водный стадион"
+    ],
+    "coordinates": {
+      "lat": 55.835721,
+      "lng": 37.490362
+    },
+    "drinkupIds": [
+      20
+    ],
+    "drinkupCount": 1,
+    "firstDateISO": "2016-11-17",
+    "lastDateISO": "2016-11-17",
+    "types": [
+      "regular"
+    ]
+  },
+  {
+    "id": "venue-c1851d501f",
+    "name": "Борода",
+    "address": "Покровка, 16",
+    "subway": [
+      "Чистые пруды"
+    ],
+    "coordinates": {
+      "lat": 55.759157,
+      "lng": 37.645744
+    },
+    "drinkupIds": [
+      17
+    ],
+    "drinkupCount": 1,
+    "firstDateISO": "2016-10-13",
+    "lastDateISO": "2016-10-13",
+    "types": [
+      "regular"
+    ]
+  },
+  {
+    "id": "beer-happens-5407b96aaa",
+    "name": "Beer Happens",
+    "address": "улица Сретенка, 24/2с1",
+    "subway": [
+      "Сухаревская"
+    ],
+    "coordinates": {
+      "lat": 55.769879,
+      "lng": 37.632445
+    },
+    "drinkupIds": [
+      15
+    ],
+    "drinkupCount": 1,
+    "firstDateISO": "2016-07-21",
+    "lastDateISO": "2016-07-21",
+    "types": [
+      "regular"
+    ]
+  },
+  {
+    "id": "piligrim-a22bb40c9a",
+    "name": "Piligrim",
+    "address": "Колокольников пер., 22, стр. 5",
+    "subway": [
+      "Сухаревская",
+      "Цветной бульвар"
+    ],
+    "coordinates": {
+      "lat": 55.767919,
+      "lng": 37.62934
+    },
+    "drinkupIds": [
+      9,
+      8,
+      7,
+      5
+    ],
+    "drinkupCount": 4,
+    "firstDateISO": "2015-08-20",
+    "lastDateISO": "2016-03-17",
+    "types": [
+      "regular"
+    ]
+  },
+  {
+    "id": "hophead-02a5f98154",
+    "name": "HopHead",
+    "address": "Фридриха Энгельса, 20с1",
+    "subway": [
+      "Бауманская"
+    ],
+    "coordinates": {
+      "lat": 55.772375,
+      "lng": 37.683149
+    },
+    "drinkupIds": [
+      6
+    ],
+    "drinkupCount": 1,
+    "firstDateISO": "2015-09-03",
+    "lastDateISO": "2015-09-03",
+    "types": [
+      "regular"
+    ]
+  }
+]
